@@ -1,4 +1,5 @@
 <script lang='ts'>
+  
 
 export let data
 // console.log(data.trnscript)
@@ -50,6 +51,7 @@ let värit = [
 ]
 
 </script>
+
 
 <pre>{JSON.stringify(data.trnscript.metadata)}</pre>
 
