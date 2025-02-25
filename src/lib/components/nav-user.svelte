@@ -1,10 +1,7 @@
 <script lang="ts">
-	import BadgeCheck from "lucide-svelte/icons/badge-check";
-	import Bell from "lucide-svelte/icons/bell";
 	import ChevronsUpDown from "lucide-svelte/icons/chevrons-up-down";
 	import CreditCard from "lucide-svelte/icons/credit-card";
 	import LogOut from "lucide-svelte/icons/log-out";
-	import Sparkles from "lucide-svelte/icons/sparkles";
 	import UsersIcon from "lucide-svelte/icons/users";
 	import SettingsIcon from "lucide-svelte/icons/settings";
 	import FileCogIcon from "lucide-svelte/icons/file-cog";

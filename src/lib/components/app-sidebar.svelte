@@ -217,6 +217,9 @@
 						<a
 							href="##"
 							class="hover:bg-sidebar-accent hover:text-sidebar-accent-foreground flex flex-col items-start gap-2 whitespace-nowrap border-b p-4 text-sm leading-tight last:border-b-0"
+							onclick={() => {
+								sidebar.setOpen(false);
+							}}
 						>
 							<div class="flex w-full items-center gap-2">
 								<span>{mail.name}</span>{" "}
