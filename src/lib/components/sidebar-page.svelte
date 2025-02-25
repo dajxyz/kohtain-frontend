@@ -18,7 +18,7 @@
 					</Breadcrumb.Item>
 					<Breadcrumb.Separator class="hidden md:block" />
 					<Breadcrumb.Item>
-						<Breadcrumb.Page>Inbox</Breadcrumb.Page>
+						<Breadcrumb.Page>Asiakasyritys Oy</Breadcrumb.Page>
 					</Breadcrumb.Item>
 				</Breadcrumb.List>
 			</Breadcrumb.Root>

@@ -5,6 +5,13 @@
 	import CreditCard from "lucide-svelte/icons/credit-card";
 	import LogOut from "lucide-svelte/icons/log-out";
 	import Sparkles from "lucide-svelte/icons/sparkles";
+	import UsersIcon from "lucide-svelte/icons/users";
+	import SettingsIcon from "lucide-svelte/icons/settings";
+	import FileCogIcon from "lucide-svelte/icons/file-cog";
+	import FolderCogIcon from "lucide-svelte/icons/folder-cog";
+
+
+
 
 	import * as Avatar from "$lib/components/ui/avatar/index.js";
 	import * as DropdownMenu from "$lib/components/ui/dropdown-menu/index.js";
@@ -59,29 +66,34 @@
 				<DropdownMenu.Separator />
 				<DropdownMenu.Group>
 					<DropdownMenu.Item>
-						<Sparkles />
-						Upgrade to Pro
+						<UsersIcon />
+						Käyttäjät
+					</DropdownMenu.Item>
+					<DropdownMenu.Item>
+						<CreditCard />
+						Laskutus
 					</DropdownMenu.Item>
 				</DropdownMenu.Group>
 				<DropdownMenu.Separator />
 				<DropdownMenu.Group>
 					<DropdownMenu.Item>
-						<BadgeCheck />
-						Account
+						<SettingsIcon />
+						Asetukset
 					</DropdownMenu.Item>
 					<DropdownMenu.Item>
-						<CreditCard />
-						Billing
+						<FileCogIcon />
+						Tämän tiedoston asetukset
 					</DropdownMenu.Item>
 					<DropdownMenu.Item>
-						<Bell />
-						Notifications
+						<FolderCogIcon />
+						Tämän kansion asetukset
 					</DropdownMenu.Item>
+	
 				</DropdownMenu.Group>
 				<DropdownMenu.Separator />
 				<DropdownMenu.Item>
 					<LogOut />
-					Log out
+					Kirjaudu ulos
 				</DropdownMenu.Item>
 			</DropdownMenu.Content>
 		</DropdownMenu.Root>

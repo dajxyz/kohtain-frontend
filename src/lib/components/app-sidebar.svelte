@@ -4,6 +4,8 @@
 	import Inbox from "lucide-svelte/icons/inbox";
 	import Send from "lucide-svelte/icons/send";
 	import Trash2 from "lucide-svelte/icons/trash-2";
+	import AddFile from "lucide-svelte/icons/file-plus-2";
+	import AudioFileIcon from "lucide-svelte/icons/file-volume";
 
 	// This is sample data
 	const data = {
@@ -14,31 +16,19 @@
 		},
 		navMain: [
 			{
-				title: "Inbox",
+				title: "Haastattelut",
 				url: "#",
-				icon: Inbox,
+				icon: AudioFileIcon,
 				isActive: true,
 			},
 			{
-				title: "Drafts",
+				title: "Uusi",
 				url: "#",
-				icon: File,
+				icon: AddFile,
 				isActive: false,
 			},
 			{
-				title: "Sent",
-				url: "#",
-				icon: Send,
-				isActive: false,
-			},
-			{
-				title: "Junk",
-				url: "#",
-				icon: ArchiveX,
-				isActive: false,
-			},
-			{
-				title: "Trash",
+				title: "Roskakori",
 				url: "#",
 				icon: Trash2,
 				isActive: false,
@@ -214,11 +204,11 @@
 					{activeItem.title}
 				</div>
 				<Label class="flex items-center gap-2 text-sm">
-					<span>Unreads</span>
+					<span>Vain uudet</span>
 					<Switch class="shadow-none" />
 				</Label>
 			</div>
-			<Sidebar.Input placeholder="Type to search..." />
+			<Sidebar.Input placeholder="Hae teksteistä" />
 		</Sidebar.Header>
 		<Sidebar.Content>
 			<Sidebar.Group class="px-0">
