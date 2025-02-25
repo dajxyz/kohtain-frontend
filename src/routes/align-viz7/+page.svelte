@@ -1,26 +1,22 @@
 <script lang="ts">
-	import * as Card from '$lib/components/ui/card/index.js';
 	import * as Avatar from '$lib/components/ui/avatar/index.js';
 	import WavesurferControl from '$lib/components/wavesurfer_control.svelte';
 	import * as Breadcrumb from '$lib/components/ui/breadcrumb/index.js';
 	import { Separator } from '$lib/components/ui/separator/index.js';
 	import * as Sidebar from '$lib/components/ui/sidebar/index.js';
-	import Button from '$lib/components/ui/button/button.svelte';
-	import { useSidebar } from '$lib/components/ui/sidebar/index.js';
-	import ColoredTags from '$lib/components/ColoredTags.svelte';
 	import { getPositioner } from '$lib/slider.svelte.js';
 
-	// toggle code
-
-	import * as ToggleGroup from '$lib/components/ui/toggle-group/index.js';
 	const positioner = getPositioner();
 	let pos = $derived(positioner.position);
 
 	const { data } = $props();
 
 	let speaker_colours_medium = ['#394445', '#463C5B', '#67431E', '#5A242B'];
+	let speaker_colours_medium_alpha = ['#394445aa', '#463C5Baa', '#67431Eaa', '#5A242Baa'];
 
 	let speaker_colours_light = ['#ADBBBB', '#BBB2CE', '#E4B875', '#CB9DA1'];
+	let speaker_colours_light_alpha = ['#ADBBBBaa', '#BBB2CEaa', '#E4B875aa', '#CB9DA1aa'];
+
 
 	let speaker_colours = [
 		'#6060a6ff',
@@ -44,6 +40,8 @@
 			return 0;
 		}
 	}
+	
+
 
 	function stripHiddenTokens(text: string) {
 		let text1 = text.replace(/\[[^\]]{0,50}\]/, '');
@@ -192,90 +190,43 @@
 			}))
 	);
 
-	// console.log(displayTurns)
-	// toggle code
+	// These should be separate state variables, not derived values
+	let activeSpeakerIndex = $state(-1);
+	let activeUtteranceIndex = $state(-1);
+	let activeTokenIndices = $state([]);
 
-	// Get unique speakers from the filtered turns
-	const uniqueSpeakers = [...new Set(displayTurns.map((turn) => turn.speaker_letter))];
-
-	// Set up speaker filter state (initially all speakers visible)
-	let selectedSpeakers = new Set(uniqueSpeakers);
-	let toggleState = 'all'; // Can be "all", "none", or "custom"
-
-	// Filter the turns based on selected speakers
-	let filteredDisplayTurns = $derived(
-		displayTurns.filter((turn) => selectedSpeakers.has(turn.speaker_letter))
-	);
-
-	// Handle toggle selection
-	function handleToggle(value: string) {
-		if (value === 'all') {
-			selectedSpeakers = new Set(uniqueSpeakers);
-			toggleState = 'all';
-		} else if (value === 'none') {
-			selectedSpeakers = new Set();
-			toggleState = 'none';
-		} else {
-			// Individual speaker toggle - CORRECTED LOGIC
-			const newSelectedSpeakers = new Set(selectedSpeakers);
-
-			if (newSelectedSpeakers.has(value)) {
-				// If already selected, remove it (unselect the speaker)
-				newSelectedSpeakers.delete(value);
-			} else {
-				// If not selected, add it (select the speaker)
-				newSelectedSpeakers.add(value);
-			}
-
-			selectedSpeakers = newSelectedSpeakers;
-
-			// Update toggle state based on selection
-			if (newSelectedSpeakers.size === uniqueSpeakers.length) {
-				toggleState = 'all';
-			} else if (newSelectedSpeakers.size === 0) {
-				toggleState = 'none';
-			} else {
-				toggleState = 'custom';
-			}
-		}
-	}
-
-	// Tags / regex search
-	let tags = [];
-	function poistaKorostukset(event) {
-		tags = [];
-	}
-
-
-	// subscroller
-
-	let activeSpeakerIndex = $derived(() => {
-		return filteredDisplayTurns.findIndex(
-			(turn, i) => pos >= turn.start && (pos < turn.end || i === filteredDisplayTurns.length - 1)
+	// Update the active elements based on the current position
+	$effect(() => {
+		// Find active speaker turn
+		activeSpeakerIndex = displayTurns.findIndex(
+			(turn, i) => pos >= turn.start && (pos < turn.end || i === displayTurns.length - 1)
 		);
-	});
 
-	let activeUtteranceIndex = $derived(() => {
-		if (activeSpeakerIndex === -1) return -1;
-		const speakerTurn = filteredDisplayTurns[activeSpeakerIndex];
-		return speakerTurn.utterances.findIndex((utterance, i) => {
+		// Find active utterance
+		if (activeSpeakerIndex === -1) {
+			activeUtteranceIndex = -1;
+			activeTokenIndices = [];
+			return;
+		}
+
+		const speakerTurn = displayTurns[activeSpeakerIndex];
+		activeUtteranceIndex = speakerTurn.utterances.findIndex((utterance, i) => {
 			const fromSecs = convertTimestampToSeconds(utterance.timestamps.from);
 			const toSecs = convertTimestampToSeconds(utterance.timestamps.to);
 			return pos >= fromSecs && (pos < toSecs || i === speakerTurn.utterances.length - 1);
 		});
-	});
 
-	let activeTokenIndices = $derived(() => {
-		if (activeSpeakerIndex === -1 || activeUtteranceIndex === -1) return [];
+		// Find active tokens
+		if (activeUtteranceIndex === -1) {
+			activeTokenIndices = [];
+			return;
+		}
 
-		const speakerTurn = filteredDisplayTurns[activeSpeakerIndex];
 		const utterance = speakerTurn.utterances[activeUtteranceIndex];
-
-		return utterance.tokens
+		activeTokenIndices = utterance.tokens
 			.map((token, index) => {
 				const fromSecs = convertTimestampToSeconds(token.timestamps.from);
 				const toSecs = convertTimestampToSeconds(token.timestamps.to);
-				// Return the index if this token is currently active
 				if (pos >= fromSecs && pos < toSecs) {
 					return index;
 				}
@@ -284,14 +235,15 @@
 			.filter((index) => index !== -1);
 	});
 
-		$effect(() => {
-		console.log(activeSpeakerIndex)
-	});
-
+	// Debug log
 	// $effect(() => {
-	// 	console.log(pos)
+	// 	console.log("Position:", pos);
+	// 	console.log("Active speaker:", activeSpeakerIndex);
+	// 	console.log("Active utterance:", activeUtteranceIndex);
+	// 	console.log("Active tokens:", activeTokenIndices);
 	// });
-	console.log(displayTurns);
+
+	
 </script>
 
 <Sidebar.Inset>
@@ -308,62 +260,14 @@
 	</header>
 
 	<div class="container mx-auto p-4">
-		<WavesurferControl></WavesurferControl>
+		<WavesurferControl data={data}></WavesurferControl>
 	</div>
 
-	<!-- 
-	<Button onclick={poistaKorostukset}>Poista korostukset</Button>
-	<ColoredTags 
-		bind:tags={tags}
-		highlightColours={speaker_colours}
-		placeholder="Add search terms..."
-		onlyUnique={true}
-  /> -->
-
-	<!-- Add this at the top of your component, before the timeline -->
-	<!-- <div class="mb-4">
-		<div class="mb-2 font-medium">Suodata</div>
-		<div class="flex items-center gap-2">
-			<ToggleGroup.Root type="multiple" class="flex flex-wrap gap-2">
-				<ToggleGroup.Item
-					value="all"
-					variant={toggleState === 'all' ? 'default' : 'outline'}
-					size="sm"
-					class="px-3"
-					onclick={() => handleToggle('all')}
-				>
-					Kaikki
-				</ToggleGroup.Item>
-				<ToggleGroup.Item
-					value="none"
-					variant={toggleState === 'none' ? 'default' : 'outline'}
-					size="sm"
-					class="px-3"
-					onclick={() => handleToggle('none')}
-				>
-					Tyhjennä
-				</ToggleGroup.Item>
-
-				{#each uniqueSpeakers as speaker}
-					<ToggleGroup.Item
-						value={speaker}
-						variant={selectedSpeakers.has(speaker) ? 'default' : 'outline'}
-						size="sm"
-						class="px-3"
-						onclick={() => handleToggle(speaker)}
-					>
-						{speaker}
-					</ToggleGroup.Item>
-				{/each}
-			</ToggleGroup.Root>
-		</div>
-	</div> -->
-
 	<div class="container mx-auto p-4">
-		{#each filteredDisplayTurns as speakerTurn, i}
+		{#each displayTurns as speakerTurn, i}
 			<div
 				style="z-index: {200 - 2 * i}"
-				class="relative box-border flex items-baseline gap-2 rounded-xl border border-neutral-50 bg-[#fEfEfE] p-4 hover:border-neutral-300 hover:bg-white hover:shadow-md"
+				class="relative box-border flex items-baseline gap-2 rounded-xl border border-neutral-50 bg-[#fEfEfE] p-4 hover:border-neutral-300 hover:bg-white hover:shadow-md {i === activeSpeakerIndex ? 'border-blue-300' : ''}"
 			>
 				<div
 					style="z-index: {200 - 2 * i + 1}; background-color: {speaker_colours_light[
@@ -385,17 +289,25 @@
 						<div
 							class="mb-0 flex items-baseline gap-2 last:mb-0 {i === activeSpeakerIndex &&
 							j === activeUtteranceIndex
-								? 'rounded bg-blue-50 p-1'
+								? 'rounded'
 								: ''}"
+							style="background-color: {i === activeSpeakerIndex &&
+							j === activeUtteranceIndex
+								? speaker_colours_light_alpha[speakerTurn.speaker_id]
+								: 'inherit'}"
 						>
 							<div
 								class="w-[12ch] text-center font-mono text-sm xl:w-[25ch]"
 								style="color: {speaker_colours_medium[speakerTurn.speaker_id]}"
 							>
-								<p class="m-0">
-									[{dropMilliseconds(utterance.timestamps.from)}<span class="hidden xl:inline"
-										>&nbsp;- {dropMilliseconds(utterance.timestamps.to)}</span
-									>]
+								<p class="m-0 cursor-pointer ">
+									[<a class="hover:underline underline-offset-2" 
+											onclick={() => positioner.set((convertTimestampToSeconds(utterance.timestamps.from)))}
+											>
+											{dropMilliseconds(utterance.timestamps.from)}
+											<span class="hidden xl:inline"
+											>&nbsp;- {dropMilliseconds(utterance.timestamps.to)}</span
+									></a>]
 								</p>
 							</div>
 
@@ -405,8 +317,11 @@
 										{#each utterance.tokens as token, k}
 											<span
 												class={activeTokenIndices.includes(k)
-													? 'bg-blue-300 font-medium text-white'
+													? ' text-white'
 													: ''}
+												style="background-color: {activeTokenIndices.includes(k)
+													? speaker_colours_medium_alpha[speakerTurn.speaker_id]
+													: 'inherit'}"
 											>
 												{stripHiddenTokens(token.text)}
 											</span>
@@ -433,6 +348,9 @@
 			<p>Turns: {processedTurns.length}</p>
 			<p>Utterances: {processedUtterances.length}</p>
 			<p>Tokens: {processedTokens.length}</p>
+			<p>Current position: {pos}</p>
+			<p>Active speaker: {activeSpeakerIndex}</p>
+			<p>Active utterance: {activeUtteranceIndex}</p>
 		</div>
 	</details>
 </Sidebar.Inset>
