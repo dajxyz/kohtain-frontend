@@ -46,7 +46,7 @@
 	"dependencies": {
 		"init": "^0.1.2",
 		"shadcn-svelte-enhancements": "^0.1.1",
-		"wavesurfer": "^1.3.4",
+		"svelte-tags-input": "^6.0.2",
 		"wavesurfer.js": "^7.9.1"
 	}
 }

@@ -14,9 +14,9 @@ importers:
       shadcn-svelte-enhancements:
         specifier: ^0.1.1
         version: 0.1.1
-      wavesurfer:
-        specifier: ^1.3.4
-        version: 1.3.4
+      svelte-tags-input:
+        specifier: ^6.0.2
+        version: 6.0.2
       wavesurfer.js:
         specifier: ^7.9.1
         version: 7.9.1
@@ -1648,6 +1648,9 @@ packages:
       svelte:
         optional: true
 
+  svelte-tags-input@6.0.2:
+    resolution: {integrity: sha512-TKEuSk9qPTbEXs2Q1njatpYHDmGaK4kshr2W3xi6fZeHMACDr1USV+Yo0DF+1s2adzY4OIRxpGzfCb8n3aQduQ==}
+
   svelte-toolbelt@0.7.1:
     resolution: {integrity: sha512-HcBOcR17Vx9bjaOceUvxkY3nGmbBmCBBbuWLLEWO6jtmWH8f/QoWmbyUfQZrpDINH39en1b8mptfPQT9VKQ1xQ==}
     engines: {node: '>=18', pnpm: '>=8.7.0'}
@@ -1800,10 +1803,6 @@ packages:
 
   wavesurfer.js@7.9.1:
     resolution: {integrity: sha512-+pG8X9c9BrfAW8KR54OPzZcAj/57sOL08He/tc6/7Mt6NCX3IfDFwexQxXVTILggGZUOUk7tFKfny32yGrysKA==}
-
-  wavesurfer@1.3.4:
-    resolution: {integrity: sha512-Td6t6x8vtBWHQu8ijX+OW5O1z3uDOmHrvOl2P7l1638Cy+8MWLM6kYYp7UDNQc3OZgukm8T6Z5+Dnvie9Rjw0w==}
-    deprecated: Not_Official_Version_Correct_package_name_wavesurfer.js
 
   which@2.0.2:
     resolution: {integrity: sha512-BLI3Tl1TW3Pvl70l3yq3Y64i+awpwXqsGBYWkkqMtnbXgrMD+yj7rhW0kuEDxzJaYXGjEW5ogapKNMEKNMjibA==}
@@ -3207,6 +3206,8 @@ snapshots:
     optionalDependencies:
       svelte: 5.20.1
 
+  svelte-tags-input@6.0.2: {}
+
   svelte-toolbelt@0.7.1(svelte@5.20.1):
     dependencies:
       clsx: 2.1.1
@@ -3346,8 +3347,6 @@ snapshots:
       vite: 6.1.0(jiti@1.21.7)(yaml@2.7.0)
 
   wavesurfer.js@7.9.1: {}
-
-  wavesurfer@1.3.4: {}
 
   which@2.0.2:
     dependencies:
