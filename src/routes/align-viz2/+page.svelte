@@ -6,7 +6,7 @@ let scalingFactor = 30;
     export let data;
 
 
-    console.log("Turns array:", data.trnscript.turns);
+    // console.log("Turns array:", data.trnscript.turns);
     
     function convertTimestampToSeconds(timestamp: string | undefined): number {
         if (!timestamp) return 0;

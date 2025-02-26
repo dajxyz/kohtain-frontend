@@ -72,7 +72,7 @@
 		)
 		.filter((t) => t.hasData && t.width > 0);
 
-	console.log(processedTurns);
+	// console.log(processedTurns);
 </script>
 
 <div class="w-full overflow-x-auto bg-gray-100 p-5">

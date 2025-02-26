@@ -296,20 +296,20 @@
 								? speaker_colours_light_alpha[speakerTurn.speaker_id]
 								: 'inherit'}"
 						>
-							<div
-								class="w-[12ch] text-center font-mono text-sm xl:w-[25ch]"
-								style="color: {speaker_colours_medium[speakerTurn.speaker_id]}"
-							>
-								<p class="m-0 cursor-pointer ">
-									[<a class="hover:underline underline-offset-2" 
-											onclick={() => positioner.set((convertTimestampToSeconds(utterance.timestamps.from)))}
-											>
-											{dropMilliseconds(utterance.timestamps.from)}
-											<span class="hidden xl:inline"
-											>&nbsp;- {dropMilliseconds(utterance.timestamps.to)}</span
-									></a>]
-								</p>
-							</div>
+						<div
+						class="w-[12ch] text-center font-mono text-sm xl:w-[25ch] cursor-pointer"
+						style="color: {speaker_colours_medium[speakerTurn.speaker_id]}"
+						onclick={() => positioner.set(convertTimestampToSeconds(utterance.timestamps.from))}
+						role="button"
+						tabindex="0"
+						aria-label="Seek to {dropMilliseconds(utterance.timestamps.from)}"
+					  >
+						<p class="m-0 hover:underline underline-offset-2">
+						  [{dropMilliseconds(utterance.timestamps.from)}<span class="hidden xl:inline"
+							>&nbsp;- {dropMilliseconds(utterance.timestamps.to)}</span
+						  >]
+						</p>
+					  </div>
 
 							<div class="flex-1">
 								<p class="text-neutral-800">

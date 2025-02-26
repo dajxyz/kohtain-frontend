@@ -8,14 +8,14 @@ export function load() {
     console.log(filePath)
     let fileContent = fs.readFileSync(filePath, 'utf-8');
     let jsonData = JSON.parse(fileContent);
-    console.log(jsonData.metadata)
+    // console.log(jsonData.metadata)
 
 	try {
         // Read the JSON file
         const fileContent = fs.readFileSync(filePath, 'utf-8');
         const trnscript = JSON.parse(fileContent);
 
-        console.log(trnscript.metadata)
+        // console.log(trnscript.metadata)
 
         return {
             trnscript

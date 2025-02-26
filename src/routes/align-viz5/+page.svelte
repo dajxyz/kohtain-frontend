@@ -145,7 +145,7 @@
 			)
 		}));
 
-	console.log(displayTurns);
+	// console.log(displayTurns);
 </script>
 
 <div class="w-full overflow-x-auto bg-gray-100 p-5">

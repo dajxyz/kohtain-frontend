@@ -9,7 +9,7 @@
 	export let data;
 
 	let utteranceBlocks = data.trnscript.diarization_enhanced.results;
-	console.log(typeof utteranceBlocks);
+	// console.log(typeof utteranceBlocks);
 
 	let värit = [
 		'#78e9ff55',
@@ -122,7 +122,7 @@ function processTranscript(transcript: Utterance[]): TranscriptOutput {
 
 const processedUtteranceBlocks = processTranscript(utteranceBlocks);
 
-console.log(JSON.stringify(processedUtteranceBlocks, null, 2));
+// console.log(JSON.stringify(processedUtteranceBlocks, null, 2));
 
 
 

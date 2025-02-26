@@ -1,10 +1,9 @@
 <script lang="ts">
-	import * as bbcAudioWaveform from '$lib/components/waveforms/1000690745960.json';
+
 	import { getPositioner } from '$lib/slider.svelte.js';
 	import PauseIcon from 'lucide-svelte/icons/pause';
 	import PlayIcon from 'lucide-svelte/icons/play';
 	import Button from '$lib/components/ui/button/button.svelte';
-
 
 
 	/** @type {{ data: string }} */
@@ -13,10 +12,31 @@
 	let wavesurfer: any;
 	let currentPlaybackPosition = $state(0);
 	const positioner = getPositioner();
-	const kuuid = data.data;
-	const bbcAudiowf = bbcAudioWaveform.data;
-	const audioSrc = '/audio-wav/1000690745960.wav'; // Define the audio source
+
+	const bbcAudiowf = data.data.audioWave.data;
+	const audioSrc = `/audio-mp3/${data.data.audioId}.mp3`; // Define the audio source
 	let isPlaying = $state(false);
+
+ // let's check that we have the right variable
+	const wavesurfer_audio_id = data.data.audioId;
+	console.log("/// ")
+	console.log("/// ")
+	console.log("/// ")
+	console.log("/// ")
+
+	console.log("wavesurfer_audio_id is:", wavesurfer_audio_id)
+	// console.log("wavesurfer waveform looks like :", bbcAudiowf)
+
+	console.log(data);
+
+
+	console.log("wavesurfer.svelte / audiowave.version", bbcAudiowf.version)
+    console.log("wavesurfer.svelte / audiowave.channels", bbcAudiowf.channels)
+    console.log("wavesurfer.svelte / audiowave.sample_rate", bbcAudiowf.sample_rate)
+    console.log("wavesurfer.svelte / audiowave.samples_per_pixel", bbcAudiowf.samples_per_pixel)
+    console.log("wavesurfer.svelte / audiowave.bits", bbcAudiowf.bits)
+    console.log("wavesurfer.svelte / audiowave.length", bbcAudiowf.length)
+
 
 	async function waveform(node: any) {
 		try {
@@ -79,6 +99,33 @@
 			wavesurfer.play();
 		}
 	}
+
+
+  function handleKeydown(event) {
+    // Space key for play/pause
+    if (event.code === 'Space' && !event.target.matches('input, textarea, [contenteditable]')) {
+      event.preventDefault(); // Prevent page scrolling
+      if (wavesurfer) {
+        if (isPlaying) {
+          wavesurfer.pause();
+        } else {
+          wavesurfer.play();
+        }
+      }
+    }
+  }
+  
+  // Setup keyboard listener when component mounts
+  $effect(() => {
+    window.addEventListener('keydown', handleKeydown);
+    
+    // Cleanup when component unmounts
+    return () => {
+      window.removeEventListener('keydown', handleKeydown);
+    };
+  });
+
+
 </script>
 
 <div class="flex-col gap-y-8">

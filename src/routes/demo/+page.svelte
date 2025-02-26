@@ -5,7 +5,7 @@ export let data
 // console.log(data.trnscript)
 
 let utteranceBlocks = data.trnscript.diarization_enhanced.results
-console.log(typeof(utteranceBlocks))
+// console.log(typeof(utteranceBlocks))
 
 let värit = [
 	"#78e9ff55",

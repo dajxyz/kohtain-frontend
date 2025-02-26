@@ -1,128 +1,127 @@
 <script lang="ts" module>
-	import ArchiveX from "lucide-svelte/icons/archive-x";
-	import File from "lucide-svelte/icons/file";
-	import Inbox from "lucide-svelte/icons/inbox";
-	import Send from "lucide-svelte/icons/send";
-	import Trash2 from "lucide-svelte/icons/trash-2";
-	import AddFile from "lucide-svelte/icons/file-plus-2";
-	import AudioFileIcon from "lucide-svelte/icons/file-volume";
+	import ArchiveX from 'lucide-svelte/icons/archive-x';
+	import File from 'lucide-svelte/icons/file';
+	import Inbox from 'lucide-svelte/icons/inbox';
+	import Send from 'lucide-svelte/icons/send';
+	import Trash2 from 'lucide-svelte/icons/trash-2';
+	import AddFile from 'lucide-svelte/icons/file-plus-2';
+	import AudioFileIcon from 'lucide-svelte/icons/file-volume';
+
 
 	// This is sample data
 	const data = {
 		user: {
-			name: "Daniel Jyllikoski",
-			email: "daniel@jyllikoski.fi",
-			avatar: "/avatars/shadcn.jpg",
+			name: 'Daniel Jyllikoski',
+			email: 'daniel@jyllikoski.fi',
+			avatar: '/avatars/shadcn.jpg'
 		},
 		navMain: [
 			{
-				title: "Haastattelut",
-				url: "#",
+				title: 'Haastattelut',
+				url: '#',
 				icon: AudioFileIcon,
-				isActive: true,
+				isActive: true
 			},
 			{
-				title: "Uusi",
-				url: "#",
+				title: 'Uusi',
+				url: '#',
 				icon: AddFile,
-				isActive: false,
+				isActive: false
 			},
 			{
-				title: "Roskakori",
-				url: "#",
+				title: 'Roskakori',
+				url: '#',
 				icon: Trash2,
-				isActive: false,
-			},
+				isActive: false
+			}
 		],
-		mails: [
+		podcasts: [
 			{
-				name: "William Smith",
-				email: "williamsmith@example.com",
-				subject: "Meeting Tomorrow",
-				date: "09:34 AM",
-				teaser: "Hi team, just a reminder about our meeting tomorrow at 10 AM.\nPlease come prepared with your project updates.",
+				podid: '1000694721078',
+				name: 'HS Visio -podcast',
+				date: '21.2.2025',
+				subject: 'Eurooppa voi ratkaista sodan rahalla, vieraana Valtteri Ahti',
+				teaser: ''
 			},
 			{
-				name: "Alice Smith",
-				email: "alicesmith@example.com",
-				subject: "Re: Project Update",
-				date: "Yesterday",
-				teaser: "Thanks for the update. The progress looks great so far.\nLet's schedule a call to discuss the next steps.",
+				podid: '1000694507711',
+				name: 'Suomen nostatus',
+				date: '20.2.2025',
+				subject: 'Nyt Yhdysvallat tekee juuri sen, mitä toivomme',
+				teaser: ''
 			},
 			{
-				name: "Bob Johnson",
-				email: "bobjohnson@example.com",
-				subject: "Weekend Plans",
-				date: "2 days ago",
-				teaser: "Hey everyone! I'm thinking of organizing a team outing this weekend.\nWould you be interested in a hiking trip or a beach day?",
+				podid: '1000694237224',
+				name: 'Futucast',
+				date: '20.2.2025',
+				subject: 'Tony Rehn | Muovia hiilidioksidista - miten päästöistä tehdään raaka-ainetta',
+				teaser: ''
 			},
 			{
-				name: "Emily Davis",
-				email: "emilydavis@example.com",
-				subject: "Re: Question about Budget",
-				date: "2 days ago",
-				teaser: "I've reviewed the budget numbers you sent over.\nCan we set up a quick call to discuss some potential adjustments?",
+				podid: '1000690745960',
+				name: 'Futucast',
+				date: '10.2.2025',
+				subject:
+					'Ossi Kettunen | Arktisen alueen geopolitiikka: Trump, Grönlanti, Kiina, Venäjä ja Suomi',
+				teaser: ''
 			},
 			{
-				name: "Michael Wilson",
-				email: "michaelwilson@example.com",
-				subject: "Important Announcement",
-				date: "1 week ago",
-				teaser: "Please join us for an all-hands meeting this Friday at 3 PM.\nWe have some exciting news to share about the company's future.",
+				podid: '1000690742506',
+				name: 'Startup-ministeriö',
+				date: '10.2.2025',
+				subject: 'Näin Supercell, Wolt ja Slush tekevät PR-työtä feat Heini Vesander',
+				teaser: ''
 			},
 			{
-				name: "Sarah Brown",
-				email: "sarahbrown@example.com",
-				subject: "Re: Feedback on Proposal",
-				date: "1 week ago",
-				teaser: "Thank you for sending over the proposal. I've reviewed it and have some thoughts.\nCould we schedule a meeting to discuss my feedback in detail?",
+				podid: '1000689947691',
+				name: 'HS Visio -podcast',
+				date: '7.2.2025',
+				subject: 'Nvidia on suomalaisten kansanosake, vieraana Jukka Lepikkö',
+				teaser: ''
 			},
-			{
-				name: "David Lee",
-				email: "davidlee@example.com",
-				subject: "New Project Idea",
-				date: "1 week ago",
-				teaser: "I've been brainstorming and came up with an interesting project concept.\nDo you have time this week to discuss its potential impact and feasibility?",
-			},
-			{
-				name: "Olivia Wilson",
-				email: "oliviawilson@example.com",
-				subject: "Vacation Plans",
-				date: "1 week ago",
-				teaser: "Just a heads up that I'll be taking a two-week vacation next month.\nI'll make sure all my projects are up to date before I leave.",
-			},
-			{
-				name: "James Martin",
-				email: "jamesmartin@example.com",
-				subject: "Re: Conference Registration",
-				date: "1 week ago",
-				teaser: "I've completed the registration for the upcoming tech conference.\nLet me know if you need any additional information from my end.",
-			},
-			{
-				name: "Sophia White",
-				email: "sophiawhite@example.com",
-				subject: "Team Dinner",
-				date: "1 week ago",
-				teaser: "To celebrate our recent project success, I'd like to organize a team dinner.\nAre you available next Friday evening? Please let me know your preferences.",
-			},
-		],
+			{podid:"1000694985285", name: "Lauantaikerho", date: "22.2.2025", subject: "Vaalikevät sarastaa jo: Vaihtuuko valta Helsingissä? Lauantaikerho",teaser: "",},
+			{podid:"1000695190411", name: "Ysärin lapset", date: "23.2.2025", subject: "Uusi minisarja kertoo 90-luvun kännäävistä nuorista",teaser: "",},
+			{podid:"1000695009482", name: "inderesPodi", date: "22.2.2024", subject: "Tulosviikkosummaus (21.2.2025) | inderesPodi 222",teaser: "",},
+			{podid:"1000695442653", name: "#neuvottelija Sami Miettinen", date: "24.2.2025", subject: "Trumpin ajan vientipolitiikka | Rydman",teaser: "",},
+			{podid:"1000695356036", name: "Puheenaihe", date: "23.2.2025", subject: "Tekoäly: Neuroverkot, robotit ja evoluutio (Risto Miikkulainen)",teaser: "",},
+			{podid:"1000694751482", name: "inderesPodi", date: "21.2.2025", subject: "Näkökulmia vastuulliseen sijoittamiseen osa 1, vieraana Vesa Puttonen ",teaser: "",},
+			{podid:"1000695702568", name: "Väkevä elämä - Viisaampi mieli, vahvempi keho", date: "25.2.2025", subject: "Mikael Paajanen - Miten teet itsestäsi hybridiliikkujan, jolla on sekä voimaa että kestävyyttä?",teaser: "",},
+			{podid:"1000695422901", name: "Mimmit sijoittaa", date: "24.2.2025", subject: "K3 J2: Kannattaako NYT ostaa (sijoitus)asunto? Ekonomisti vastaa",teaser: "",},
+			{podid:"1000695440009", name: "Futucast", date: "24.2.2025", subject: "Jyri Kosola | Tulevaisuuden sotateknologia #517",teaser: "",},
+			{podid:"1000694633694", name: "Politiikan viikko", date: "21.2.2025", subject: "Jakso 17: Ukrainasta ilman Ukrainaa",teaser: "",},
+			{podid:"1000694811790", name: "Mikä meitä vaivaa?", date: "21.2.2025", subject: "Jakso 121: Latistuksen mankeli",teaser: "",},
+			{podid:"1000695645737", name: "Seinä kolmannelle", date: "24.2.2025", subject: "Brittifutispodcast: Mestaruustaisto on päättynyt",teaser: "",},
+			{podid:"1000695364559", name: "Puurojengi", date: "23.2.2025", subject: "86. Etikettikoulu",teaser: "",},
+			{podid:"1000694151332", name: "Puurojengi", date: "19.2.2025", subject: "85. Vältyin täpärästi kiroukselta",teaser: "",},
+			{podid:"1000695641515", name: "Bella Table", date: "24.2.2025", subject: "218. Ihaninta just nyt",teaser: "",},
+			{podid:"1000695413973", name: "Psykopodiaa", date: "24.2.2025", subject: "174. Tyhmä työelämä. Vieraana Mona Moisala.",teaser: "",},
+			{podid:"1000695735266", name: "Sijoituskästi", date: "25.2.2025", subject: "#207 Onko Trump seonnut? ft. Tero Kuittinen",teaser: "",},
+			// {podid:"1000694012385", name: "Amerikkapodi", date: "19.2.2025", subject: "MAGA-aalto löi Eurooppaan, J. D. Vance etsii aate­veljiä",teaser: "",},
+			// {podid:"1000693832063", name: "Elä viitti!", date: "19.2.2025", subject: "J65: Itse itsensä Islannin johtajaksi nimittänyt seikkailija",teaser: "",},
+			// {podid:"1000689442113", name: "Politbyroo", date: "5.2.2025", subject: "Halliksen puhemiesvaali; metsät, päästöt ja Multala; Trumpin kauppasota ja muut hommelit - 5.2.2025", teaser: "",}
+		]
 	};
 </script>
 
 <script lang="ts">
-	import NavUser from "$lib/components/nav-user.svelte";
-	import { Label } from "$lib/components/ui/label/index.js";
-	import * as Sidebar from "$lib/components/ui/sidebar/index.js";
-	import { useSidebar } from "$lib/components/ui/sidebar/index.js";
-	import { Switch } from "$lib/components/ui/switch/index.js";
-	import Command from "lucide-svelte/icons/command";
-	import type { ComponentProps } from "svelte";
+	import NavUser from '$lib/components/nav-user.svelte';
+	import { Label } from '$lib/components/ui/label/index.js';
+	import * as Sidebar from '$lib/components/ui/sidebar/index.js';
+	import { useSidebar } from '$lib/components/ui/sidebar/index.js';
+	import { Switch } from '$lib/components/ui/switch/index.js';
+	import Command from 'lucide-svelte/icons/command';
+	import type { ComponentProps } from 'svelte';
+	import { goto } from '$app/navigation'; // Import SvelteKit's goto function
 
 	let { ref = $bindable(null), ...restProps }: ComponentProps<typeof Sidebar.Root> = $props();
 
 	let activeItem = $state(data.navMain[0]);
-	let mails = $state(data.mails);
+	let podcasts = $state(data.podcasts);
 	const sidebar = useSidebar();
+
+	function navigateTo(path: string) {
+		goto(path);
+	}
 </script>
 
 <Sidebar.Root
@@ -142,7 +141,7 @@
 						{#snippet child({ props })}
 							<a href="##" {...props}>
 								<div
-									class="bg-sidebar-primary text-sidebar-primary-foreground flex aspect-square size-8 items-center justify-center rounded-lg"
+									class="flex aspect-square size-8 items-center justify-center rounded-lg bg-sidebar-primary text-sidebar-primary-foreground"
 								>
 									<Command class="size-4" />
 								</div>
@@ -164,15 +163,10 @@
 							<Sidebar.MenuItem>
 								<Sidebar.MenuButton
 									tooltipContentProps={{
-										hidden: false,
+										hidden: false
 									}}
 									onclick={() => {
 										activeItem = item;
-										const mail = data.mails.sort(() => Math.random() - 0.5);
-										mails = mail.slice(
-											0,
-											Math.max(5, Math.floor(Math.random() * 10) + 1)
-										);
 										sidebar.setOpen(true);
 									}}
 									isActive={activeItem.title === item.title}
@@ -198,37 +192,32 @@
 	<!-- This is the second sidebar -->
 	<!-- We disable collapsible and let it fill remaining space -->
 	<Sidebar.Root collapsible="none" class="hidden flex-1 md:flex">
-		<Sidebar.Header class="gap-3.5 border-b p-4">
+		<Sidebar.Header class="w-max-[40ch] gap-3.5 border-b p-4">
 			<div class="flex w-full items-center justify-between">
-				<div class="text-foreground text-base font-medium">
+				<div class="text-base font-medium text-foreground">
 					{activeItem.title}
 				</div>
-				<Label class="flex items-center gap-2 text-sm">
-					<span>Vain uudet</span>
-					<Switch class="shadow-none" />
-				</Label>
 			</div>
-			<Sidebar.Input placeholder="Hae teksteistä" />
+			<Sidebar.Input placeholder="Haku teksteistä (olisi varmaan hyvä)" />
 		</Sidebar.Header>
-		<Sidebar.Content>
+		<Sidebar.Content class="overflow-y-auto overflow-x-clip">
 			<Sidebar.Group class="px-0">
 				<Sidebar.GroupContent>
-					{#each mails as mail (mail.email)}
+					{#each podcasts as podcast (podcast.podid)}
 						<a
-							href="##"
-							class="hover:bg-sidebar-accent hover:text-sidebar-accent-foreground flex flex-col items-start gap-2 whitespace-nowrap border-b p-4 text-sm leading-tight last:border-b-0"
-							onclick={() => {
-								sidebar.setOpen(false);
-							}}
+							href="/transcript/{podcast.podid}"
+							data-sveltekit-preload-data="hover"
+							data-sveltekit-reload
+							class="flex flex-col items-start gap-2 whitespace-nowrap border-b p-4 text-sm leading-tight last:border-b-0 hover:bg-sidebar-accent hover:text-sidebar-accent-foreground"
 						>
-							<div class="flex w-full items-center gap-2">
-								<span>{mail.name}</span>{" "}
-								<span class="ml-auto text-xs">{mail.date}</span>
+							<div class="flex w-[260px] items-center gap-2">
+								<span>{podcast.name}</span>{' '}
+								<span class="ml-auto text-xs">{podcast.date}</span>
 							</div>
-							<span class="font-medium">{mail.subject}</span>
-							<span class="line-clamp-2 w-[260px] whitespace-break-spaces text-xs">
+							<span class="w-[260px] whitespace-break-spaces text-xs">{podcast.subject}</span>
+							<!-- <span class="line-clamp-2 w-[260px] whitespace-break-spaces text-xs">
 								{mail.teaser}
-							</span>
+							</span> -->
 						</a>
 					{/each}
 				</Sidebar.GroupContent>

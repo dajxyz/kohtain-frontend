@@ -240,12 +240,6 @@
 		}
 	}
 
-	// Tags / regex search
-	let tags = [];
-	function poistaKorostukset(event) {
-		tags = [];
-	}
-
 
 	// subscroller
 
@@ -288,10 +282,11 @@
 		console.log(activeSpeakerIndex)
 	});
 
-	// $effect(() => {
-	// 	console.log(pos)
-	// });
-	console.log(displayTurns);
+	$effect(() => {
+		console.log(pos)
+	});
+	
+	// console.log(displayTurns);
 </script>
 
 <Sidebar.Inset>
