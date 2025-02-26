@@ -24,5 +24,4 @@ vite.config.ts.timestamp-*
 
 # Audio & video files
 *.wav
-*.mp3
 *.mp4

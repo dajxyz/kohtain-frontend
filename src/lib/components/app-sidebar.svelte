@@ -83,7 +83,6 @@
 			{podid:"1000695190411", name: "Ysärin lapset", date: "23.2.2025", subject: "Uusi minisarja kertoo 90-luvun kännäävistä nuorista",teaser: "",},
 			{podid:"1000695009482", name: "inderesPodi", date: "22.2.2024", subject: "Tulosviikkosummaus (21.2.2025) | inderesPodi 222",teaser: "",},
 			{podid:"1000695442653", name: "#neuvottelija Sami Miettinen", date: "24.2.2025", subject: "Trumpin ajan vientipolitiikka | Rydman",teaser: "",},
-			{podid:"1000695356036", name: "Puheenaihe", date: "23.2.2025", subject: "Tekoäly: Neuroverkot, robotit ja evoluutio (Risto Miikkulainen)",teaser: "",},
 			{podid:"1000694751482", name: "inderesPodi", date: "21.2.2025", subject: "Näkökulmia vastuulliseen sijoittamiseen osa 1, vieraana Vesa Puttonen ",teaser: "",},
 			{podid:"1000695702568", name: "Väkevä elämä - Viisaampi mieli, vahvempi keho", date: "25.2.2025", subject: "Mikael Paajanen - Miten teet itsestäsi hybridiliikkujan, jolla on sekä voimaa että kestävyyttä?",teaser: "",},
 			{podid:"1000695422901", name: "Mimmit sijoittaa", date: "24.2.2025", subject: "K3 J2: Kannattaako NYT ostaa (sijoitus)asunto? Ekonomisti vastaa",teaser: "",},
