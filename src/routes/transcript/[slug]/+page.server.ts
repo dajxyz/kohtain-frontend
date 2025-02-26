@@ -6,8 +6,8 @@ export function load({ params }) {
     
     const audioId = params.slug;
 
-    const filePathTranscript = path.resolve(`transcripts/${audioId}-aligned.json`);
-    const filePathWaveform = path.resolve(`waveforms/${audioId}.json`);
+    const filePathTranscript = path.resolve(`static/transcripts/${audioId}-aligned.json`);
+    const filePathWaveform = path.resolve(`static/waveforms/${audioId}.json`);
 
     try {
         const fileContentTranscript = fs.readFileSync(filePathTranscript, 'utf-8');
