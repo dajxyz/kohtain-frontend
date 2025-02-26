@@ -23,6 +23,9 @@ importers:
       wavesurfer.js:
         specifier: ^7.9.1
         version: 7.9.1
+      wrangler:
+        specifier: ^3.110.0
+        version: 3.110.0(@cloudflare/workers-types@4.20250224.0)
     devDependencies:
       '@eslint/compat':
         specifier: ^1.2.5
