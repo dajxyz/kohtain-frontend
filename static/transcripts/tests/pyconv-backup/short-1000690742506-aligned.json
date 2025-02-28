@@ -1,0 +1,4220 @@
+[
+  {
+    "turn": {
+      "start": 2.57909375,
+      "end": 4.95846875
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 5.39721875,
+      "end": 6.730343750000001
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:00:04,780",
+          "to": "00:00:06,340"
+        },
+        "text": " Ehdottomasti.[_TT_317]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 7.185968750000001,
+      "end": 19.63971875
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:00:06,340",
+          "to": "00:00:19,180"
+        },
+        "text": " Koska sähän olit Slashin viestinnässä 2011-2013, sen jälkeen Supercellillä, sen jälkeen Piilaaksossa pelialalla ja sen jälkeen Voltin viestinnästä vastaava.[_TT_959]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 12.079718750000001,
+      "end": 12.36659375
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 19.80846875,
+      "end": 21.22596875
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:00:19,180",
+          "to": "00:00:21,100"
+        },
+        "text": " Ihan mieletön karjaari.[_TT_1055]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 21.85034375,
+      "end": 25.02284375
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:00:21,100",
+          "to": "00:00:24,980"
+        },
+        "text": " No kiitos, joo Slashista opin tärkeimmät.[_TT_1249]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 25.02284375,
+      "end": 35.14784375
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:00:24,980",
+          "to": "00:00:35,080"
+        },
+        "text": "[_BEG_] Hei, miten tota, jos puhutaan siitä ihan yrityksen alkuvaiheesta, niin mikä on sun neuvo founderille, joka juuri perustaa firmansa, saa ehkä ensimmäisen rahoituskierroksen, mitä sen pitää PR-n suhteen tehdä?[_TT_505]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 35.14784375,
+      "end": 46.50471875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:00:35,080",
+          "to": "00:00:38,080"
+        },
+        "text": " Se numero yksi on kirkastaa se, että mitä sillä PR-llä halutaan.[_TT_655]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:38,080",
+          "to": "00:00:43,680"
+        },
+        "text": " Halutaanko rekrytoida ihmisiä, halutaanko nostaa lisää rahaa, halutaanko saada asiakkaita, mikä se on, mitä halutaan.[_TT_935]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:43,680",
+          "to": "00:00:46,420"
+        },
+        "text": " Ja ihan täysin sitten sen mukaan luoda se viestintä.[_TT_1072]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 46.50471875,
+      "end": 50.75721875
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:00:46,420",
+          "to": "00:00:47,840"
+        },
+        "text": " No kerro, mä en malta olla kysymättä.[_TT_1143]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:47,840",
+          "to": "00:00:50,640"
+        },
+        "text": " Sä olit Supercellissä ihan alusta asti käytännössä viestinnässä.[_TT_1283]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 50.75721875,
+      "end": 52.29284375
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:00:50,640",
+          "to": "00:00:51,860"
+        },
+        "text": " Joo, olin aika alussa.[_TT_1344]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 51.80346875,
+      "end": 57.08534375
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:00:51,860",
+          "to": "00:00:53,680"
+        },
+        "text": "[_BEG_] Joo, niin mitä silloin ihan alussa?[_TT_91]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 55.515968750000006,
+      "end": 55.98846875
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 57.49034375,
+      "end": 61.89471875
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 60.392843750000004,
+      "end": 77.25096875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:01:01,720",
+          "to": "00:01:07,840"
+        },
+        "text": " Kyllähän ne tuotteet myy itse itteään siis tosi paljon, mutta ne tuotteethan ei kerro sitä tarinaa sen tuotteen takana.[_TT_799]"
+      },
+      {
+        "timestamps": {
+          "from": "00:01:07,840",
+          "to": "00:01:13,080"
+        },
+        "text": " Ja nehän ei kerro, että miten ne on luotu ja miten ne pelitiimit johdetaan, jotta nämä tuotteet saadaan tehtyä.[_TT_1061]"
+      },
+      {
+        "timestamps": {
+          "from": "00:01:13,080",
+          "to": "00:01:17,180"
+        },
+        "text": " Että siinähän viestinnällä ja PR-llä on iso merkitys, että voi kertoa sitä tarinaa niille, joita kiinnostaa se kuulu.[_TT_1266]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 77.18346875,
+      "end": 85.50284375000001
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:01:17,180",
+          "to": "00:01:19,540"
+        },
+        "text": " Eli te valitsitte tuollaisen toimialakulman.[_TT_1384]"
+      },
+      {
+        "timestamps": {
+          "from": "00:01:19,540",
+          "to": "00:01:20,120"
+        },
+        "text": " Joo.[_TT_1413]"
+      },
+      {
+        "timestamps": {
+          "from": "00:01:20,120",
+          "to": "00:01:25,320"
+        },
+        "text": "[_BEG_] Eli te tavallaan halusitte olla uusi toimiala ja kertoa sen uuden toimialan, eli mobiilipelien tarinaa.[_TT_260]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 85.28346875000001,
+      "end": 88.40534375
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:01:25,320",
+          "to": "00:01:28,180"
+        },
+        "text": " Kyllä, tosi paljon. Ja siinä oli niin myös se rekrytointikulma tosi tärkeä.[_TT_403]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 87.83159375000001,
+      "end": 101.56784375000001
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:01:28,180",
+          "to": "00:01:36,580"
+        },
+        "text": " Suositteleekö sä tota muille firmoille, koska aika monet meidänkin firmat miettii, että pitäisikö meidän tehdä PR-ää ikään kuin kiinnittämällä meidät siihen toimialatarinaan tai johonkin uuteen juttuun.[_TT_823]"
+      },
+      {
+        "timestamps": {
+          "from": "00:01:36,580",
+          "to": "00:01:41,360"
+        },
+        "text": " Vai tehdään vaan tätä firma PR-ää ikään kuin taktisesti, että meidän tuote tekee tätä tai tätä.[_TT_1062]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 88.52346875,
+      "end": 116.48534375000001
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:01:41,360",
+          "to": "00:01:48,380"
+        },
+        "text": " Ketään ei yleensä kiinnosta se taktinen tuotetarina, vaan niitä kiinnostaa se isompi juttu, joka on osa jotain laajempaa kokonaisuutta.[_TT_1413]"
+      },
+      {
+        "timestamps": {
+          "from": "00:01:48,380",
+          "to": "00:01:56,420"
+        },
+        "text": "[_BEG_] Niin todennäköisesti on enemmän menestystä sille, että tarttuu johonkin isompaan trendiin kuin vaan siihen omaan firmaan, ellei nyt sitten satu olemaan just tosi, tosi kuumaa asia.[_TT_402]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 116.48534375000001,
+      "end": 124.51784375000001
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:01:56,420",
+          "to": "00:02:02,760"
+        },
+        "text": " Miten tämä tarina luodaan uskottavasti? Koska mä oon ihan samaa mieltä, että alkavien startuppien pitäisi kertoa se laajempi toimialatarina.[_TT_719]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 119.62409375000001,
+      "end": 122.49284375
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 124.97346875000001,
+      "end": 129.24284375000002
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 129.49596875,
+      "end": 132.95534375
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:02:09,120",
+          "to": "00:02:12,700"
+        },
+        "text": " Se luodaan sitä kautta, että sulla on jo ne tulokset siinä kohtaa, kun sä rupeat sitä kertoa.[_TT_1216]"
+      },
+      {
+        "timestamps": {
+          "from": "00:02:12,700",
+          "to": "00:02:13,680"
+        },
+        "text": " Ja mitä ne tulokset on?[_TT_1265]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 132.65159375000002,
+      "end": 133.88346875000002
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 133.64721875,
+      "end": 142.00034375
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:02:13,680",
+          "to": "00:02:20,560"
+        },
+        "text": "[_BEG_] No siinä kohtaahan, siis olikohan Clash of Clans oli jo eniten ladattu peli, Hay Day oli ihan älyttömän menestyvä.[_TT_344]"
+      },
+      {
+        "timestamps": {
+          "from": "00:02:20,560",
+          "to": "00:02:21,800"
+        },
+        "text": " Mä en muista paljon, että...[_TT_406]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 141.51096875000002,
+      "end": 144.63284375
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:02:21,800",
+          "to": "00:02:24,100"
+        },
+        "text": " Eli sä laitoit tätä rullan pyörimään siinä kohtaa, kun siellä on tulokset.[_TT_521]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 142.70909375000002,
+      "end": 150.70784375000002
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:02:24,100",
+          "to": "00:02:30,100"
+        },
+        "text": " Just näin, just näin. Sä pistät ne muutamat luvut siihen, että heitä vaikka tehtiin miljardiliikevaihtoa, sitten ollaan sinne, että mikä, mikä firma, mitä.[_TT_821]"
+      },
+      {
+        "timestamps": {
+          "from": "00:02:30,100",
+          "to": "00:02:31,540"
+        },
+        "text": " Voitko niitä lukuja keksiä?[_TT_893]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 150.04971875,
+      "end": 155.09534375
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:02:31,540",
+          "to": "00:02:32,000"
+        },
+        "text": " Ei.[_TT_916]"
+      },
+      {
+        "timestamps": {
+          "from": "00:02:32,000",
+          "to": "00:02:34,620"
+        },
+        "text": " Tai laittaa vähän tällaisia vänitimetriikoja.[_TT_1047]"
+      },
+      {
+        "timestamps": {
+          "from": "00:02:34,620",
+          "to": "00:02:35,460"
+        },
+        "text": " Voi itseään valehdella.[_TT_1089]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 151.72034375,
+      "end": 155.70284375
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 155.70284375,
+      "end": 159.76971875
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:02:35,460",
+          "to": "00:02:39,500"
+        },
+        "text": " En mä valehdellut tarkoita, mutta aika monet firmat keksii tällaisia vänitimetriikoita.[_TT_1291]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 156.37784375,
+      "end": 163.12784375
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:02:39,520",
+          "to": "00:02:42,860"
+        },
+        "text": "[_BEG_] Joo, vänitimetriikoita voi keksiä. Kyllä, kyllä. Kyllä ne on olemassa.[_TT_167]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 161.13659375,
+      "end": 162.35159375
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 163.14471875,
+      "end": 163.17846875
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 163.17846875,
+      "end": 164.52846875
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:02:42,860",
+          "to": "00:02:44,460"
+        },
+        "text": " Meneekö ne läpi?[_TT_247]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 163.36409375000002,
+      "end": 168.57846875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:02:44,460",
+          "to": "00:02:48,720"
+        },
+        "text": " Riippuu, riippuu. Metriikasta ja riippuu toimittajasta.[_TT_460]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 169.40534375000001,
+      "end": 178.72034375
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:02:48,720",
+          "to": "00:02:58,580"
+        },
+        "text": " No onks tää vaan niin, että ainoastaan tällaisilla supermenestyksillä, joilla on jotain tällaista mieletöntä näyttöä, on chanssi kommunikoida hyvin?[_TT_953]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 178.72034375,
+      "end": 193.23284375
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:02:58,580",
+          "to": "00:03:03,020"
+        },
+        "text": " Ei, kyllä mun mielestä kaikilla on mahdollisuus tähän viestintään ja kaikilla on mahdollisuus nostaa sitä omaa tunnettuutta.[_TT_1175]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:03,020",
+          "to": "00:03:06,080"
+        },
+        "text": " Pitää vaan olla niin kuin realisti sen suhteen, että mitkä kanavat on todennäköisiä.[_TT_1328]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:06,080",
+          "to": "00:03:09,440"
+        },
+        "text": " Podcasteihin saattaa päästä puhua jopa niin kuin...[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:09,440",
+          "to": "00:03:13,160"
+        },
+        "text": "[_BEG_] Vaikka tänne alkuvaiheen startup-yrittäjähän saattaa päästä kertomaan sitä oman firman tarinaa.[_TT_186]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:13,160",
+          "to": "00:03:13,660"
+        },
+        "text": " Pääseekö?[_TT_211]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 193.23284375,
+      "end": 194.00909375
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 193.55346875,
+      "end": 200.23596875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:03:13,660",
+          "to": "00:03:17,500"
+        },
+        "text": " En mä tiedä. Riippuu niin kuin mä teen mitä se päättää.[_TT_403]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:17,500",
+          "to": "00:03:20,380"
+        },
+        "text": " Mä neuvoisin ainakin tulla tänne puhumaan.[_TT_547]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 194.41409375,
+      "end": 197.43471875
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 202.02471875,
+      "end": 215.84534375
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:03:26,360",
+          "to": "00:03:31,060"
+        },
+        "text": " Se mediakenttähän on muuttunut niin paljon, että nykyään sä et ole pelkästään sen toimittajakunnan varassa.[_TT_1081]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 208.60596875000002,
+      "end": 208.99409375000002
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 216.03096875,
+      "end": 216.04784375000003
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 216.04784375000003,
+      "end": 216.40221875
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 216.40221875,
+      "end": 220.18221875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:03:39,360",
+          "to": "00:03:40,420"
+        },
+        "text": "[_BEG_] Tai sun firmasta, jos ei muuta.[_TT_53]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 219.87846875000002,
+      "end": 240.22971875000002
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:03:40,420",
+          "to": "00:03:41,820"
+        },
+        "text": " Tää on muuten kiinnostava juttu.[_TT_123]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:41,820",
+          "to": "00:03:48,040"
+        },
+        "text": " Esimerkiksi yksi meidän portfoliofirma, Nosepower, joka tekee tällaisen tuulivoimapurjatta isolle rahtilaivoille.[_TT_434]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:48,040",
+          "to": "00:03:51,060"
+        },
+        "text": " Kymmenisen vuotta vanha firma, toimiala liikkuu äärimmäisen hitaasti.[_TT_585]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:51,060",
+          "to": "00:03:53,160"
+        },
+        "text": " Nyt lähtenyt räjähtävään kasvuun.[_TT_690]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:53,160",
+          "to": "00:03:58,020"
+        },
+        "text": " Mun mielestä toi sun tarina, minkä sä kerroit, on täysin noudatteleva esimerkiksi sitä firmaa.[_TT_933]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:58,020",
+          "to": "00:04:00,040"
+        },
+        "text": " Eli se PR oli aluksi hyvin taktista.[_TT_1034]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 221.85284375,
+      "end": 222.24096875
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 240.24659375000002,
+      "end": 243.72284375
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:04:00,040",
+          "to": "00:04:03,660"
+        },
+        "text": " Press release säästettiin kahdeksan prosenttia polttoainekuluja.[_TT_1215]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 240.33096875,
+      "end": 240.68534375000002
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 244.00971875000002,
+      "end": 262.62284375
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:04:03,660",
+          "to": "00:04:05,860"
+        },
+        "text": " Ja se suuna on asiakashankinta.[_TT_1325]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:06,040",
+          "to": "00:04:10,580"
+        },
+        "text": "[_BEG_] Eli asiakkaat heräisivät sille, että hetkinen, tää on firma, joka oikeasti tekee tällaisia tuloksia.[_TT_227]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:10,580",
+          "to": "00:04:15,260"
+        },
+        "text": " No se ei Financial Timesiin tietenkään kiinnostaa, että tämmöinen töttörö säästää kahdeksan prosenttia.[_TT_461]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:15,260",
+          "to": "00:04:19,500"
+        },
+        "text": " Mutta sitten kun alkaa olemaan isoja asiakkaat ja märskiä ja kaikkea muuta.[_TT_673]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:19,500",
+          "to": "00:04:22,480"
+        },
+        "text": " Ja se alkaa tavallaan näkyä, että hetkinen, että tällähän voidaan ottaa.[_TT_822]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 254.35409375,
+      "end": 255.34971875000002
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 263.01096875,
+      "end": 288.22221875
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:04:22,480",
+          "to": "00:04:26,760"
+        },
+        "text": " Tää on ainoa teknologia, jolla voidaan tuulivoima tuoda takaisin merenkulkuun.[_TT_1036]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:26,760",
+          "to": "00:04:29,600"
+        },
+        "text": " Ja sillä on itse asiassa aika iso ESG-merkitys.[_TT_1178]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:29,600",
+          "to": "00:04:35,740"
+        },
+        "text": " Ja se tulee läpi toimintaketjun puskeen sinne laivojen omistajille ja niiden operoijille.[_TT_1485]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:35,960",
+          "to": "00:04:37,900"
+        },
+        "text": "[_BEG_] Niin sit se yhtäkkiä onkin alkanut kiinnostaa.[_TT_97]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:37,900",
+          "to": "00:04:40,620"
+        },
+        "text": " Siis ihan edellisen 18 kuukauden aikana.[_TT_233]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:40,620",
+          "to": "00:04:45,860"
+        },
+        "text": " Mun mielestä siinä näkee, että se esimerkiksi sen firman Pera on tällä hetkellä muuttunut ihan toiseen asentoon.[_TT_495]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:45,860",
+          "to": "00:04:47,300"
+        },
+        "text": " Jufohan vetää sitä siellä nyt.[_TT_567]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 270.13221875,
+      "end": 270.45284375
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 280.59471875,
+      "end": 288.62721875
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 288.22221875,
+      "end": 288.25596875
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 288.82971875000004,
+      "end": 288.84659375
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 288.84659375,
+      "end": 304.97909375
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:04:54,080",
+          "to": "00:04:55,340"
+        },
+        "text": " Että siinä voi mennä monta vuotta.[_TT_969]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:55,340",
+          "to": "00:05:01,940"
+        },
+        "text": " Ja sit yhtäkkiä se vähän yllättää ne firmatkin, miten suuren kiinnostuksen kohteeksi ne joutuu.[_TT_1299]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:01,940",
+          "to": "00:05:04,840"
+        },
+        "text": " Vaikka ne tavallaan on tehneet sitä juttua jo kymmenen vuotta.[_TT_1444]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 289.30221875,
+      "end": 289.40346875
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 289.40346875,
+      "end": 289.90971875
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 289.90971875,
+      "end": 311.59409375
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:05:05,880",
+          "to": "00:05:11,420"
+        },
+        "text": "[_BEG_] Sun kellossa, kun aluksi oli tätä pumpulia, sit tuli product market fit ja sit tuli scale upia.[_TT_277]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 308.74221875,
+      "end": 312.11721875
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 311.94846875,
+      "end": 320.77409375
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:05:11,420",
+          "to": "00:05:14,760"
+        },
+        "text": " Ja sit sä olit yhtäkkiä hottest company in the valley.[_TT_444]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:14,760",
+          "to": "00:05:17,580"
+        },
+        "text": " Oli tää sun artikkelijuttu.[_TT_585]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:17,580",
+          "to": "00:05:20,280"
+        },
+        "text": " Se oli kello neljä olit hottest company in the valley.[_TT_720]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 314.83409375,
+      "end": 320.85846875000004
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 320.85846875000004,
+      "end": 320.87534375
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 320.87534375,
+      "end": 321.02721875000003
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 321.02721875000003,
+      "end": 326.24159375
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:05:20,280",
+          "to": "00:05:23,620"
+        },
+        "text": " Sit kello viisi oli rapid expansion and growth.[_TT_887]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:23,620",
+          "to": "00:05:26,060"
+        },
+        "text": " Ja sit kello kuusi oli greatest company in the world.[_TT_1009]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 326.24159375,
+      "end": 326.27534375000005
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 326.73096875000005,
+      "end": 331.01721875000004
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:05:26,060",
+          "to": "00:05:28,900"
+        },
+        "text": " Ja sit alkaa nää doubtit.[_TT_1151]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:28,900",
+          "to": "00:05:30,900"
+        },
+        "text": " Eli sit alkaa tulla kritiikkiä.[_TT_1251]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 329.04284375000003,
+      "end": 331.33784375000005
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 331.55721875,
+      "end": 335.64096875
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:05:30,900",
+          "to": "00:05:33,600"
+        },
+        "text": " Mitäs silloin pitää firman tehdä?[_TT_1386]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:33,600",
+          "to": "00:05:35,360"
+        },
+        "text": " Vetäytyy kuoreja kiistää kaikki.[_TT_1474]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 335.35409375,
+      "end": 339.65721875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:05:35,800",
+          "to": "00:05:37,920"
+        },
+        "text": "[_BEG_] Ei. Sitä ei pidä tehdä.[_TT_106]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:37,920",
+          "to": "00:05:39,640"
+        },
+        "text": " Mä oon kuullut, että se on hyvä strategia.[_TT_192]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 337.96971875,
+      "end": 339.77534375000005
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 339.77534375000005,
+      "end": 355.28346875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:05:39,640",
+          "to": "00:05:45,340"
+        },
+        "text": " Mun mielestä pitää muistaa se, että median tehtävähän on herätellä yhteiskunnallista keskustelua.[_TT_477]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:45,340",
+          "to": "00:05:48,380"
+        },
+        "text": " Ja median tehtävähän on vahtia ja kritisoida.[_TT_629]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:48,380",
+          "to": "00:05:49,500"
+        },
+        "text": " Ja nehän tekee duunia.[_TT_685]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:49,500",
+          "to": "00:05:54,020"
+        },
+        "text": " Se ei välttämättä tunnu kauhean kivalta, mutta siitä tunteesta pitää päästä yli.[_TT_911]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:54,020",
+          "to": "00:05:56,100"
+        },
+        "text": " Mä luulen, että siitä pitää suuttua.[_TT_1015]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 354.70971875000004,
+      "end": 356.26221875000005
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 357.27471875000003,
+      "end": 386.90721875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:06:00,960",
+          "to": "00:06:03,640"
+        },
+        "text": " Se, että suuttuu, on ehkä mun isoin vinkki Founderelle.[_TT_1392]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:05,720",
+          "to": "00:06:11,000"
+        },
+        "text": "[_BEG_] Mutta sehän on hyvä momentti katsoa, että hetkinen, mistä tää kritisoi?[_TT_264]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:11,000",
+          "to": "00:06:12,980"
+        },
+        "text": " Onks täs oikeesti jotain validia?[_TT_363]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:12,980",
+          "to": "00:06:15,000"
+        },
+        "text": " Onks täs jotain, mitä me voitais tehdä paremmin?[_TT_464]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:15,000",
+          "to": "00:06:19,040"
+        },
+        "text": " Ja sit jos näin on, niin sit sanoo sen ääneen ja sanoo, että hei, erittäin hyvä huomio.[_TT_666]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:19,040",
+          "to": "00:06:21,400"
+        },
+        "text": " Että totta, tää me ollaan munattu.[_TT_784]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:21,400",
+          "to": "00:06:23,700"
+        },
+        "text": " Me korjataan tää näin, näin ja näin ja näin.[_TT_899]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:23,700",
+          "to": "00:06:25,640"
+        },
+        "text": " Ja sit tekeekin ne asiat, missä sanoo.[_TT_996]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:25,640",
+          "to": "00:06:26,800"
+        },
+        "text": " Ja sit liikkuu eteenpäin.[_TT_1054]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 386.90721875,
+      "end": 421.02846875
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:06:26,800",
+          "to": "00:06:33,700"
+        },
+        "text": " Miten mä oon muuten monesti pohtinut, kun tulee firmoille tällaisia, niin eikö se olisi niiden firmojen oma tehtävä vahtia?[_TT_1399]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:33,700",
+          "to": "00:06:34,940"
+        },
+        "text": " Mä kerron toisen esimerkin.[_TT_1461]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:35,640",
+          "to": "00:06:40,000"
+        },
+        "text": "[_BEG_] Sissä oli silloin, muutama vuosi sitten oli näistä työsuhteista, oli tämmöinen kohu Hesarissa.[_TT_218]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:40,000",
+          "to": "00:06:44,980"
+        },
+        "text": " Mä olin silloin, ei kun Ilkka tais olla hallituksen PJ ja mä olin hallituksessa.[_TT_467]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:44,980",
+          "to": "00:06:50,640"
+        },
+        "text": " Ja sitten yksi toimittaja oli silleen, että kun tekin ootte noin kokeneita, niin etteikö te mukaan oikeasti ole vahtinut näitä asioita?[_TT_750]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:50,640",
+          "to": "00:06:54,680"
+        },
+        "text": " Että minkä takia median pitää löytää tällainen ja sitten korjataan?[_TT_952]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:54,680",
+          "to": "00:06:57,680"
+        },
+        "text": " Niin mä vähän mietin, että se on oikeasti aika hyvä kysymys.[_TT_1102]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 394.75409375000004,
+      "end": 395.10846875000004
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 395.10846875000004,
+      "end": 399.07409375000003
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 421.58534375000005,
+      "end": 423.76221875000005
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:07:03,620",
+          "to": "00:07:04,480"
+        },
+        "text": " Pitäisi.[_TT_1442]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 421.70346875,
+      "end": 435.43971875000005
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:07:04,480",
+          "to": "00:07:05,560"
+        },
+        "text": " Siis ehdottomasti sen.[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:05,560",
+          "to": "00:07:11,740"
+        },
+        "text": "[_BEG_] Tämän takiahan etenkin vähän isommissa firmoissa on compliancet ja on juristit ja on risk assessmentia.[_TT_309]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:11,740",
+          "to": "00:07:15,220"
+        },
+        "text": " Siksihän sitä tehdään, että niitä epäkohtia löydetään siinä liiketoiminnassa.[_TT_483]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 429.41534375000003,
+      "end": 437.76846875
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:07:15,220",
+          "to": "00:07:17,520"
+        },
+        "text": " Joo, mutta silloin tällöin media löytää jotain.[_TT_598]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 435.50721875000005,
+      "end": 451.65659375
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:07:17,520",
+          "to": "00:07:20,480"
+        },
+        "text": " Just niin ja sitten siihen ehkä herätään ja suhtaudutaan vähän vakavammin.[_TT_746]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:20,480",
+          "to": "00:07:24,900"
+        },
+        "text": " Kyllä me kaikki tiedetään, että sitten kun sä rakennat firmaa hirveästi kiireessä, tuhatta ja sataa,[_TT_967]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:24,900",
+          "to": "00:07:27,740"
+        },
+        "text": " sulla on miljoona asiaa, mitä pitää tehdä ja tuhat ja sitä prioriteetti.[_TT_1109]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:27,740",
+          "to": "00:07:31,880"
+        },
+        "text": " Ehkä numero yksi ei nyt ole sitten se compliance ja risk management.[_TT_1316]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 451.45409375,
+      "end": 459.38534375
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:07:31,880",
+          "to": "00:07:33,920"
+        },
+        "text": " Se on ihan totta.[_TT_1418]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:33,920",
+          "to": "00:07:35,400"
+        },
+        "text": " PRS on kiinnostavaa.[_TT_1492]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:35,480",
+          "to": "00:07:39,280"
+        },
+        "text": "[_BEG_] Tuossa oli mun lempi jääkiekkopelaaja Patrik Laineesta, oli mieletön henkilökuva.[_TT_190]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:39,280",
+          "to": "00:07:40,000"
+        },
+        "text": " Se oli hieno.[_TT_226]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 459.25034375,
+      "end": 460.14471875000004
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:07:40,000",
+          "to": "00:07:40,540"
+        },
+        "text": " Tesarissa.[_TT_253]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 459.89159375,
+      "end": 477.62721875000005
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:07:40,540",
+          "to": "00:07:45,200"
+        },
+        "text": " Ja se kuvasti mun mielestä vähän hyvin tällaista startuppiakin ja tätä sun kelloa.[_TT_486]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:45,200",
+          "to": "00:07:50,860"
+        },
+        "text": " Silloin kun tulee maaleja, niin saat jumala ja sitten kun maaleja ei tule, niin sitten kaikki on silleen,[_TT_769]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:50,860",
+          "to": "00:07:52,480"
+        },
+        "text": " että se olikin vaan tämmöinen one trick pony.[_TT_850]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:52,480",
+          "to": "00:07:55,440"
+        },
+        "text": " Se olikin vaan se class of clans ja heide.[_TT_998]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:55,440",
+          "to": "00:07:57,420"
+        },
+        "text": " Eihän sieltä mitään uusia pelejä enää tulekaan.[_TT_1097]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 477.52596875,
+      "end": 478.16721875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:07:57,420",
+          "to": "00:07:59,140"
+        },
+        "text": " Käy vähän tuuri.[_TT_1183]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 477.74534375,
+      "end": 486.16596875000005
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:07:59,140",
+          "to": "00:08:01,900"
+        },
+        "text": " Miltä tämä tuntuu?[_TT_1321]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:01,900",
+          "to": "00:08:05,320"
+        },
+        "text": " Ei se ainakaan suuttuu, mutta välillä tuntuu, että vähän epäreilusti ikään kuin koottuu.[_TT_1492]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:05,400",
+          "to": "00:08:06,080"
+        },
+        "text": "[_BEG_] Niin kyllä vaan firmoja.[_TT_34]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 484.24221875,
+      "end": 536.21721875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:08:06,080",
+          "to": "00:08:09,100"
+        },
+        "text": " Joo, siis no uutiset on uutisia.[_TT_185]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:09,100",
+          "to": "00:08:10,700"
+        },
+        "text": " Kaikki ihan kiinnostaa se uusi.[_TT_265]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:10,700",
+          "to": "00:08:16,780"
+        },
+        "text": " Ja tavallaan jos sä oot tehnyt jo jonkun asian ja sä teet sen saman uudelleen, sehän ei ole uutta ja se ei ole kiinnostavaa.[_TT_569]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:16,780",
+          "to": "00:08:22,440"
+        },
+        "text": " Että kokohan toi media-ala perustuu just siihen FOMOon ja siihen, että hei hetkinen, mikä juttu tää on, mikä juttu tää on.[_TT_852]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:22,440",
+          "to": "00:08:28,920"
+        },
+        "text": " Ja sit yritykselle, jotka tekee vaikka pelejä, jos ei se sun seuraava peli ole entistä isompi hitti,[_TT_1176]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:28,920",
+          "to": "00:08:31,400"
+        },
+        "text": " niin sit se on vähän sillä, että no mitä sitten.[_TT_1300]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:31,400",
+          "to": "00:08:35,320"
+        },
+        "text": " Ja pelialahan on semmoinen entertainment business, että sehän on aika epävarmuus.[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:35,320",
+          "to": "00:08:39,380"
+        },
+        "text": "[_BEG_] Varmaan sen suhteen, että tuleeko siitä sun seuraavasta pelistä isompi hitti kuin edellisestä.[_TT_203]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:39,380",
+          "to": "00:08:40,920"
+        },
+        "text": " Ja se on aika raaka ja brutaali.[_TT_280]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:40,920",
+          "to": "00:08:42,160"
+        },
+        "text": " Mutta näin se toimii.[_TT_342]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:42,160",
+          "to": "00:08:43,660"
+        },
+        "text": " Ja sitten sama ihan meidän Voltin kohdalla.[_TT_417]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:43,660",
+          "to": "00:08:49,980"
+        },
+        "text": " Kyllähän se medialle on mielenkiintoisempaa kirjoittaa niitä kärkkäitä kannanottoja, koska ihmiset klikkaa ja avaa niitä.[_TT_733]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:49,980",
+          "to": "00:08:54,580"
+        },
+        "text": " Että se pitää myös muistaa, että mediahan haluaa, että ihmiset tulee ja lukee niitä juttuja.[_TT_963]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:54,580",
+          "to": "00:08:56,080"
+        },
+        "text": " Että sit ne etsii myös niitä kulmia.[_TT_1038]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 517.4184687500001,
+      "end": 583.14659375
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:08:56,080",
+          "to": "00:09:04,380"
+        },
+        "text": " Miten hei sellainen ihan superkonkreettinen juttu, että kun mä olin Googlella product managerina ja lanseerattiin tuotteita,[_TT_1453]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:05,240",
+          "to": "00:09:09,140"
+        },
+        "text": "[_BEG_] ja mullakin oli niitä sellainen paletti niitä tuotteita, että melkein joka viikko lanseerattiin.[_TT_195]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:09,140",
+          "to": "00:09:12,980"
+        },
+        "text": " Yleensä ne oli joku uusi feature ja nyt ehkä ihan kokonaan uutta tuotetta sentään.[_TT_387]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:12,980",
+          "to": "00:09:15,020"
+        },
+        "text": " Mutta aika paljon oli tällaisia launcheja.[_TT_489]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:15,020",
+          "to": "00:09:24,320"
+        },
+        "text": " Ja sitten siellä mä opin tällaisen siitä Googlen PR-tiimiltä, että me jouduttiin aina tekemään tällainen niin sanottu proaktiivinen ja reaktiivinen.[_TT_954]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:24,320",
+          "to": "00:09:27,140"
+        },
+        "text": " Niin kuin kaksi eri tällaista PR-dokumenttia.[_TT_1095]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:27,140",
+          "to": "00:09:31,020"
+        },
+        "text": " Ja se proaktiivinen oli nämä asiat, mitä me haluttiin niin kuin itse kertoa.[_TT_1289]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:31,020",
+          "to": "00:09:35,160"
+        },
+        "text": " Jos kukaan vaan suostui kuuntelemaan, niin ne oli ne asiat, ne viestit.[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:35,160",
+          "to": "00:09:36,480"
+        },
+        "text": "[_BEG_] Mitä kerrottiin.[_TT_66]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:36,480",
+          "to": "00:09:39,660"
+        },
+        "text": " Mutta sitten tämä toinen oli itse asiassa paljon mielenkiintoisempi.[_TT_225]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:39,660",
+          "to": "00:09:41,540"
+        },
+        "text": " Ja se oli tällainen reaktiivinen.[_TT_319]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 543.4565937500001,
+      "end": 543.4734687499999
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 543.4734687499999,
+      "end": 571.4522187499999
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 583.45034375,
+      "end": 636.2522187500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:09:46,080",
+          "to": "00:09:47,540"
+        },
+        "text": " Ne sellaiset hankalat jutut.[_TT_619]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:47,540",
+          "to": "00:09:51,400"
+        },
+        "text": " Ja esimerkiksi Google, että siihen aikaan, kun mä vedin näitä tällaisia,[_TT_812]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:51,400",
+          "to": "00:09:57,200"
+        },
+        "text": " niissä oli aika paljon tällaisia uusia sosiaalisia featureita, vaikka jakamista, mitä ei ennen ollut Google tehnyt.[_TT_1102]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:57,200",
+          "to": "00:10:04,520"
+        },
+        "text": " Niin sitten me kutsuttiin kaikki nämä pahimmat viholliset, kaikki tällaiset privacy advocacy groupit,[_TT_1468]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:05,080",
+          "to": "00:10:09,900"
+        },
+        "text": "[_BEG_] civil liberties unionit, sun muut tällaiset, jotka jenkeissä on ne vahtikoirat.[_TT_241]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:09,900",
+          "to": "00:10:15,320"
+        },
+        "text": " Ja ne sai etukäteen nähdä nämä tulossa olevat tuotteet.[_TT_512]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:15,320",
+          "to": "00:10:19,880"
+        },
+        "text": " Ja sitten kertoa niistä pahimmat asiat, mitä ne eniten inhosi niissä.[_TT_740]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:19,880",
+          "to": "00:10:23,920"
+        },
+        "text": " Ja sitten sen pohjalta me jouduttiin laatimaan nämä reaktiiviset PR-dokumentit.[_TT_942]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:23,920",
+          "to": "00:10:25,860"
+        },
+        "text": " Ja mä väitän, että niistä tuli sen takia aika hyvin.[_TT_1039]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:25,860",
+          "to": "00:10:28,580"
+        },
+        "text": " Että miten sä suhtaudut tähän?[_TT_1175]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:28,580",
+          "to": "00:10:35,000"
+        },
+        "text": " Ja onko sulla neuvoja näihin liittyen just, että silloin kun firma päättää lähteä ulos jonkun jutun kanssa,[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:35,000",
+          "to": "00:10:36,100"
+        },
+        "text": "[_BEG_] ja kertoo siitä?[_TT_55]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 636.3703437500001,
+      "end": 672.44909375
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:10:36,100",
+          "to": "00:10:41,900"
+        },
+        "text": " Joo. Hyvä kysymys, ja siis ihan loistavaa duunia teidän Google PR-tiimiltä, pakko sanoa.[_TT_345]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:41,900",
+          "to": "00:10:46,000"
+        },
+        "text": " Siis joo, eli tavallaan siis yleensä on kaksi erilaista strategiaa.[_TT_550]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:46,000",
+          "to": "00:10:49,780"
+        },
+        "text": " Eli joko sä lähdet proaktiivisesti, sä lähdet nimenomaan vaikka lehdistötiedotteella,[_TT_739]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:49,780",
+          "to": "00:10:52,440"
+        },
+        "text": " pyydät toimittajia haastattelemaan, lähdet kertoa sitä uutista.[_TT_872]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:52,440",
+          "to": "00:10:55,560"
+        },
+        "text": " Ja sitten reaktiivinen on tosi usein varautumista vaikka sitten siihen,[_TT_1028]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:55,560",
+          "to": "00:10:59,080"
+        },
+        "text": " että jos joku asia kosahtaa mediaan, niin mitä sä sitten siinä kohtaa sanot.[_TT_1204]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:59,080",
+          "to": "00:11:03,080"
+        },
+        "text": " Mutta sitten sitä, niin kuin ainahan me tehdään preppityössä sitä,[_TT_1404]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:03,080",
+          "to": "00:11:04,920"
+        },
+        "text": " että sanotaan, että me ollaan nyt launchaamassa vaikka uudessaan.[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:04,920",
+          "to": "00:11:08,180"
+        },
+        "text": "[_BEG_] Niin meillä on tosi pitkä se reaktiivinen kuue taas sen suhteen,[_TT_163]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:08,180",
+          "to": "00:11:11,240"
+        },
+        "text": " että sitten kun kysytään jotain sellaisia kysymyksiä,[_TT_316]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 659.0334687500001,
+      "end": 670.8459687500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 672.8034687500001,
+      "end": 689.37471875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:11:17,060",
+          "to": "00:11:19,600"
+        },
+        "text": " tai jotain tällaista, että mitä niihin kannattaa vastata.[_TT_734]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:19,600",
+          "to": "00:11:24,940"
+        },
+        "text": " Ja viestinnätehtävähän on nimenomaan kysyä niitä vaikeita ja tosi inhoittavia kysymyksiä[_TT_1001]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:24,940",
+          "to": "00:11:26,640"
+        },
+        "text": " ennen kuin se toimittaja kysyy niitä.[_TT_1086]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:26,640",
+          "to": "00:11:29,380"
+        },
+        "text": " Että ollaan mietitty ennakkoon, että mitä kaikkea sieltä voi nousta.[_TT_1223]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 689.6953437500001,
+      "end": 691.7709687500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:11:29,380",
+          "to": "00:11:31,720"
+        },
+        "text": " Mä suosittelen tätä kaikille founderille.[_TT_1340]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 691.2478437500001,
+      "end": 696.1753437500001
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:11:31,720",
+          "to": "00:11:34,720"
+        },
+        "text": " Se on tosi hyvä, että ottaa ne vahtikoirat sinne.[_TT_1490]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:34,840",
+          "to": "00:11:36,120"
+        },
+        "text": "[_BEG_] Essiin kehittää sitä kuuetta.[_TT_64]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 691.7709687500001,
+      "end": 701.30534375
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:11:36,120",
+          "to": "00:11:41,140"
+        },
+        "text": " Joo. Sä olit superselli silloin, kun tehtiin näitä isoja yrityskauppoja vasta PR-stä.[_TT_315]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 700.32659375,
+      "end": 703.85346875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:11:41,140",
+          "to": "00:11:43,280"
+        },
+        "text": " Joo. Olin. Joo. Softback-diili silloin.[_TT_422]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 702.11534375,
+      "end": 726.60096875
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:11:43,280",
+          "to": "00:11:46,080"
+        },
+        "text": " Joo. Mä olin silloin, kun se julkaistiin Hesarissa.[_TT_562]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:46,080",
+          "to": "00:11:48,960"
+        },
+        "text": " Mä olin just kävelemässä Zen Robotiksi hallituksen kokoukseen.[_TT_706]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:48,960",
+          "to": "00:11:52,080"
+        },
+        "text": " Ja sitten yksi suomalainen vuorineuvos soitti mulle ja sanoi,[_TT_862]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:52,080",
+          "to": "00:11:55,720"
+        },
+        "text": " että Timo, nyt startupeista on vihdoin tullut jotakin.[_TT_1044]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:55,720",
+          "to": "00:12:01,280"
+        },
+        "text": " Eli te onnistuitte jossain.[_TT_1322]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:01,280",
+          "to": "00:12:02,240"
+        },
+        "text": " Kiva kuulla.[_TT_1370]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:04,760",
+          "to": "00:12:06,480"
+        },
+        "text": "[_BEG_] Oliko se vaikeaa, vai oliko se ihan vaan helppoa?[_TT_86]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 719.9015937500001,
+      "end": 781.84971875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:12:06,480",
+          "to": "00:12:08,880"
+        },
+        "text": " Se oli tosi haastava keissi sen suhteen,[_TT_206]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:08,880",
+          "to": "00:12:11,460"
+        },
+        "text": " että Softback on japanilainen pörstilistattu yhtiö,[_TT_335]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:11,460",
+          "to": "00:12:14,700"
+        },
+        "text": " eli niitä koskee tosi tiukat säännöt sen suhteen,[_TT_497]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:14,700",
+          "to": "00:12:16,440"
+        },
+        "text": " mitä saa kertoa ja milloin saa kertoa.[_TT_584]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:16,440",
+          "to": "00:12:18,840"
+        },
+        "text": " Jolloin me jouduttiin tekemään se koko viestintä,[_TT_704]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:18,840",
+          "to": "00:12:22,680"
+        },
+        "text": " niin kuin aikataulu heidän kellon mukaan,[_TT_896]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:22,680",
+          "to": "00:12:24,800"
+        },
+        "text": " eli Japanissa, mutta sitten samaan aikaan[_TT_1002]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:24,800",
+          "to": "00:12:26,540"
+        },
+        "text": " sulla on kaikki nämä jenkkisijoittajat,[_TT_1089]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:26,540",
+          "to": "00:12:28,040"
+        },
+        "text": " jotka on siinä jollain lailla messissä.[_TT_1164]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:28,040",
+          "to": "00:12:31,660"
+        },
+        "text": " Ja mulla meni ihan, mä olin ihan sairaan nuori vielä silloin,[_TT_1345]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:31,660",
+          "to": "00:12:34,300"
+        },
+        "text": " että se ei ollut, se oli ehkä ensimmäisiä tällaisia isompia keissejä,[_TT_1477]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:34,680",
+          "to": "00:12:36,660"
+        },
+        "text": "[_BEG_] niin mulla oli ihan älyttömästi aikaa,[_TT_99]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:36,660",
+          "to": "00:12:38,760"
+        },
+        "text": " että mä jotenkin tasapainoilin sen suhteen,[_TT_204]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:38,760",
+          "to": "00:12:40,540"
+        },
+        "text": " että kenen pitää nyt tietää tässä mitä.[_TT_293]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:40,540",
+          "to": "00:12:42,480"
+        },
+        "text": " Ja sitten Suomessa kuitenkin,[_TT_390]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:42,480",
+          "to": "00:12:47,320"
+        },
+        "text": " täällähän on asiat kerrottava transparentisti,[_TT_632]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:47,320",
+          "to": "00:12:49,640"
+        },
+        "text": " mikä tämä on, läpinäkyvästi ja avoimesti.[_TT_748]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:49,640",
+          "to": "00:12:52,560"
+        },
+        "text": " Että sitten sen, että sä pystyt balansoida sen japanilaisen tyylin,[_TT_894]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:52,560",
+          "to": "00:12:54,980"
+        },
+        "text": " että kerrotaan hyvin kontrolloidusti,[_TT_1015]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:54,980",
+          "to": "00:12:57,940"
+        },
+        "text": " tiedottaa ne jenkit, että ne on jotenkin tyytyväisiä,[_TT_1163]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:57,940",
+          "to": "00:12:59,540"
+        },
+        "text": " ja sitten kertoa sen Suomessa silleen,[_TT_1243]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:59,540",
+          "to": "00:13:01,640"
+        },
+        "text": " suomalaisille toimittajille luottamuksella,[_TT_1348]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 768.19784375,
+      "end": 768.7209687500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 781.59659375,
+      "end": 782.13659375
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 782.13659375,
+      "end": 785.22471875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:13:01,640",
+          "to": "00:13:04,600"
+        },
+        "text": " vaikka ehkä kaikki ei niin halua se tehtää,[_TT_1496]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 785.08971875,
+      "end": 787.23284375
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:13:04,600",
+          "to": "00:13:07,240"
+        },
+        "text": "[_BEG_] mutta itse tarina oli helppo tehdä.[_TT_132]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 787.4015937500001,
+      "end": 803.0109687500001
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:13:07,240",
+          "to": "00:13:10,220"
+        },
+        "text": " Joo, oli, mutta sitten totta kai kyllähän siinä vähän huoletti se,[_TT_281]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:10,220",
+          "to": "00:13:13,460"
+        },
+        "text": " etenkin kun Supercell on suomalainen darling ja näin,[_TT_443]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:13,460",
+          "to": "00:13:15,520"
+        },
+        "text": " ja sitten siitä myytiin 51 prosenttia ulkomaille,[_TT_546]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:15,520",
+          "to": "00:13:18,320"
+        },
+        "text": " että mikä se backlash sitten mahdollisesti siitä tulee olemaan.[_TT_686]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:18,320",
+          "to": "00:13:20,740"
+        },
+        "text": " Että sitten siihen tarvittiin sitä reaktiivista varautumista,[_TT_807]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:20,740",
+          "to": "00:13:22,920"
+        },
+        "text": " mutta sitä tuli itse asiassa aika vähän.[_TT_916]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 803.0109687500001,
+      "end": 813.77721875
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:13:22,920",
+          "to": "00:13:24,980"
+        },
+        "text": " Mä veikkaan, että sulle on ongelmia niiden sijoittajien takia,[_TT_1019]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:24,980",
+          "to": "00:13:27,160"
+        },
+        "text": " sen takia kun ne kaikki halusi ottaa liikaa kunniaa,[_TT_1128]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:27,160",
+          "to": "00:13:32,160"
+        },
+        "text": " ja viesti itse siitä, miten mahtavasti he oli kasvattamassa tätä firmaa.[_TT_1378]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 808.6809687500001,
+      "end": 819.10971875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:13:34,520",
+          "to": "00:13:35,280"
+        },
+        "text": "[_BEG_] Näitähän ne on.[_TT_38]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:35,280",
+          "to": "00:13:38,560"
+        },
+        "text": " Kyllähän sinä sijoittajana itse tiedät.[_TT_202]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 821.1853437500001,
+      "end": 823.21034375
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 823.21034375,
+      "end": 846.9365937500002
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:13:43,080",
+          "to": "00:13:44,620"
+        },
+        "text": " No Mikikin on tässä kertonut julkisesti,[_TT_505]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:44,620",
+          "to": "00:13:48,840"
+        },
+        "text": " että mehän oltiin koko ajan, me tehtiin kahta viestintäpreppiä,[_TT_716]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:48,840",
+          "to": "00:13:51,160"
+        },
+        "text": " eli sitä, että me nostetaan tosi iso rahoitusrundi,[_TT_832]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:51,160",
+          "to": "00:13:53,260"
+        },
+        "text": " tai myydään itsemme Dordeshille.[_TT_937]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:53,260",
+          "to": "00:13:56,540"
+        },
+        "text": " Että sehän oli semmoista hauskaa tasapainoilua sen suhteen,[_TT_1101]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:56,540",
+          "to": "00:13:58,320"
+        },
+        "text": " että minkä storin tästä pääsee kertomaan.[_TT_1190]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:58,320",
+          "to": "00:14:00,480"
+        },
+        "text": " Ja sitten siinä kohtaa se oli ekaa kertaa,[_TT_1298]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:00,480",
+          "to": "00:14:04,440"
+        },
+        "text": " kun mä tein noin ison yhdysvaltalaisen pörssiliistatun yhtiön[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:04,440",
+          "to": "00:14:05,420"
+        },
+        "text": "[_BEG_] kanssa viestintää.[_TT_49]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 838.24596875,
+      "end": 838.71846875
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 847.94909375,
+      "end": 895.62096875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:14:10,240",
+          "to": "00:14:15,860"
+        },
+        "text": " Huolihan oli se, että jenkit tulee ja kertoo,[_TT_571]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:15,860",
+          "to": "00:14:18,680"
+        },
+        "text": " että big acquisition ja bla bla bla.[_TT_712]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:18,680",
+          "to": "00:14:21,260"
+        },
+        "text": " Sanoin, että me ei voida Suomessa tehdä sitä ihan noin.[_TT_841]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:21,260",
+          "to": "00:14:26,600"
+        },
+        "text": " Että yhdysvaltalaisillakin firmoilla voi olla vähän kahtiakone maine.[_TT_1108]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:26,600",
+          "to": "00:14:29,800"
+        },
+        "text": " Että mietitään nyt, että miten me halutaan tämä stori kertoa.[_TT_1268]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:29,800",
+          "to": "00:14:32,080"
+        },
+        "text": " Ja heidän kanssa oli tosi hyvä tehdä sitä yhteistyötä.[_TT_1382]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:32,080",
+          "to": "00:14:34,260"
+        },
+        "text": " Ja ne antoi meidän tosi omaa,[_TT_1491]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:34,360",
+          "to": "00:14:36,340"
+        },
+        "text": "[_BEG_] omalla tyylillä kertoa sen tarinan täällä.[_TT_99]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:36,340",
+          "to": "00:14:37,840"
+        },
+        "text": " Ja se tarinahan oli nimenomaan sitä,[_TT_174]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:37,840",
+          "to": "00:14:41,380"
+        },
+        "text": " että we joined forces, eikä mikään väkivaltainen akvisitio.[_TT_351]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:41,380",
+          "to": "00:14:43,460"
+        },
+        "text": " Ja sehän on jatkunutkin niin,[_TT_455]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:43,460",
+          "to": "00:14:46,100"
+        },
+        "text": " että meillä on meidän oma brändi meidän maissa.[_TT_587]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:46,100",
+          "to": "00:14:48,740"
+        },
+        "text": " Ja ollaan jatkettu volttina hyvinkin itsenäisesti.[_TT_719]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:48,740",
+          "to": "00:14:52,360"
+        },
+        "text": " Mutta olihan se siis...[_TT_900]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:52,360",
+          "to": "00:14:55,600"
+        },
+        "text": " En mä muista niistä parista viikosta ihan hirveästi.[_TT_1062]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 895.5534687500001,
+      "end": 899.82284375
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:14:55,600",
+          "to": "00:14:59,400"
+        },
+        "text": " No nyt kun sä oot varmaan nuoresti ja sitten huolimatta[_TT_1252]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 899.82284375,
+      "end": 900.3459687500001
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 900.0759687500001,
+      "end": 920.0053437500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:14:59,400",
+          "to": "00:15:03,860"
+        },
+        "text": " kokenein suomalainen tällainen,[_TT_1475]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:04,280",
+          "to": "00:15:11,080"
+        },
+        "text": "[_BEG_] menestyvien startupien tätä viestintää suunnitteleva ja toteuttava henkilö.[_TT_340]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:11,080",
+          "to": "00:15:15,440"
+        },
+        "text": " Niin kun sä katsot suomalaisia firmoja, näitä startupeja,[_TT_558]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:15,440",
+          "to": "00:15:19,840"
+        },
+        "text": " niin mitkä on sellaisia yleisiä virheitä, mitä founderit tekee?[_TT_778]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 920.07284375,
+      "end": 958.8178437500001
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:15:19,840",
+          "to": "00:15:24,240"
+        },
+        "text": " Mä haluaisin nähdä enemmän sitä, että ihmiset miettii itse itselleen[_TT_998]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:24,240",
+          "to": "00:15:26,820"
+        },
+        "text": " hyvin kirkkaasti sen, että mitkä on ne asiat, mistä haluaa puhua.[_TT_1127]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:26,820",
+          "to": "00:15:29,220"
+        },
+        "text": " Mitkä on ne asiat, mistä haluaa, että on mielipide.[_TT_1247]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:29,220",
+          "to": "00:15:32,180"
+        },
+        "text": " Ja mitkä on ne asiat, mistä haluaa olla mukana siinä keskustelussa.[_TT_1395]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:32,180",
+          "to": "00:15:33,840"
+        },
+        "text": " Mä haluaisin nähdä paljon enemmän yhteistyötä.[_TT_1478]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:34,200",
+          "to": "00:15:35,180"
+        },
+        "text": "[_BEG_] Yhteistyötä startupien välillä.[_TT_49]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:35,180",
+          "to": "00:15:40,100"
+        },
+        "text": " Että Suomi on kuitenkin niin pieni takapajula täällä kaukana pohjoisessa,[_TT_295]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:40,100",
+          "to": "00:15:42,880"
+        },
+        "text": " että meillähän olisi ihan älyttömän hyvä mahdollisuus siinä,[_TT_434]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:42,880",
+          "to": "00:15:45,920"
+        },
+        "text": " että startupit yhdessä vaikka kutsuisi ulkomaisia toimittajia.[_TT_586]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:45,920",
+          "to": "00:15:46,260"
+        },
+        "text": " Hyvä idea.[_TT_603]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:46,260",
+          "to": "00:15:49,000"
+        },
+        "text": " Jep, ja sitten sehän menee tuonne päättäjien suuntaan myös,[_TT_740]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:49,000",
+          "to": "00:15:52,220"
+        },
+        "text": " koska sitten taas startupit usein, ennen kuin siitä firmasta tulee mitään,[_TT_901]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:52,220",
+          "to": "00:15:54,380"
+        },
+        "text": " niin ollaan vähän silleen, että no onko toi nyt joku vai eikö se ole.[_TT_1009]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:54,380",
+          "to": "00:15:58,620"
+        },
+        "text": " Niin sitten olisi vähän silleen kredibiliteettiä myös isommalla äänellä puhua.[_TT_1221]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 945.8915937500001,
+      "end": 945.9422187500002
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 945.9422187500002,
+      "end": 946.0265937500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 946.0265937500001,
+      "end": 946.4484687500001
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 959.03721875,
+      "end": 974.95034375
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:15:58,620",
+          "to": "00:16:04,000"
+        },
+        "text": " Onko parempi, että founderi vääntää autotallissa tai toimiston nurkassa,[_TT_1490]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:04,120",
+          "to": "00:16:10,360"
+        },
+        "text": "[_BEG_] yötäpäivää, vaan teknologiaa, vai että founderi juoksee tuolla maita ja mantuja[_TT_312]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:10,360",
+          "to": "00:16:14,860"
+        },
+        "text": " kaiken maailman konferensseissa ja kokkareissa kertomassa niiden ilosanomaa?[_TT_537]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 974.95034375,
+      "end": 992.2978437500001
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:16:14,860",
+          "to": "00:16:18,120"
+        },
+        "text": " Kyllä mä sanoisin, että sen founderin kannattaa varmaan 80 prosenttia ajasta[_TT_700]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:18,120",
+          "to": "00:16:20,500"
+        },
+        "text": " keskittyä siellä autotallissa sen teknologian väätämiseen.[_TT_819]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:20,500",
+          "to": "00:16:24,040"
+        },
+        "text": " Ja sitten jopa siihen asti 100 prosenttia, kunnes sillä on joku tuote,[_TT_996]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:24,040",
+          "to": "00:16:27,180"
+        },
+        "text": " joku tuote, mistä kannattaa sitten mennä sinne konferensseihin puhumaan.[_TT_1153]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:27,180",
+          "to": "00:16:29,560"
+        },
+        "text": " Mutta jos sä teet 100 prosenttisesti pelkkää sitä teknologiaa,[_TT_1272]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:29,560",
+          "to": "00:16:32,200"
+        },
+        "text": " ja sä et ikinä siitä kellekään kerro, niin sittenhän se jää sinne autotalliin.[_TT_1404]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 992.2978437500001,
+      "end": 998.03534375
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:16:32,200",
+          "to": "00:16:33,980"
+        },
+        "text": " No mistä saa eniten bang?[_TT_1493]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:34,040",
+          "to": "00:16:38,220"
+        },
+        "text": "[_BEG_] Jos nyt jotain viestintää pitäisi tehdä tällaisen aloittelevan startupin?[_TT_209]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 997.76534375,
+      "end": 1034.9747187500002
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:16:38,220",
+          "to": "00:16:43,840"
+        },
+        "text": " Mun mielestä eniten bang for buck saa silloin, kun sä teet yhden isomman jutun,[_TT_490]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:43,840",
+          "to": "00:16:48,040"
+        },
+        "text": " ja sä leivot siihen ympärille mahdollisimman paljon, ja sä teet sen monikanavasti.[_TT_700]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:48,040",
+          "to": "00:16:51,400"
+        },
+        "text": " Eli on se nyt sitten vaikka, että launchataan joku iso uusi tuote,[_TT_868]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:51,400",
+          "to": "00:16:53,800"
+        },
+        "text": " ja sä saat siihen joku nimekkään asiakkaan mukaan.[_TT_988]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:53,800",
+          "to": "00:16:58,660"
+        },
+        "text": " Sä teet sen nimekkään asiakkaankaan yhteistyön, teette yhteiset mediahaastattelut ennakkoon,[_TT_1231]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:58,660",
+          "to": "00:17:03,960"
+        },
+        "text": " teette tosi hyvät sosiaalisen median postaukset, käytte podcasteissa kertomassa,[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:03,960",
+          "to": "00:17:06,880"
+        },
+        "text": "[_BEG_] teet omat linkkarit, puhut influencerilta.[_TT_146]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:06,880",
+          "to": "00:17:13,340"
+        },
+        "text": " Sä yrität mahdollisimman moniulotteisesti saada sen yhden storin ulos tiettynä aikaikkunana.[_TT_469]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:13,340",
+          "to": "00:17:15,300"
+        },
+        "text": " Mikä tämä aikaikkunan pituus on?[_TT_567]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1033.77659375,
+      "end": 1035.3965937500002
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1035.9197187500001,
+      "end": 1053.30096875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:17:15,300",
+          "to": "00:17:16,720"
+        },
+        "text": " Kaksi päivää.[_TT_638]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:16,720",
+          "to": "00:17:24,520"
+        },
+        "text": " Yleensä jos meillä on joku iso PR-ulostulo, niin me tehdään sitä preppiä viikko-tolkulla,[_TT_1028]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:24,520",
+          "to": "00:17:26,140"
+        },
+        "text": " mutta se on yleensä ihan yksi päivä.[_TT_1109]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:26,140",
+          "to": "00:17:30,900"
+        },
+        "text": " Sulla on mediaeventti ja kaikki ulos, ja sitten sitä follow-upia sen jälkeen niin pitkään kuin pystyy.[_TT_1347]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:30,900",
+          "to": "00:17:33,300"
+        },
+        "text": " Mutta puhutaan yleensä ihan parista päivästä.[_TT_1467]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1053.30096875,
+      "end": 1056.38909375
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:17:33,880",
+          "to": "00:17:36,240"
+        },
+        "text": "[_BEG_] Startuppien hankkii tällaista PR-toimistoa vai ei?[_TT_118]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1056.4734687500002,
+      "end": 1126.6903437500002
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:17:36,240",
+          "to": "00:17:39,400"
+        },
+        "text": " Mun mielestä PR-toimistoissa voi olla ihan hirveästi hyötyä.[_TT_276]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:39,400",
+          "to": "00:17:47,300"
+        },
+        "text": " Etenkin siihen, että se voi olla founderin vähän vaikea löytää sitä parasta tapaa kertoa se oma tarina,[_TT_671]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:47,300",
+          "to": "00:17:49,700"
+        },
+        "text": " koska sähän katsot sitä siitä sun omasta perspektiivistä.[_TT_791]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:49,700",
+          "to": "00:17:54,640"
+        },
+        "text": " Se mitä PR-toimistot tekee, niin nehän katsoo millaisia tarinoita tuolla maailmalla kerrotaan,[_TT_1038]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:54,640",
+          "to": "00:17:58,320"
+        },
+        "text": " ja mikä olisi hyvä, kiinnostava tapa kertoa nyt vaikka sun stori.[_TT_1222]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:58,320",
+          "to": "00:18:02,860"
+        },
+        "text": " Siihen ne on ihan ehdottoman hyviä, ja sitten myös heillä on niitä suhteita.[_TT_1449]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:03,800",
+          "to": "00:18:07,420"
+        },
+        "text": "[_BEG_] Kun PR on tosi paljon sitä, että kenet sä tunnet, kuka on se oikea toimittaja,[_TT_181]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:07,420",
+          "to": "00:18:10,220"
+        },
+        "text": " kuka on se influencer, johon koko ajan sun pitää olla yhteistyössä,[_TT_321]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:10,220",
+          "to": "00:18:12,780"
+        },
+        "text": " niin sä saat sinne sitä pääsyä.[_TT_449]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:12,780",
+          "to": "00:18:16,340"
+        },
+        "text": " Mä oon hyvin hesitant siinä kohtaa.[_TT_627]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:16,340",
+          "to": "00:18:20,720"
+        },
+        "text": " Useinhan PR-toimistot on silleen, että hei tehdään vuodeksi retailer,[_TT_846]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:20,720",
+          "to": "00:18:23,140"
+        },
+        "text": " maksatte meille vaikka viisi tonnia kuussa vuoden ajan.[_TT_967]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:23,140",
+          "to": "00:18:27,120"
+        },
+        "text": " Siinä kohtaa mä oon silleen, että hetkinen, että mä tykkään tehdä projekteina.[_TT_1166]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:27,120",
+          "to": "00:18:30,720"
+        },
+        "text": " Nyt on vaikka tämmöinen iso PR-tempaus nimekään partnerin kanssa,[_TT_1346]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:30,720",
+          "to": "00:18:33,680"
+        },
+        "text": " että me otetaan teidät kolmeksi kuukaudeksi, tehdään kaikki,[_TT_1494]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:33,720",
+          "to": "00:18:37,840"
+        },
+        "text": "[_BEG_] visuaalit kuntoon, rakennetaan se tarina, tehdään ne reaktiiviset kuuettaat,[_TT_206]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:37,840",
+          "to": "00:18:41,640"
+        },
+        "text": " tehdään se kaikki median suuntaa, pitchaaminen ja muuta.[_TT_396]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:41,640",
+          "to": "00:18:45,500"
+        },
+        "text": " Siinä on mun mielestä tosi hyvä, että sä teet sen projektimuotoisesti[_TT_589]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:45,500",
+          "to": "00:18:46,960"
+        },
+        "text": " ja maksat siitä vaikka 15 tonnia.[_TT_662]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1125.6947187500002,
+      "end": 1129.42409375
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:18:46,960",
+          "to": "00:18:49,280"
+        },
+        "text": " Mä olisin just kysynyt, 15 tonnia on sun mielestä hyvä?[_TT_778]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1127.6690937500002,
+      "end": 1136.27534375
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:18:49,280",
+          "to": "00:18:53,740"
+        },
+        "text": " Riippuu maasta ja riippuu ihan hirveästi skaalasta.[_TT_1001]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:53,740",
+          "to": "00:18:55,800"
+        },
+        "text": " 15 tonnia on aika vähän PR-toimistoa.[_TT_1104]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1135.27971875,
+      "end": 1144.69596875
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:18:55,800",
+          "to": "00:18:59,520"
+        },
+        "text": " Siis kannattaaksen käyttää se siihen, että se hankkii suomalaisen PR-toimiston,[_TT_1290]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:59,520",
+          "to": "00:19:03,640"
+        },
+        "text": " tukholmalaisen PR-toimiston, lontolaisen PR-toimiston vai amerikkalaisen?[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:03,640",
+          "to": "00:19:04,660"
+        },
+        "text": "[_BEG_] Amerikkalaisen PR-toimiston.[_TT_51]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1144.6622187500002,
+      "end": 1154.44971875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:19:04,660",
+          "to": "00:19:06,840"
+        },
+        "text": " Ideaalistihan sä ottaisit, jos sä oot vaikka Suomessa,[_TT_160]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:06,840",
+          "to": "00:19:10,560"
+        },
+        "text": " sä ottaisit suomalaisen toimiston, jolla on suhteet noihin kaikkiin maihin,[_TT_346]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:10,560",
+          "to": "00:19:14,200"
+        },
+        "text": " koska se yhteistyö täällä päässä on niin paljon helpompaa ja aika vöhykkä.[_TT_528]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:14,200",
+          "to": "00:19:15,240"
+        },
+        "text": " Onko tuollaisia toimistoja?[_TT_580]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1154.16284375,
+      "end": 1155.3103437500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1155.58034375,
+      "end": 1160.3728437500001
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:19:15,240",
+          "to": "00:19:16,980"
+        },
+        "text": " Mä suosittelen Baamlaa mun mielestä.[_TT_667]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:16,980",
+          "to": "00:19:20,280"
+        },
+        "text": " Anna Bridgkin meininki siellä on aivan loistava.[_TT_832]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1160.3728437500001,
+      "end": 1165.7390937500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:19:20,280",
+          "to": "00:19:21,480"
+        },
+        "text": " Toinen slassin tuote.[_TT_892]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:21,480",
+          "to": "00:19:25,580"
+        },
+        "text": " Hyötyykö founderit sun mielestä jonkunnäköisestä tällaisesta speaker prepistä?[_TT_1097]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1165.9078437500002,
+      "end": 1192.82346875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:19:25,580",
+          "to": "00:19:27,180"
+        },
+        "text": " Hyötyy, ehdottomasti.[_TT_1177]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:27,180",
+          "to": "00:19:33,120"
+        },
+        "text": " Mun mielestä, mä tiedän itekin, että jos mä harjoittelen jotain asiaa[_TT_1474]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:33,560",
+          "to": "00:19:36,700"
+        },
+        "text": "[_BEG_] ja kun mä menen tekemään tämän asian, niin se lopputulos on paljon parempi.[_TT_157]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:36,700",
+          "to": "00:19:39,500"
+        },
+        "text": " Ja kyllä mun mielestä kannattaa aina treenata.[_TT_297]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:39,500",
+          "to": "00:19:42,000"
+        },
+        "text": " Etenkin jos sä oot menossa puhumaan live-yleisön eteen,[_TT_422]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:42,000",
+          "to": "00:19:44,340"
+        },
+        "text": " koska se on jännittävä tilanne harjoitella sitä.[_TT_539]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:44,340",
+          "to": "00:19:46,440"
+        },
+        "text": " Me ollaan tehty ihan vaikka jonkun Mikinkin kanssa sitä,[_TT_644]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:46,440",
+          "to": "00:19:48,400"
+        },
+        "text": " että pistetään kamera sen naamaan eteen ja mä olen sen,[_TT_742]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:48,400",
+          "to": "00:19:51,080"
+        },
+        "text": " no niin puhu, että se treenaa sitä läpi.[_TT_876]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:51,080",
+          "to": "00:19:52,800"
+        },
+        "text": " Kyllä se ehdottomasti kannattaa.[_TT_962]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1192.51971875,
+      "end": 1218.27096875
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:19:52,800",
+          "to": "00:19:57,220"
+        },
+        "text": " Jos sä nyt ajattelet, että täällä on vaikka nuoria founderit, jotka kuuntelee,[_TT_1183]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:57,220",
+          "to": "00:20:01,220"
+        },
+        "text": " niin miten sä, kun sä oot ehtinyt katsoa tätä ja vaikka just Mikiä aika läheltä[_TT_1383]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:01,220",
+          "to": "00:20:07,200"
+        },
+        "text": "[_BEG_] tai vaikka Panasen Ilkka aika läheltä, molemmat ehkä Suomen top kaksi kommunikoijaa.[_TT_299]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:07,200",
+          "to": "00:20:12,980"
+        },
+        "text": " Niin millä tavalla, jos nyt oot 19-25-vuotias founderi,[_TT_588]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:12,980",
+          "to": "00:20:16,180"
+        },
+        "text": " niin kymmenen vuoden päästä sä oot yhtä hyvä kuin Miki tai Ilkka.[_TT_748]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:16,180",
+          "to": "00:20:18,180"
+        },
+        "text": " Mitä toimii sun pitäisi nyt tehdä?[_TT_848]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1205.73284375,
+      "end": 1205.90159375
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1206.01971875,
+      "end": 1206.20534375
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1218.7603437500002,
+      "end": 1333.6622187500002
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:20:18,180",
+          "to": "00:20:23,160"
+        },
+        "text": " Joo, treenii, treenii, mutta pitää ensin lähteä miettimään,[_TT_1097]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:23,160",
+          "to": "00:20:24,240"
+        },
+        "text": " että mitä siinä treenaa.[_TT_1151]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:24,240",
+          "to": "00:20:28,980"
+        },
+        "text": " Se tavallaan, mun mielestä yksi tosi hyvä tapa on katsoa muut hyviä puhujia,[_TT_1388]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:28,980",
+          "to": "00:20:31,020"
+        },
+        "text": " katsoa muutamia teille talkkeja.[_TT_1490]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:31,140",
+          "to": "00:20:35,280"
+        },
+        "text": "[_BEG_] Katsoa vaikka sitten jotain, Miki oli slushissiin, Harry Stemmingsin podcastissa,[_TT_207]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:35,280",
+          "to": "00:20:35,980"
+        },
+        "text": " se on ollut täälläkin.[_TT_242]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:35,980",
+          "to": "00:20:37,680"
+        },
+        "text": " Katsoa, miten muut puhuu.[_TT_327]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:37,680",
+          "to": "00:20:41,800"
+        },
+        "text": " Sitten tekee itselleen tosi selväksi sen puheenrungon.[_TT_533]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:41,800",
+          "to": "00:20:45,900"
+        },
+        "text": " Mulle on joskus joku sanonut silleen, että aina ennen kuin menee puhua,[_TT_738]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:45,900",
+          "to": "00:20:49,580"
+        },
+        "text": " sun pitäisi miettiä, mitkä on ne kolme lausetta, mitkä sä haluat, että ihmiset muistivat.[_TT_922]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:49,580",
+          "to": "00:20:51,680"
+        },
+        "text": " Sitten kirjoitat kirjaimellisesti alas.[_TT_1027]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:51,680",
+          "to": "00:20:54,680"
+        },
+        "text": " Nämä on ne kolme lausetta, mitkä mä haluan tämän puheen aikana sanoa.[_TT_1177]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:54,680",
+          "to": "00:20:57,540"
+        },
+        "text": " Sen takia, että sitten kun sä meet sinne lavalle ja sun pää lyö tyhjää,[_TT_1320]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:57,580",
+          "to": "00:21:00,940"
+        },
+        "text": "[_BEG_] sä ainakin muistat, että sulla on ne kolme lausetta ja sä löydät ties niihin.[_TT_168]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:00,940",
+          "to": "00:21:05,440"
+        },
+        "text": " Hyvä puheenrunkohan on tosi usein semmoinen, että sä aloitat silleen,[_TT_393]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:05,440",
+          "to": "00:21:08,840"
+        },
+        "text": " että hei, mä tulen puhua teille tänään näistä asioista, let's go.[_TT_563]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:08,840",
+          "to": "00:21:12,160"
+        },
+        "text": " Sitten sä puhut ne asiat ja loppuun sanot, että hei, mä kerroin teille tänään nää asiat.[_TT_729]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:12,160",
+          "to": "00:21:16,380"
+        },
+        "text": " Ihan tällainen perus, tämä opettiin jo yliopistossa, musta se on ihan todella hyvä.[_TT_940]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:16,380",
+          "to": "00:21:20,620"
+        },
+        "text": " Sitten sä kirjoitat itsellesi sen perusrungon ja sitten aina, aina, aina,[_TT_1152]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:20,620",
+          "to": "00:21:23,420"
+        },
+        "text": " kun sä meet mihinkään puhumaan, kuka on se yleisö?[_TT_1292]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:23,420",
+          "to": "00:21:24,920"
+        },
+        "text": " Kenelle sä oot sinä päivän puhumassa?[_TT_1367]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:25,240",
+          "to": "00:21:28,240"
+        },
+        "text": "[_BEG_] Jos se on lauma opiskelijoita, sä yrität inspiroida niitä yrittäjien uralle.[_TT_150]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:28,240",
+          "to": "00:21:31,820"
+        },
+        "text": " Se on ihan erilainen puhe kuin vaikka sitten nää sun kriittiset watchdogit[_TT_329]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:31,820",
+          "to": "00:21:34,620"
+        },
+        "text": " jostain ihmisoikeusnäkökulmasta.[_TT_469]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:34,620",
+          "to": "00:21:38,060"
+        },
+        "text": " Ja aina ennen kuin sä meet puhumassa, sä mietit, että mitä mä haluan,[_TT_641]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:38,060",
+          "to": "00:21:39,800"
+        },
+        "text": " että tälle yleisölle jää mieleen.[_TT_728]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:39,800",
+          "to": "00:21:42,320"
+        },
+        "text": " Kirjoitat sen alas ja treenaat sen läpi.[_TT_854]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:42,320",
+          "to": "00:21:44,920"
+        },
+        "text": " Mä ite ihan tosi usein teen ihan skriptin.[_TT_984]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:44,920",
+          "to": "00:21:48,980"
+        },
+        "text": " Mä kirjoitan sen, mä en välttämättä ikinä lue sitä, mutta mä oon ajatellut sen skriptin.[_TT_1187]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:48,980",
+          "to": "00:21:51,000"
+        },
+        "text": " Sitten mä katson ne slaidit siihen viereen.[_TT_1288]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:51,000",
+          "to": "00:21:53,200"
+        },
+        "text": " Tarviiko slaideja välttämättä? Haluaako sinne sanoa?[_TT_1398]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:55,240",
+          "to": "00:21:58,660"
+        },
+        "text": "[_BEG_] Hän ei kykene kuuntelemaan ja katsoa hirveästi samaan aikaan.[_TT_171]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:58,660",
+          "to": "00:22:02,660"
+        },
+        "text": " Se kannattaa myös miettiä, että mihin sä haluat ihmisten huomioon keskittyä.[_TT_371]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:02,660",
+          "to": "00:22:04,340"
+        },
+        "text": " Sitten vaan harjoittelee.[_TT_455]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:04,340",
+          "to": "00:22:07,160"
+        },
+        "text": " Yksi tosi hyvä tapa on laittaa kamera ja nauhoittaa itseänsä.[_TT_596]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:07,160",
+          "to": "00:22:10,820"
+        },
+        "text": " Se on ihan hirveetä. Se on ihan kamalaa katsoa itseä treenaamassa ja puhumassa.[_TT_779]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:10,820",
+          "to": "00:22:13,360"
+        },
+        "text": " Mutta se on todella tehokas tapa.[_TT_906]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1324.4822187500001,
+      "end": 1324.4990937500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1324.4990937500002,
+      "end": 1335.2147187500002
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1333.6790937500002,
+      "end": 1333.6959687500002
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1335.41721875,
+      "end": 1418.54346875
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:22:19,660",
+          "to": "00:22:23,700"
+        },
+        "text": " mitä sä oot kuvannut, todella liian vähän aikaa.[_TT_1423]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:23,700",
+          "to": "00:22:24,860"
+        },
+        "text": " Siis...[_TT_1481]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:24,860",
+          "to": "00:22:25,220"
+        },
+        "text": " Mä oon sitä mieltä, että suomalaiset founderit keskimäärin käyttää kaikkeen tähän,[_TT_1499]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:25,240",
+          "to": "00:22:28,240"
+        },
+        "text": "[_BEG_] esimerkiksi tuotelanserauksen tekeminen on semmoinen, että kirjoitetaan pressiriliissi,[_TT_150]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:28,240",
+          "to": "00:22:31,240"
+        },
+        "text": " sitten mietitään vähän, että olisiko sulta ilman pari toimittajakontaktia,[_TT_300]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:31,240",
+          "to": "00:22:32,960"
+        },
+        "text": " kelle tätä voisi puskea.[_TT_386]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:32,960",
+          "to": "00:22:37,600"
+        },
+        "text": " Sitten se tavallaan tehdään ja sitten joku tekee jonkun somepostauksen aamuhämärissä.[_TT_618]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:37,600",
+          "to": "00:22:38,960"
+        },
+        "text": " Ja that's it.[_TT_686]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:38,960",
+          "to": "00:22:42,880"
+        },
+        "text": " Eli siitä ja kaikki toi tavallaan mietintä ja toi tavallaan, että tää on iso juttu,[_TT_882]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:42,880",
+          "to": "00:22:44,660"
+        },
+        "text": " ja tää tehdään kunnolla monikaunan vaiheessa pois.[_TT_971]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:44,660",
+          "to": "00:22:50,080"
+        },
+        "text": " Eli mun suositus perustuen siihen, mitä sä sanoit, on se, että tää on samanlainen[_TT_1242]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:50,080",
+          "to": "00:22:54,860"
+        },
+        "text": " täski kuin tuotteen kehittäminen tai kuin featurein tekeminen[_TT_1481]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:54,860",
+          "to": "00:22:59,080"
+        },
+        "text": "[_BEG_] tai joku tekninen asia tai muu, joihin suhtaudutaan yleensä aika kovalla vakavuudella[_TT_211]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:59,080",
+          "to": "00:23:00,040"
+        },
+        "text": " ja huolellisuudella.[_TT_259]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:00,040",
+          "to": "00:23:02,780"
+        },
+        "text": " Ja sitten nää PR-jutut vaan vähän niin kuin tavallaan heitetään.[_TT_396]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:02,780",
+          "to": "00:23:07,260"
+        },
+        "text": " Ja sitten toinen on nää esiintymisten muut, niin mun mielestä suomalaiset founderit[_TT_620]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:07,260",
+          "to": "00:23:11,680"
+        },
+        "text": " esimerkiksi käyttää erittäin vähän aikaa pitchidekkien tekemiseen[_TT_841]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:11,680",
+          "to": "00:23:14,060"
+        },
+        "text": " ja niiden harjoittelemiseen.[_TT_960]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:14,060",
+          "to": "00:23:18,820"
+        },
+        "text": " Ja mä oon niin kuin huomannut sen, että kaikista parhailla meidänkin firmoilla[_TT_1198]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:18,820",
+          "to": "00:23:23,820"
+        },
+        "text": " niillä on sekä se bisneskunnossa, että niillä on se dekki hierottu ihan minttiin.[_TT_1448]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:24,480",
+          "to": "00:23:28,360"
+        },
+        "text": "[_BEG_] Ja sen lisäksi se on harjoiteltu, vaikka ei välttämättä edes tarviisi.[_TT_194]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:28,360",
+          "to": "00:23:34,980"
+        },
+        "text": " Ja se on sellaisen huippufirman tunnusmerkki, että kaikki materiaali, mitä se tekee ja muuta,[_TT_525]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:34,980",
+          "to": "00:23:38,400"
+        },
+        "text": " niin se on aivan ikään kuin huippua, vaikka ei se välttämättä edes tarttisi.[_TT_696]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1418.5772187500002,
+      "end": 1435.28346875
+    },
+    "label": "SPEAKER_02",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:23:38,400",
+          "to": "00:23:42,580"
+        },
+        "text": " Mä sanon vaan sen vielä, että ehkä myös siinä harjoittelussa pitää muistaa se,[_TT_905]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:42,580",
+          "to": "00:23:44,960"
+        },
+        "text": " että ihmisethän muistaa sen tunteen, minkä sä niissä herätät.[_TT_1024]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:44,960",
+          "to": "00:23:46,720"
+        },
+        "text": " Ne ei välttämättä muista, mitä sä sanot.[_TT_1112]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:46,720",
+          "to": "00:23:49,640"
+        },
+        "text": " Että ei myös se, että se on harjoiteltu ja se tulee sieltä kuin robotti,[_TT_1258]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:49,640",
+          "to": "00:23:53,180"
+        },
+        "text": " mutta myös, että sä toisit siihen jotain aitoa ja jotain tunnetta.[_TT_1435]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:53,180",
+          "to": "00:23:55,100"
+        },
+        "text": "[_BEG_] Noin, nyt sä saat kertoa sun ruutun, sori Timo.[_TT_96]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:55,100",
+          "to": "00:23:56,280"
+        },
+        "text": " Nyt tulee tunnetta.[_TT_155]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1434.11909375,
+      "end": 1443.0290937500001
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:23:56,280",
+          "to": "00:24:02,860"
+        },
+        "text": " Tää on tällainen mediasyklin siinä ankeusvaiheessa oleva founderi, kun kaikki kritisoi sitä.[_TT_484]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1436.3128437500002,
+      "end": 1438.48971875
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1438.48971875,
+      "end": 1438.50659375
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1438.50659375,
+      "end": 1438.5403437500001
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1443.7547187500002,
+      "end": 1485.8072187500002
+    },
+    "label": "SPEAKER_01",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:24:02,860",
+          "to": "00:24:07,080"
+        },
+        "text": " Se miettii itsekseen jossain kammiossa, että onko tässä mitään järkeä.[_TT_695]"
+      },
+      {
+        "timestamps": {
+          "from": "00:24:07,080",
+          "to": "00:24:13,720"
+        },
+        "text": " Oon yksin unohtuneena kovain, vai uuden kiilon taakse jäin.[_TT_1027]"
+      },
+      {
+        "timestamps": {
+          "from": "00:24:13,720",
+          "to": "00:24:17,280"
+        },
+        "text": " En tiedä, on kauan siitä, kun itseni lehden kannessa näin.[_TT_1205]"
+      },
+      {
+        "timestamps": {
+          "from": "00:24:17,280",
+          "to": "00:24:22,800"
+        },
+        "text": " Vai lienenkö unessa nähnyt, kun kultakirjaimin oli lehti nimeni sivuilleen[_TT_1481]"
+      },
+      {
+        "timestamps": {
+          "from": "00:24:22,800",
+          "to": "00:24:24,920"
+        },
+        "text": "[_BEG_] pannut, hallitsijaan istuimin.[_TT_106]"
+      },
+      {
+        "timestamps": {
+          "from": "00:24:24,920",
+          "to": "00:24:30,020"
+        },
+        "text": " Ehkeen ole koskaan lehdessä ollutkaan, te kiiltokuvaa katsoitte lain.[_TT_361]"
+      },
+      {
+        "timestamps": {
+          "from": "00:24:30,020",
+          "to": "00:24:33,840"
+        },
+        "text": " Nyt rotankolossa homeiseen kannikkaan on tyytyminen mun vain.[_TT_552]"
+      },
+      {
+        "timestamps": {
+          "from": "00:24:33,840",
+          "to": "00:24:38,680"
+        },
+        "text": " Mikä on kohtalon viestilie, sen PR muotoilee sulle.[_TT_794]"
+      },
+      {
+        "timestamps": {
+          "from": "00:24:38,680",
+          "to": "00:24:43,200"
+        },
+        "text": " Tuskan keskeltä voihkaise kunnolla vaan, anna armoa media mulle.[_TT_1020]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1485.8072187500002,
+      "end": 1488.42284375
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  }
+]

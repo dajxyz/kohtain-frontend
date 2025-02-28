@@ -11,11 +11,11 @@
 
 	const { data } = $props();
 
-	let speaker_colours_medium = ['#394445', '#463C5B', '#67431E', '#5A242B'];
-	let speaker_colours_medium_alpha = ['#394445aa', '#463C5Baa', '#67431Eaa', '#5A242Baa'];
+	let speaker_colours_medium = ['#394445', '#463C5B', '#67431E', '#5A242B', '#394445', '#463C5B', '#67431E', '#5A242B', '#394445', '#463C5B', '#67431E', '#5A242B'];
+	let speaker_colours_medium_alpha = ['#394445aa', '#463C5Baa', '#67431Eaa', '#5A242Baa', '#394445aa', '#463C5Baa', '#67431Eaa', '#5A242Baa', '#394445aa', '#463C5Baa', '#67431Eaa', '#5A242Baa'];
 
-	let speaker_colours_light = ['#ADBBBB', '#BBB2CE', '#E4B875', '#CB9DA1'];
-	let speaker_colours_light_alpha = ['#ADBBBBaa', '#BBB2CEaa', '#E4B875aa', '#CB9DA1aa'];
+	let speaker_colours_light = ['#ADBBBB', '#BBB2CE', '#E4B875', '#CB9DA1', '#ADBBBB', '#BBB2CE', '#E4B875', '#CB9DA1', '#ADBBBB', '#BBB2CE', '#E4B875', '#CB9DA1'];
+	let speaker_colours_light_alpha = ['#ADBBBBaa', '#BBB2CEaa', '#E4B875aa', '#CB9DA1aa', '#ADBBBBaa', '#BBB2CEaa', '#E4B875aa', '#CB9DA1aa', '#ADBBBBaa', '#BBB2CEaa', '#E4B875aa', '#CB9DA1aa'];
 
 
 	let speaker_colours = [

@@ -1,0 +1,4143 @@
+[
+  {
+    "turn": {
+      "start": 0.03096875,
+      "end": 60.20721875
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:00:00,000",
+          "to": "00:00:04,360"
+        },
+        "text": "[_BEG_] Moi kaikki. Ennen kuin mennään jaksoon, tässä lyhyt sana tämän jakson kaupalliselta yhteistyökumppanilta.[_TT_218]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:04,360",
+          "to": "00:00:06,900"
+        },
+        "text": " Jos muutos tuntuu möröltä, tarvitsee tehdä jotain.[_TT_345]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:06,900",
+          "to": "00:00:10,920"
+        },
+        "text": " Bisneksessä on pysyttävä hereillä, sillä ainoa varma asia on jatkuva muutos.[_TT_546]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:10,920",
+          "to": "00:00:16,980"
+        },
+        "text": " Hyppää mukaan muutosmatkalle ja löydä kasvun rakennuspalikat Gasgridin The Changers-podcastissa.[_TT_849]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:16,980",
+          "to": "00:00:21,020"
+        },
+        "text": " Äänessä on muun muassa lähtijät-podcastissa tuttu Minna Ruusuvuori,[_TT_1051]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:21,020",
+          "to": "00:00:24,780"
+        },
+        "text": " jonka kanssa pohditaan, voiko kaikki tietävä johtaja olla kasvun tiellä.[_TT_1239]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:24,780",
+          "to": "00:00:30,360"
+        },
+        "text": "[_BEG_] TH-säätiön kehitysjohtaja Anna Herliin jakaa näkemyksiään kestävämmän huomisen vaatimasta muutoksesta.[_TT_279]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:30,360",
+          "to": "00:00:37,680"
+        },
+        "text": " Suomen ainoa ammattimainen löytöretkeilijä ja My Speaker of the Year 2024-palkinnon voittaja Pata Delgerman,[_TT_645]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:37,680",
+          "to": "00:00:43,460"
+        },
+        "text": " hyvä Pata, valottaa tuntemattomille poluille valmistautumisen ja kasvun luomisen yhteisiä elementtejä.[_TT_934]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:43,460",
+          "to": "00:00:49,440"
+        },
+        "text": " Luvassa on yhteensä seitsemän jakson verran inspiroivaa muutoksen ääntä, joten aion itsekin ottaa tämän kuunteluun.[_TT_1233]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:49,440",
+          "to": "00:00:54,440"
+        },
+        "text": " Ja ota säkin, niin pääset innostumaan ja kuulet, kuinka me Suomessa harppaamme uudelle tasolle.[_TT_1483]"
+      },
+      {
+        "timestamps": {
+          "from": "00:00:54,780",
+          "to": "00:01:00,100"
+        },
+        "text": "[_BEG_] Kuuntele The Changers-podcastia Spotifyssa. Kiitos, mennään jaksoon.[_TT_266]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 60.30846875,
+      "end": 61.101593750000006
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 62.04659375000001,
+      "end": 115.38846875
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:01:24,780",
+          "to": "00:01:31,160"
+        },
+        "text": "[_BEG_] Sanoit kaksi kirjaa, joista uusin arktinen alue geopolitiikan murroksessa on tullut hiljattain ulos.[_TT_319]"
+      },
+      {
+        "timestamps": {
+          "from": "00:01:31,160",
+          "to": "00:01:32,880"
+        },
+        "text": " Tervetuloa Futu-castiin.[_TT_405]"
+      },
+      {
+        "timestamps": {
+          "from": "00:01:32,880",
+          "to": "00:01:34,000"
+        },
+        "text": " Kiitoksia.[_TT_461]"
+      },
+      {
+        "timestamps": {
+          "from": "00:01:34,000",
+          "to": "00:01:35,100"
+        },
+        "text": " Kiitos.[_TT_516]"
+      },
+      {
+        "timestamps": {
+          "from": "00:01:35,100",
+          "to": "00:01:39,140"
+        },
+        "text": " Tuossa on noinkin lyhyen intron itsestäsi.[_TT_718]"
+      },
+      {
+        "timestamps": {
+          "from": "00:01:39,140",
+          "to": "00:01:45,980"
+        },
+        "text": " Olet tehnyt pitkän pitkän sotilasuran, joka näyttää näin paperilla, mutta varmasti myös todellisuudessa tosi kiinnostavalta.[_TT_1060]"
+      },
+      {
+        "timestamps": {
+          "from": "00:01:45,980",
+          "to": "00:01:54,440"
+        },
+        "text": " Jos siinä jäi vielä jotain sanomatta, niin haluatko esitellä, että kuka olet ja mistä lähti idea tähän kirjaan,[_TT_1483]"
+      },
+      {
+        "timestamps": {
+          "from": "00:01:54,780",
+          "to": "00:01:55,280"
+        },
+        "text": "[_BEG_] että alueesta?[_TT_25]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 115.75971875,
+      "end": 174.38346875000002
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:01:55,280",
+          "to": "00:02:06,800"
+        },
+        "text": " Lieksalainen olen. Lieksan lyseossa, eli Pohjois-Karjalan poikia, päädyin kadettikouluun ja siitä sitten jäin sotilasuralle.[_TT_601]"
+      },
+      {
+        "timestamps": {
+          "from": "00:02:06,800",
+          "to": "00:02:21,360"
+        },
+        "text": " Kansainvälisiä tehtäviä kaksi kertaa olin ollut YKssa, Suetsin kanavan tarkkailijana, Suetsin kanavalla vuonna 69-70.[_TT_1329]"
+      },
+      {
+        "timestamps": {
+          "from": "00:02:21,360",
+          "to": "00:02:24,500"
+        },
+        "text": " Sitten uudelleen.[_TT_1486]"
+      },
+      {
+        "timestamps": {
+          "from": "00:02:24,780",
+          "to": "00:02:34,140"
+        },
+        "text": "[_BEG_] Golanilla Suomen pataljonan komentajana 70, jolloin oli taas sitten Irakin sota.[_TT_468]"
+      },
+      {
+        "timestamps": {
+          "from": "00:02:34,140",
+          "to": "00:02:39,540"
+        },
+        "text": " Eli silloin me väistelimme skudeja, niin kuin sanottiin.[_TT_738]"
+      },
+      {
+        "timestamps": {
+          "from": "00:02:39,540",
+          "to": "00:02:41,300"
+        },
+        "text": " Skud-missaa.[_TT_826]"
+      },
+      {
+        "timestamps": {
+          "from": "00:02:41,300",
+          "to": "00:02:50,100"
+        },
+        "text": " Skud-ohjuksia, jotka Irakista ammuttiin Tel Aviviin ja Haifaan ja ne kulki osa siitä meidän päämme yli.[_TT_1266]"
+      },
+      {
+        "timestamps": {
+          "from": "00:02:50,100",
+          "to": "00:02:54,140"
+        },
+        "text": " Se oli tämmöinen niin sanottu kuumavaihe.[_TT_1468]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 160.51221875000002,
+      "end": 160.81596875
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 160.81596875,
+      "end": 174.65346875
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 174.65346875,
+      "end": 174.68721875
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 174.68721875,
+      "end": 183.02346875
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:02:54,780",
+          "to": "00:02:56,340"
+        },
+        "text": "[_BEG_] Siinä jaksossa.[_TT_78]"
+      },
+      {
+        "timestamps": {
+          "from": "00:02:56,340",
+          "to": "00:03:03,480"
+        },
+        "text": " Tämmöisiä sitten kansainvälisissä ja muissa tehtävissä on ollut matkan varrella erilaisissa.[_TT_435]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 183.02346875,
+      "end": 200.80971875
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:03:03,480",
+          "to": "00:03:12,400"
+        },
+        "text": " Miten kiinnostus lähti, tekisi mieleen puhua sun koko urasta nyt, kun toi tuli mainettua, mutta tässä jaksossa meillä on eri aihe, arktinen alue ja sen geopolitiikka.[_TT_881]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:12,400",
+          "to": "00:03:20,080"
+        },
+        "text": " Mikä yhteys, sun yhteys arktiseen alueeseen on ja mistä kiinnostus tähän kirjataan?[_TT_1265]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 199.05471875,
+      "end": 294.34784375000004
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:03:20,080",
+          "to": "00:03:23,040"
+        },
+        "text": " Joo, arktinen alue kiinnosti.[_TT_1413]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:23,040",
+          "to": "00:03:24,560"
+        },
+        "text": " Siitä oli olemassa.[_TT_1489]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:24,780",
+          "to": "00:03:34,520"
+        },
+        "text": "[_BEG_] Tämmöisiä pieniä pätkiä siellä täällä 20-luvun täitteessä, mutta ei kokonaisuutta.[_TT_487]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:34,520",
+          "to": "00:03:42,820"
+        },
+        "text": " Silloin päätös tuli, että geopolitiikka ja arktinen alue nivoutui yhteen.[_TT_902]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:42,820",
+          "to": "00:03:46,320"
+        },
+        "text": " Geopolitiikasta oli myöskin vähän tutkimusta.[_TT_1077]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:46,320",
+          "to": "00:03:54,320"
+        },
+        "text": " Se ensimmäinen kirja arktisen alueen geopolitiikka 2000-luvulla lähti geopolitiikan tarpeisiin.[_TT_1477]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:54,780",
+          "to": "00:03:58,900"
+        },
+        "text": "[_BEG_] Ja se nivoutui hyvin siihen yhteen.[_TT_206]"
+      },
+      {
+        "timestamps": {
+          "from": "00:03:58,900",
+          "to": "00:04:01,860"
+        },
+        "text": " Silloin arktinen alue nousi otsikoihin.[_TT_354]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:01,860",
+          "to": "00:04:17,320"
+        },
+        "text": " Kirjoitustyö päättyi 22. tammikuussa, jolloin jo tiedettiin, että nyt tapahtuu Ukrainassa, mutta kirjoitustyötä ei voinut enää jatkaa.[_TT_1127]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:17,320",
+          "to": "00:04:24,760"
+        },
+        "text": " Se piti keskeyttää, lopettaa siihen ja muutaman sivun siitä kirjasta meni vanhaksi saman tien yhdessä yössä.[_TT_1499]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:24,780",
+          "to": "00:04:26,060"
+        },
+        "text": "[_BEG_] Jos näin voi sanoa.[_TT_64]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:26,060",
+          "to": "00:04:30,640"
+        },
+        "text": " Mutta se jätti jäljenä, että tätä pitää seurata.[_TT_293]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:30,640",
+          "to": "00:04:39,220"
+        },
+        "text": " Ja niin alkoi sitten tuon arktisen alueen seuranta silloin 22. helmikuussa.[_TT_722]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:39,220",
+          "to": "00:04:44,540"
+        },
+        "text": " Ja sitten se tuli kirjaksi nyt ulos 24.[_TT_988]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:44,540",
+          "to": "00:04:54,340"
+        },
+        "text": " Eli se oli sitten koonnos siitä tapahtumista, tapahtumansarjasta, mitä maailmalla tapahtui.[_TT_1478]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 282.26534375,
+      "end": 282.33284375
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 294.34784375000004,
+      "end": 294.90471875000003
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 295.02284375,
+      "end": 321.16221875
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:04:54,780",
+          "to": "00:04:59,540"
+        },
+        "text": "[_BEG_] Tuossa viimeisessä kirjassa ei ole Ukrainasta juurikaan.[_TT_238]"
+      },
+      {
+        "timestamps": {
+          "from": "00:04:59,540",
+          "to": "00:05:04,940"
+        },
+        "text": " Juuri sen takia, että sitä on seurattu muualla työkseen ja seurataan.[_TT_508]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:04,940",
+          "to": "00:05:09,940"
+        },
+        "text": " Ja siellä tapahtuu paljon, se vanhenee päivässä se tilannekuva siitä.[_TT_758]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:09,940",
+          "to": "00:05:21,340"
+        },
+        "text": " Se suljettiin pois tästä uudesta arktisen alueen seurannasta, mutta geopoliittisesti seurataan muutoin maailmankuvaa, mitä siellä tapahtuu.[_TT_1328]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 321.38159375000004,
+      "end": 344.46659375
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:05:21,340",
+          "to": "00:05:24,700"
+        },
+        "text": " Mulla on vahva käsitys, että arktista alueesta puhutaan.[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:24,700",
+          "to": "00:05:24,700"
+        },
+        "text": " Mulla on vahva käsitys, että arktista alueesta puhutaan.[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:24,700",
+          "to": "00:05:24,760"
+        },
+        "text": " Mulla on vahva käsitys, että arktista alueesta puhutaan.[_TT_1499]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:24,780",
+          "to": "00:05:26,480"
+        },
+        "text": "[_BEG_] Nykyään enemmän ja enemmän.[_TT_85]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:26,480",
+          "to": "00:05:34,540"
+        },
+        "text": " Oma käsitys on ollut semmoinen, että jos haluat kuulostaa fiksuuta, niin sanoi, että juu juu ja arktinen alue vielä, se on tärkeä paikka.[_TT_488]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:34,540",
+          "to": "00:05:44,420"
+        },
+        "text": " Onko arktista alueesta vasta viime aikoina tullut tärkeä tai erityisen tärkeä tai onko se ennenkin ollut tärkeä geopoliittinen alue?[_TT_982]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 344.98971875,
+      "end": 439.43909375000004
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:05:44,420",
+          "to": "00:05:47,300"
+        },
+        "text": " Se on ollut jo kylmän sodan ajalta.[_TT_1126]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:47,300",
+          "to": "00:05:50,100"
+        },
+        "text": " Se on ollut koko ajan tärkeä.[_TT_1266]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:50,100",
+          "to": "00:05:54,540"
+        },
+        "text": " Se on ollut Yhdysvaltojen ja Venäjän tai silloin se Neuvostoliiton.[_TT_1488]"
+      },
+      {
+        "timestamps": {
+          "from": "00:05:54,700",
+          "to": "00:06:08,400"
+        },
+        "text": "[_BEG_] Neuvostoliiton välisenä rajapintana ja kylmän sodan aikana molemmat osapuolet satsasivat tuohon arktisen alueen varustamiseen.[_TT_685]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:08,400",
+          "to": "00:06:20,120"
+        },
+        "text": " Neuvostoliitto laati ja teki sinne sukellusuineiden tukikohtia, ohjustukikohtia, pinta-alusten tukikohtia.[_TT_1271]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:20,120",
+          "to": "00:06:24,620"
+        },
+        "text": " Mutta sitten Neuvostoliitto romahduttua.[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:24,620",
+          "to": "00:06:30,100"
+        },
+        "text": "[_BEG_] Tietenkin se lai meni, mutta käynnistyi uudelleen.[_TT_274]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:30,100",
+          "to": "00:06:45,400"
+        },
+        "text": " 2010-luvulla käynnistyi Venäjällä uusi puolustusrevision uudistus ja sen myötä sitten myöskin arktista aluetta lähdettiin kehittämään.[_TT_1039]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:45,400",
+          "to": "00:06:51,680"
+        },
+        "text": " Tämmöinen vastakkainasettelu nousi uudelleen NATO-Venäjä.[_TT_1353]"
+      },
+      {
+        "timestamps": {
+          "from": "00:06:54,540",
+          "to": "00:07:19,280"
+        },
+        "text": "[_BEG_] Siellä nähtiin, että ballististen ohjusten torjuntajärjestelmät vaativat uutta ajattelua ja merekulku, ilmaston lämpeneminen nimenomaan antoi sitten boostia, että nyt voidaankin jo ajatella pohjoisten jääreittien hyödyntämistä aivan uudella tavalla.[_TT_1237]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 439.50659375000004,
+      "end": 439.87784375
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 440.19846875,
+      "end": 492.10596875000005
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:07:24,460",
+          "to": "00:07:31,160"
+        },
+        "text": "[_BEG_] Nyt entistä helpommin lähitulee, ei nyt ihan lähitulevaisuudessa, mutta kuitenkin tulevaisuudessa käytettävissä.[_TT_335]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:31,160",
+          "to": "00:07:36,640"
+        },
+        "text": " Se antoi niin kuin mielenkiintoa, globaalista mielenkiintoa asian hoitoon.[_TT_609]"
+      },
+      {
+        "timestamps": {
+          "from": "00:07:36,640",
+          "to": "00:07:52,900"
+        },
+        "text": " Sitten tuli Ukraina ja se sitten 2014 Krimin valtaaminen ja se hälytti sitten Yhdysvallat.[_TT_1422]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 485.72721875,
+      "end": 485.79471875
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 485.79471875,
+      "end": 485.94659375000003
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 492.56159375000004,
+      "end": 499.95284375000006
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:08:17,220",
+          "to": "00:08:19,440"
+        },
+        "text": " Myöskin sitä on varustettu eri tavalla.[_TT_1253]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 499.75034375,
+      "end": 500.03721875
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 500.03721875,
+      "end": 535.20471875
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:08:24,300",
+          "to": "00:08:43,200"
+        },
+        "text": "[_BEG_] Tällaisen arktisen alueen kehittämisohjelman, jolla se on nyt sitten tehnyt sinne uusia tukikohtia, korjannut vanhoja ja samalla niin kuin varmentanut koillisväylän käyttöä, energialähteitä.[_TT_945]"
+      },
+      {
+        "timestamps": {
+          "from": "00:08:54,220",
+          "to": "00:08:55,140"
+        },
+        "text": "[_BEG_] Tällainen tapahtuu.[_TT_46]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 535.3059687500001,
+      "end": 574.9284687500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:08:55,140",
+          "to": "00:09:01,960"
+        },
+        "text": " Joo. Mulle henkilökohtaisesti näitä tilanteita avaa ihan poikkeuksellisen hyvin kartat.[_TT_387]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:01,960",
+          "to": "00:09:10,480"
+        },
+        "text": " Sitä näkee sen maantieteen, näkee missä eri maaplantit on ja missä sijaitsee, koska siitä ei pääse minnekään.[_TT_813]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:10,480",
+          "to": "00:09:13,320"
+        },
+        "text": " Maa ei liiku minnekään. Se on siellä ja se pysyy.[_TT_955]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:13,320",
+          "to": "00:09:24,140"
+        },
+        "text": " Me voidaan itse asiassa laittaa tähän videoon, laitetaan tähän merkki, muistetaan laittaa tähän hetkeen nyt kuva vaikka jäämerestä ja sieltä, että mitkä maat hallitsee, mitkä maiden rannikot.[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:09:24,140",
+          "to": "00:09:34,740"
+        },
+        "text": "[_BEG_] Ympäröi jäämerta, koska se jo kertoo aika paljon siitä, että mitkä voimasuhteet siellä on tai ainakin, että mitkä, mikä alusta voimasuhteiden kehittymisellä siellä on.[_TT_530]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 565.69784375,
+      "end": 566.28846875
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 574.9115937500001,
+      "end": 575.29971875
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 575.29971875,
+      "end": 590.2847187500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:09:34,740",
+          "to": "00:09:46,460"
+        },
+        "text": " Haluaisitko se vähän avata? Nyt meillä ei, no muuta se läppärellä on kuva jäämerestä noin, mutta sen, mitä voit, luottaen, että nyt katsojat näkee sen tällä hetkellä ruudulla.[_TT_1116]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 586.25159375,
+      "end": 586.5890937500001
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 590.75721875,
+      "end": 597.7265937500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:09:54,060",
+          "to": "00:09:57,720"
+        },
+        "text": "[_BEG_] Mitä haluaisit kertoa tästä maantieteestä ja mitä se kertoo tämän alueen strategisesta merkityksestä?[_TT_183]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 598.62096875,
+      "end": 604.69596875
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 604.84784375,
+      "end": 605.21909375
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 605.42159375,
+      "end": 620.7778437500001
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 621.01409375,
+      "end": 621.3347187500001
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 621.7734687500001,
+      "end": 663.3872187500001
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:10:23,980",
+          "to": "00:10:40,120"
+        },
+        "text": "[_BEG_] Tämä mittasuhde Beeringen salmesta Skotlannin kärkeen, niin se on valtava, monta tuhatta kilometriä, myöskin sitten toisinpäin leveydeltään, se on monta tuhatta kilometriä.[_TT_807]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:40,120",
+          "to": "00:10:50,120"
+        },
+        "text": " Ja tässä tämä on laajempi kuin mitä me aina yleensä kartasta nähdään, että siinä mittakaava pitää muistaa.[_TT_1307]"
+      },
+      {
+        "timestamps": {
+          "from": "00:10:53,900",
+          "to": "00:11:03,020"
+        },
+        "text": "[_BEG_] Myöhemmin vielä tuohon Grönlantiin, mutta tästä kartasta näkyy selvästi, että miten iso ja hallitseva Grönlanti on jäämerellä.[_TT_456]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 663.3872187500001,
+      "end": 663.75846875
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 663.58971875,
+      "end": 732.22034375
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:11:03,020",
+          "to": "00:11:10,020"
+        },
+        "text": " Ja sen pinta-ala on suurempi kuin Pohjoismaat yhteensä lähes kaksi kertaa.[_TT_806]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:10,020",
+          "to": "00:11:21,500"
+        },
+        "text": " Eli se mittakaava pitää aina hallita näissä ja Suomea, kun katsotaan, niin me ollaan tavallaan postimerkki tässä.[_TT_1380]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:23,820",
+          "to": "00:11:30,300"
+        },
+        "text": "[_BEG_] Eli arktisella alueella. Meitä on 5,6 miljoonaa ja puolustusbudjettia on 6,5 miljardia.[_TT_324]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:30,300",
+          "to": "00:11:44,040"
+        },
+        "text": " Se on pieni raha ja pieni valtio ja tämä tässä täytyy aina koputtaa itseään pöytään, että muista omaa roolisi ja paikkasi tässäkin asiassa.[_TT_1011]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:44,040",
+          "to": "00:11:53,480"
+        },
+        "text": " Mutta tästä voidaan vielä sanoa samaan tien Beeringen salmen merkityksestä.[_TT_1483]"
+      },
+      {
+        "timestamps": {
+          "from": "00:11:53,740",
+          "to": "00:12:08,480"
+        },
+        "text": "[_BEG_] Ja toisaalta tästä Norjan ja Grönlannin niin sanotusta kiukkapeikosta, että ne hallitsevat tätä jäämeren kautta kulkua.[_TT_737]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 722.55096875,
+      "end": 722.8715937500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 732.4397187500001,
+      "end": 737.3840937500001
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 737.5190937500001,
+      "end": 739.51034375
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 738.9197187500001,
+      "end": 795.48471875
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:12:19,720",
+          "to": "00:12:23,140"
+        },
+        "text": " Mutta keskellä Beeringen salmea on saaria.[_TT_1470]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:23,660",
+          "to": "00:12:37,640"
+        },
+        "text": "[_BEG_] Se ei ole välijäävettä, vaan siellä on kaksi pientä saarta, jotka jakaa luontevasti Beeringen salmen Venäjän puoleiseen ja Alaskan eli Yhdysvaltojen puoleiselle sektorille.[_TT_699]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:37,640",
+          "to": "00:12:47,640"
+        },
+        "text": " Ja näillä on kummallakin puolella on meriväylät, kapeat meriväylät, mutta niiden syväys on vain 40 metriä.[_TT_1199]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:53,580",
+          "to": "00:12:57,520"
+        },
+        "text": "[_BEG_] Ja ne lautuvat Beeringen mereltä ja jäämereltä Beeringen salmeen.[_TT_197]"
+      },
+      {
+        "timestamps": {
+          "from": "00:12:57,520",
+          "to": "00:13:01,720"
+        },
+        "text": " Siinä liikkuminen talviaikaan on täysin mahdotonta.[_TT_407]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:01,720",
+          "to": "00:13:04,420"
+        },
+        "text": " Ei veden alla eikä veden päällä.[_TT_542]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:04,420",
+          "to": "00:13:13,100"
+        },
+        "text": " Ja tämä on mittakaavana, että sotilaallisesti se on helppo sulkea, valvoa ja sulkea.[_TT_976]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:13,100",
+          "to": "00:13:15,520"
+        },
+        "text": " Eli se on kuristuspaikka.[_TT_1097]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 795.48471875,
+      "end": 795.82221875
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 796.63221875,
+      "end": 835.5122187500001
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:13:23,500",
+          "to": "00:13:49,080"
+        },
+        "text": "[_BEG_] Iso-Britannia, Islanti, Grönlanti, Kapeikko, joka on jo kylmän sodan ajalta ollut tärkeä puolustuslinja, joka hallitsee pääsyä transatlanttisille suhteille, väylille, Eurooppa-USA-väylille, johonka on keskitetty puolustus jo kylmän sodan aikana.[_TT_1279]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:49,080",
+          "to": "00:13:53,080"
+        },
+        "text": " Ja se on edelleen voimassa oleva linja, jota pidetään.[_TT_1479]"
+      },
+      {
+        "timestamps": {
+          "from": "00:13:53,420",
+          "to": "00:13:55,460"
+        },
+        "text": "[_BEG_] Siitä pidetään huolta.[_TT_102]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 835.76534375,
+      "end": 835.8328437500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 835.8328437500002,
+      "end": 836.0522187500001
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 836.0522187500001,
+      "end": 848.2022187500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:13:55,460",
+          "to": "00:14:03,040"
+        },
+        "text": " On hämmästyttävää katsoa Beringin salmia ja nähdä, kuinka lähellä Venäjä ja USA oikeasti on.[_TT_481]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:03,040",
+          "to": "00:14:07,860"
+        },
+        "text": " Sitä sanotaan usein, että we're being protected by two seas, two oceans, USAssa.[_TT_722]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 846.9197187500001,
+      "end": 848.26971875
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 848.26971875,
+      "end": 850.1259687500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:14:07,860",
+          "to": "00:14:09,900"
+        },
+        "text": " Mutta ei tässä kolmas mere.[_TT_824]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 850.1259687500001,
+      "end": 892.66784375
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:14:09,900",
+          "to": "00:14:23,280"
+        },
+        "text": " Se on yllättävän kapea, ja sen ovat vuonna 1990 Neuvostoliitto ja USA jakoivat keskenään.[_TT_1493]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:23,340",
+          "to": "00:14:32,360"
+        },
+        "text": "[_BEG_] Ne sulle mulle vetivät viivan linjan keskelle ja jakoivat, tämä on sinun puoli, tämä on minun puoli.[_TT_451]"
+      },
+      {
+        "timestamps": {
+          "from": "00:14:32,360",
+          "to": "00:14:52,540"
+        },
+        "text": " Ja silloin siinä on se, että valtioalukset, eli sota-alukset käytännössä, jäämurtajat, niin niiden pitää olla, jos ne haluavat jommankumman puolta käyttää hyväkseen, niin niiden pitää olla pintakulussa sukellusveneen ja siinä pitää olla kansallisuuslippu päällä.[_TT_1460]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 851.6615937500001,
+      "end": 852.2522187500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 892.80284375,
+      "end": 893.08971875
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 893.7140937500001,
+      "end": 924.76409375
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:14:53,260",
+          "to": "00:14:56,440"
+        },
+        "text": "[_BEG_] Ja on luvallinen.[_TT_159]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:23,180",
+          "to": "00:15:24,560"
+        },
+        "text": "[_BEG_] Tuotuu esille.[_TT_69]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 924.76409375,
+      "end": 937.94346875
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 938.78721875,
+      "end": 1062.4978437500001
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:15:53,100",
+          "to": "00:15:57,620"
+        },
+        "text": "[_BEG_] Riippuvainen hiilivetykaupasta.[_TT_226]"
+      },
+      {
+        "timestamps": {
+          "from": "00:15:57,620",
+          "to": "00:16:00,260"
+        },
+        "text": " Se on se numero ykkönen.[_TT_358]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:00,260",
+          "to": "00:16:07,740"
+        },
+        "text": " Ja sitten tulee ajatus koillisväylän käytöstä myöhemmin meriliikenneväylänä.[_TT_732]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:07,740",
+          "to": "00:16:12,200"
+        },
+        "text": " Nyt se ei onnistu kansainvälisesti tällä hetkellä.[_TT_955]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:12,200",
+          "to": "00:16:22,300"
+        },
+        "text": " Siellä on vuonna 2021 kulki Venäjällä kauttakulkuliikennettä, kulki 86 alusta.[_TT_1460]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:23,020",
+          "to": "00:16:28,520"
+        },
+        "text": "[_BEG_] Joista 14 oli Venäjän omaa sisäistä kauttakulkua.[_TT_275]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:28,520",
+          "to": "00:16:35,520"
+        },
+        "text": " Joten se on liikenteeltään vielä varsin vaatimatonta, puhumattakaan kansainvälistä liikennettä.[_TT_625]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:35,520",
+          "to": "00:16:46,180"
+        },
+        "text": " Ja nyt tietenkin Ukraina-sodan politiikka, poliittinen tilanne, niin se vei pohjan pois sen kehittelyltä pitkäksi aikaa.[_TT_1158]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:46,180",
+          "to": "00:16:52,820"
+        },
+        "text": " Ja kolmantena on mineraalit, jotka siellä on Siberiassa.[_TT_1490]"
+      },
+      {
+        "timestamps": {
+          "from": "00:16:52,940",
+          "to": "00:17:03,260"
+        },
+        "text": "[_BEG_] Tuotetaan valtava määrä meille elintärkeitä mineraaleja, metalleja, harvinaisia metalleja.[_TT_516]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:03,260",
+          "to": "00:17:07,720"
+        },
+        "text": " Tyypillinen on esimerkiksi, heitetään tässä palladium.[_TT_739]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:07,720",
+          "to": "00:17:16,160"
+        },
+        "text": " Palladiumista 41 prosenttia maailman palladiumista tuotetaan Venäjällä.[_TT_1161]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:16,160",
+          "to": "00:17:21,620"
+        },
+        "text": " Joka on vetytalouden aivan keskeinen metalli.[_TT_1434]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:22,860",
+          "to": "00:17:28,800"
+        },
+        "text": "[_BEG_] Vetytalouden vetykehittäminen tarvitsee tätä metallia.[_TT_297]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:28,800",
+          "to": "00:17:33,740"
+        },
+        "text": " Toinen on nikkeli, jota Suomikin ostaa edelleenkin.[_TT_544]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:33,740",
+          "to": "00:17:34,600"
+        },
+        "text": " Kyllä, edelleen.[_TT_587]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:34,600",
+          "to": "00:17:35,360"
+        },
+        "text": " Edelleen.[_TT_625]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:35,360",
+          "to": "00:17:38,420"
+        },
+        "text": " Ja paljon ostaakin.[_TT_778]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:38,420",
+          "to": "00:17:42,440"
+        },
+        "text": " Ilman sitä ei meilläkään teollisuus pyöri.[_TT_979]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1059.10596875,
+      "end": 1059.5784687500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1063.13909375,
+      "end": 1124.1422187500002
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:17:42,440",
+          "to": "00:17:44,100"
+        },
+        "text": " Metalliteollisuus.[_TT_1062]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:44,100",
+          "to": "00:17:49,820"
+        },
+        "text": " Tässä on hyvin tärkeitä tekijöitä.[_TT_1348]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:49,820",
+          "to": "00:17:52,780"
+        },
+        "text": " Ja sitten on kokonaan yksi oma sektori.[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:52,780",
+          "to": "00:17:55,280"
+        },
+        "text": "[_BEG_] Sektorinsa on sotilaallinen sektori.[_TT_125]"
+      },
+      {
+        "timestamps": {
+          "from": "00:17:55,280",
+          "to": "00:18:01,160"
+        },
+        "text": " Elikkä strateginen uhkan luonti länttä kohti.[_TT_419]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:01,160",
+          "to": "00:18:10,460"
+        },
+        "text": " Se on Venäjällä, se on arktinen alue, josta se sen lyhin matka vaikuttaa Yhdysvaltoihin ja Pohjois-Amerikkaan.[_TT_884]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:10,460",
+          "to": "00:18:19,060"
+        },
+        "text": " Muutaman tunnin, valistusella ohjauksella muutama tunti vaikutus koko Yhdysvaltojen alueella.[_TT_1314]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:19,060",
+          "to": "00:18:22,620"
+        },
+        "text": " Eli se on sitten.[_TT_1492]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:22,700",
+          "to": "00:18:37,140"
+        },
+        "text": "[_BEG_] Sitten tullaan strategiseen kumppanuuteen Venäjän ja Kiinan kanssa, jolloin nyt Kiinan valististen ohjusten lentoreidit kulkevatkin arktisen alueen yli.[_TT_722]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:37,140",
+          "to": "00:18:42,860"
+        },
+        "text": " Johonka nyt sitten päästään hyvällä aasinsillulla tässä Grönlantiin.[_TT_1008]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:42,860",
+          "to": "00:18:44,940"
+        },
+        "text": " Joo, tosiaan.[_TT_1112]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1124.1422187500002,
+      "end": 1125.0028437500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1125.0028437500002,
+      "end": 1137.7603437500002
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:18:44,940",
+          "to": "00:18:48,260"
+        },
+        "text": " Niin, se tulla putkahtaa juuri tässä.[_TT_1278]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:52,620",
+          "to": "00:18:55,420"
+        },
+        "text": "[_BEG_] Hyvällä koppina, että no mites se sitten Grönlantiin.[_TT_140]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:55,420",
+          "to": "00:18:57,880"
+        },
+        "text": " Niin, siitä on ollut puhetta.[_TT_263]"
+      },
+      {
+        "timestamps": {
+          "from": "00:18:57,880",
+          "to": "00:18:58,260"
+        },
+        "text": " Joo.[_TT_282]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1137.7603437500002,
+      "end": 1165.4522187500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:18:58,260",
+          "to": "00:19:16,180"
+        },
+        "text": " Trumphan on siis, tämä ei ole siis ensimmäinen kerta nyt, kun Trump on kysynyt, pyytänyt, vaatinut Tanskalta, Tanskan pääministeriön ja Tanskan valtionhallinnolta, että mites olisi, solmitaanko diili.[_TT_1178]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:16,180",
+          "to": "00:19:18,640"
+        },
+        "text": " Me tarvitaan Grönlanti, me halutaan se oikeasti.[_TT_1301]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:18,640",
+          "to": "00:19:22,360"
+        },
+        "text": " Sitä tapahtui ensimmäisellä presidenttikaudella jo.[_TT_1487]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1163.98409375,
+      "end": 1164.00096875
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1164.00096875,
+      "end": 1166.1947187500002
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1166.1947187500002,
+      "end": 1174.7840937500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:19:26,660",
+          "to": "00:19:34,560"
+        },
+        "text": " Kyllä silleen nytkin vähän nauraskellaan, mutta vähän enemmän kauhun kangistuneena, koska hän vaikuttaa olevan tosissaan.[_TT_601]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1171.8984687500001,
+      "end": 1172.26971875
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1176.2690937500001,
+      "end": 1191.42284375
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:19:50,340",
+          "to": "00:19:51,300"
+        },
+        "text": " Pitääkö tämä paikkansa?[_TT_1438]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1191.6590937500002,
+      "end": 1239.5840937500002
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:19:51,300",
+          "to": "00:19:52,500"
+        },
+        "text": " Pitää paikkansa.[_TT_1498]"
+      },
+      {
+        "timestamps": {
+          "from": "00:19:52,500",
+          "to": "00:20:00,360"
+        },
+        "text": "[_BEG_] Ja kysymyshän on, kun katsotaan sitä karttaa, miten lähellä se on Venäjän strategisia kohteita.[_TT_393]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:00,360",
+          "to": "00:20:06,220"
+        },
+        "text": " Murmansk, Kuola, Arkangel, Siberia.[_TT_686]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:06,220",
+          "to": "00:20:09,080"
+        },
+        "text": " Se on hyvin lähelle.[_TT_829]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:09,080",
+          "to": "00:20:22,460"
+        },
+        "text": " Ja se mahdollistaa sitten, jos suoraan uhkan muodon, suoraan uhka-alueen perustan, jos sitä halutaan nostaa sitä Yhdysvaltain läsnä.[_TT_1498]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:22,460",
+          "to": "00:20:30,820"
+        },
+        "text": "[_BEG_] Siinä oloa arktisella alueella, niin se muodostaa jo hyvin selkeän tilanteen ja paikan, missä sitä voidaan harjoittaa.[_TT_418]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:30,820",
+          "to": "00:20:39,840"
+        },
+        "text": " Sitten ollaan tietysti ison kysymyksen äärellä, että nythän Trumpin vaatimukset ovat olleet maksimaaliset vaatimukset.[_TT_869]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1239.48284375,
+      "end": 1239.8540937500002
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1241.2378437500001,
+      "end": 1341.62721875
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:20:42,400",
+          "to": "00:20:51,140"
+        },
+        "text": " Kyllähän siinä pelimiehenä varmaan hän tietää, ja sitä on Yhdysvaltoissa varmasti mietitty.[_TT_1434]"
+      },
+      {
+        "timestamps": {
+          "from": "00:20:51,580",
+          "to": "00:21:06,480"
+        },
+        "text": "[_BEG_] Mikä siellä on minimi, mikä on maksimi, millä saadaan omat intressit minimillään toteutettua, ja tarvitaanko ihan aidosti koko mantereen nappaamista omaan kainaloon.[_TT_745]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:06,480",
+          "to": "00:21:16,480"
+        },
+        "text": " Se on sitten sitä, mitä siellä varmasti strategit miettivät, että miten tämä homma olisi järkevin toteuttaa.[_TT_1245]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:20,700",
+          "to": "00:21:30,840"
+        },
+        "text": "[_BEG_] Tuo Kiinan tulo tähän kuvioon nimenomaan, niin se herätti Yhdysvaltoa ja vallat.[_TT_507]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:30,840",
+          "to": "00:21:38,600"
+        },
+        "text": " Sitä on hyvä muisti meille vuodelta 2019.[_TT_895]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:38,600",
+          "to": "00:21:45,840"
+        },
+        "text": " Silloinen ulkoministeri Mike Pompeo piti tiukkasanaisen puheen Rovaniemellä.[_TT_1257]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:45,840",
+          "to": "00:21:49,840"
+        },
+        "text": " Siellä oli kansainvälistä.[_TT_1457]"
+      },
+      {
+        "timestamps": {
+          "from": "00:21:50,700",
+          "to": "00:22:07,760"
+        },
+        "text": "[_BEG_] Ja siinä hän nimenomaan otti esille Kiinan ja Venäjän strategisen kumppanuuden ja varotti, että mitä Kiina merkitsee heille.[_TT_853]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:07,760",
+          "to": "00:22:10,960"
+        },
+        "text": " Eli tämä on ollut tapetilla jo.[_TT_1013]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:10,960",
+          "to": "00:22:19,760"
+        },
+        "text": " Kiinan uhka on ollut tapetilla, ja se on myöskin otettu huomioon täällä jo 2019 ihan julkisella.[_TT_1453]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:20,700",
+          "to": "00:22:21,280"
+        },
+        "text": "[_BEG_] Tulee puheena.[_TT_29]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:21,280",
+          "to": "00:22:21,900"
+        },
+        "text": " Kyllä.[_TT_60]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1341.62721875,
+      "end": 1341.6778437500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1341.6778437500002,
+      "end": 1341.7115937500002
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1341.7115937500002,
+      "end": 1341.89721875
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1341.89721875,
+      "end": 1341.9984687500003
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1341.9984687500003,
+      "end": 1368.9647187500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:22:21,900",
+          "to": "00:22:30,960"
+        },
+        "text": " Kiinan intresseistä arktisella alueella tullaan myös varmasti puhumaan tässä jaksossa enemmän, mutta liittyen nimenomaan Grönlantiin.[_TT_513]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:30,960",
+          "to": "00:22:35,660"
+        },
+        "text": " Kiinahan on aika lähinnä kauppakumppani tai ainakin yhteistyökumppani.[_TT_748]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:35,660",
+          "to": "00:22:42,480"
+        },
+        "text": " Tekee paljon kehitystyötä Grönlannissaan liittyen infraan ja vaikka turismiinkin ja vastaavallaisiin.[_TT_1089]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:42,480",
+          "to": "00:22:47,580"
+        },
+        "text": " Kiina on ehkä kaikista ulkomaista ehkä se vaikutusvaltaisin tällä hetkellä Grönlannissa.[_TT_1344]"
+      },
+      {
+        "timestamps": {
+          "from": "00:22:47,580",
+          "to": "00:22:48,480"
+        },
+        "text": " Pitääkö tämä paikkansa?[_TT_1389]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1368.9647187500002,
+      "end": 1369.1334687500002
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1369.1334687500002,
+      "end": 1371.2428437500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:22:49,820",
+          "to": "00:22:51,100"
+        },
+        "text": "[_BEG_] Pyrki, pyrki.[_TT_64]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1370.29784375,
+      "end": 1376.2547187500002
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1371.81659375,
+      "end": 1371.9515937500003
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1376.5753437500002,
+      "end": 1448.91846875
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:23:01,940",
+          "to": "00:23:07,920"
+        },
+        "text": " Myöskin sitten olisi tehnyt varmaan lentokenttää, jonka sitten Tanska torppasi.[_TT_905]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:07,920",
+          "to": "00:23:18,500"
+        },
+        "text": " Se oli sanoihin aikoihin, kun oli tämä meille tämä Kemijärven lentokenttäajatus, jossa Kiina tarjoutui tulemaan Suomeen.[_TT_1434]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:18,500",
+          "to": "00:23:19,180"
+        },
+        "text": " Suomeen.[_TT_1468]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:19,820",
+          "to": "00:23:25,160"
+        },
+        "text": "[_BEG_] Ne kuuluivat samoihin aikoihin, samoihin aloitteisiin.[_TT_267]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:25,160",
+          "to": "00:23:33,780"
+        },
+        "text": " Kiinalla on hyvin vahva tieteellinen tulokulma.[_TT_698]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:33,780",
+          "to": "00:23:48,520"
+        },
+        "text": " Sillä on taloudellinen tulokulma, mineraalit, kauppameriliikenne, jäämeren silkkitie, jonka se on lanseerannut vuosia sitten jo, joka olisi koilisväylän.[_TT_1435]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:48,940",
+          "to": "00:23:51,280"
+        },
+        "text": "[_BEG_] Yhteistoiminnassa Venäjän kanssa.[_TT_117]"
+      },
+      {
+        "timestamps": {
+          "from": "00:23:51,280",
+          "to": "00:24:01,280"
+        },
+        "text": " Sillä on sillä tavalla intressejä ollut pitkään, mutta sen tapa hoitaa sitä, niin se ei ole hätäinen.[_TT_617]"
+      },
+      {
+        "timestamps": {
+          "from": "00:24:01,280",
+          "to": "00:24:08,840"
+        },
+        "text": " Se sitten katsoo, että meillä on mahdollisuus tulla myöhemminkin tänne alueelle.[_TT_995]"
+      },
+      {
+        "timestamps": {
+          "from": "00:24:08,840",
+          "to": "00:24:09,500"
+        },
+        "text": " Kyllä.[_TT_1028]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1428.7190937500002,
+      "end": 1428.8540937500002
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1449.2559687500002,
+      "end": 1465.9790937500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:24:09,500",
+          "to": "00:24:17,980"
+        },
+        "text": " Grönlanti kuuluu Yhdysvaltojen strategiaan aktiivisella alueella nimenomaan mineraalien suhteen.[_TT_1452]"
+      },
+      {
+        "timestamps": {
+          "from": "00:24:18,460",
+          "to": "00:24:26,080"
+        },
+        "text": "[_BEG_] Miten, mitä sotilas- tai sotastrategista merkitystä Grönlannilla voisi olla Yhdysvalloilla tässä tapauksessa?[_TT_381]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1466.19846875,
+      "end": 1537.2928437500002
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:24:26,080",
+          "to": "00:24:41,060"
+        },
+        "text": " Sillä on jo siellä nyt olemassa tukikohta, josta se pystyy ja valvoo avaruutta ja sen ohjuspuolustusjärjestelmään liittyviä teknisiä laitteita.[_TT_1130]"
+      },
+      {
+        "timestamps": {
+          "from": "00:24:41,060",
+          "to": "00:24:47,080"
+        },
+        "text": " Sitten sillä on tarve varmastikin sen meritilanteen kuvan.[_TT_1431]"
+      },
+      {
+        "timestamps": {
+          "from": "00:24:47,580",
+          "to": "00:25:00,080"
+        },
+        "text": "[_BEG_] Meritilanne kuvan ylläpitoon, ketä liikkuu, missä liikkuu sekä veden alla että veden päällä että avaruudessa.[_TT_625]"
+      },
+      {
+        "timestamps": {
+          "from": "00:25:00,080",
+          "to": "00:25:10,260"
+        },
+        "text": " Eli sillä on sillä tavalla monta omaa tulokulmaa, jota se haluaa sinne kehittää.[_TT_1134]"
+      },
+      {
+        "timestamps": {
+          "from": "00:25:10,260",
+          "to": "00:25:15,840"
+        },
+        "text": " Ja Grönlanti sijaintinsa puolesta sopii siihen, se on lähellä napaa.[_TT_1413]"
+      },
+      {
+        "timestamps": {
+          "from": "00:25:17,100",
+          "to": "00:25:22,540"
+        },
+        "text": "[_BEG_] Ja niin kuin jo puhuttiin, että se on lähellä Venäjän strategisia kohteita.[_TT_272]"
+      },
+      {
+        "timestamps": {
+          "from": "00:25:22,540",
+          "to": "00:25:37,240"
+        },
+        "text": " Eli siellä on hyvin houkuttelevia mahdollisuuksia laittaa uusia tukikohtia ja entisiä kehitellä.[_TT_1007]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1537.9678437500002,
+      "end": 1555.90596875
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:25:37,240",
+          "to": "00:25:41,020"
+        },
+        "text": " Mitä ajattelet tästä tavasta neuvotella Grönlanti itselleen?[_TT_1196]"
+      },
+      {
+        "timestamps": {
+          "from": "00:25:41,020",
+          "to": "00:25:46,540"
+        },
+        "text": " Että lähdetään vaatimaan ja pidetään tulikyvän katkunen puhelu, ainakin väitetysti tulikyvän katkunen puhelu.[_TT_1472]"
+      },
+      {
+        "timestamps": {
+          "from": "00:25:46,620",
+          "to": "00:25:50,340"
+        },
+        "text": "[_BEG_] Mette Fredriksenin kanssa ja ynnä muuta.[_TT_186]"
+      },
+      {
+        "timestamps": {
+          "from": "00:25:50,340",
+          "to": "00:25:54,760"
+        },
+        "text": " Olisiko tässä muita vaihtoehtoja tai onko tämä pelimiehen veto?[_TT_407]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1555.90596875,
+      "end": 1555.92284375
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1555.92284375,
+      "end": 1555.93971875
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1555.93971875,
+      "end": 1560.00659375
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1558.9097187500001,
+      "end": 1560.5128437500002
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1560.5128437500002,
+      "end": 1582.93971875
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:26:08,300",
+          "to": "00:26:14,380"
+        },
+        "text": " Mutta kyllähän tässä on tyypillinen Panaman kanava.[_TT_1388]"
+      },
+      {
+        "timestamps": {
+          "from": "00:26:16,140",
+          "to": "00:26:22,760"
+        },
+        "text": "[_BEG_] Että Grönlanti tämmöisenä maksimaalisina heittoina.[_TT_331]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1582.93971875,
+      "end": 1583.2940937500002
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1583.2940937500002,
+      "end": 1624.28346875
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:26:22,760",
+          "to": "00:26:27,220"
+        },
+        "text": " Halutaan maksimaalinen lähtökohta neuvotteluille.[_TT_554]"
+      },
+      {
+        "timestamps": {
+          "from": "00:26:27,220",
+          "to": "00:26:34,100"
+        },
+        "text": " Ja sitten katsotaan, että mikä on sitten se järkevin tapa, miten se voidaan hoitaa.[_TT_898]"
+      },
+      {
+        "timestamps": {
+          "from": "00:26:34,100",
+          "to": "00:26:38,260"
+        },
+        "text": " Se on myöskin tietysti kustannuskysymys myöskin Yhdysvalloille.[_TT_1106]"
+      },
+      {
+        "timestamps": {
+          "from": "00:26:38,260",
+          "to": "00:26:44,000"
+        },
+        "text": " Että ei se ole halpa operaatio tulla Grönlantiin.[_TT_1393]"
+      },
+      {
+        "timestamps": {
+          "from": "00:26:44,000",
+          "to": "00:26:46,100"
+        },
+        "text": " Ei se ole tuota...[_TT_1498]"
+      },
+      {
+        "timestamps": {
+          "from": "00:26:46,140",
+          "to": "00:26:55,300"
+        },
+        "text": "[_BEG_] Kyllä siinä taskulle mennään ja isolle taskulle mennään, ennen kuin se sitten on järkevässä koossa ja järkevästi tehty.[_TT_458]"
+      },
+      {
+        "timestamps": {
+          "from": "00:26:55,300",
+          "to": "00:27:04,180"
+        },
+        "text": " Että tässä voi olla, nyt ollaan vielä enemmän spekulaation puolella, että mihinkä se liittyy.[_TT_902]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1624.28346875,
+      "end": 1624.3678437500002
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1624.3678437500002,
+      "end": 1624.40159375
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1624.40159375,
+      "end": 1624.4522187500002
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1625.4309687500001,
+      "end": 1647.7228437500003
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:27:15,660",
+          "to": "00:27:17,940"
+        },
+        "text": "[_BEG_] Jussi Latvala Kauppareitti.[_TT_114]"
+      },
+      {
+        "timestamps": {
+          "from": "00:27:17,940",
+          "to": "00:27:21,660"
+        },
+        "text": " Jussi Latvala Kauppareitti on yksi tietenkin hyviä.[_TT_300]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1647.87471875,
+      "end": 1648.33034375
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1648.33034375,
+      "end": 1717.6022187500002
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:27:30,980",
+          "to": "00:27:38,660"
+        },
+        "text": " Ja arktisilla alueilla on Kiina ja Venäjä strateginen kumppanuus ja sen torppaaminen.[_TT_1150]"
+      },
+      {
+        "timestamps": {
+          "from": "00:27:38,660",
+          "to": "00:27:45,660"
+        },
+        "text": " Eli tässä tavallaan niin kuin keihään kärjet osoittaa kiinni.[_TT_1500]"
+      },
+      {
+        "timestamps": {
+          "from": "00:27:45,660",
+          "to": "00:27:49,740"
+        },
+        "text": "[_BEG_] Ja Venäjää.[_TT_204]"
+      },
+      {
+        "timestamps": {
+          "from": "00:27:49,740",
+          "to": "00:28:03,760"
+        },
+        "text": " Ja nyt sitten ajankohta on vielä tässä, että Ukrainan sodan lopettamisesta on nyt selvästi entistä enemmän painetta.[_TT_905]"
+      },
+      {
+        "timestamps": {
+          "from": "00:28:03,760",
+          "to": "00:28:15,640"
+        },
+        "text": " Halutaanko näitä kahta elementtiä, jäämertä ja Panamaa, käyttää Ukrainan sodan lopettamisen väliin?[_TT_1499]"
+      },
+      {
+        "timestamps": {
+          "from": "00:28:15,660",
+          "to": "00:28:17,220"
+        },
+        "text": "[_BEG_] Välineenä, kauppavälineenä.[_TT_78]"
+      },
+      {
+        "timestamps": {
+          "from": "00:28:17,220",
+          "to": "00:28:37,560"
+        },
+        "text": " Ja tässä sen verran avaan sitä ajatustani, että olisiko Grönlannissa, tulisiko semmoinen vastine Venäjälle, että luovutatte Ukrainan, luovutte Ukrainasta ja me luovumme Grönlannin miehittämisestä.[_TT_1095]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1717.90596875,
+      "end": 1718.2265937500001
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1718.6990937500002,
+      "end": 1743.3534687500003
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:28:45,660",
+          "to": "00:29:02,840"
+        },
+        "text": "[_BEG_] Eli käytetäänkö näitä, nyt puhutaan isojen valtioiden, supervaltioiden ajatuksista, joita on vaikea kuvitellakaan edes täällä pikku maan pomona, niin mitä ne miettii?[_TT_859]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1743.08346875,
+      "end": 1743.38721875
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1743.38721875,
+      "end": 1756.4315937500003
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:29:02,840",
+          "to": "00:29:15,640"
+        },
+        "text": " Ne isoja virtoja miettii, että ne on semmoisia piirteitä, joista me emme tiedä, mutta voi yksi, kaksi putkahtaa.[_TT_1499]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1756.60034375,
+      "end": 1777.2890937500001
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:29:15,660",
+          "to": "00:29:32,960"
+        },
+        "text": "[_BEG_] Kyllä. Mä haluan mennä pohjoismäen ja erityisesti Suomeen vielä tässä ihan pian, mutta haluaisin kysyä vielä suoraan Kiinasta, koska on ehkä monelle yllättävää, että Kiina on näinkin vaikutusvaltainen arktisella alueella.[_TT_865]"
+      },
+      {
+        "timestamps": {
+          "from": "00:29:32,960",
+          "to": "00:29:36,660"
+        },
+        "text": " Kiinahan ei ole arktinen valtio maantieteellisesti.[_TT_1050]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1776.0740937500002,
+      "end": 1799.0072187500002
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:29:36,660",
+          "to": "00:29:44,000"
+        },
+        "text": " Joo, Kiina ei kuulu arktiseen neuvostoon, jos muutaman sanan siitä arktisesta neuvostosta tässä vaiheessa.[_TT_1417]"
+      },
+      {
+        "timestamps": {
+          "from": "00:29:45,660",
+          "to": "00:29:58,480"
+        },
+        "text": "[_BEG_] Arktisen neuvoston pysyvät jäsenet on kahdeksan plus sitten on kuusi jäsentä, alkuperäiskansan ja jäsentä, joilla on myöskin päätösvaltaa.[_TT_641]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1782.8072187500002,
+      "end": 1782.9759687500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1799.20971875,
+      "end": 1807.78221875
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:29:58,480",
+          "to": "00:30:07,480"
+        },
+        "text": " Sitten on yli kolmekymmentä niin sanottua tarkkailijajäsentä, joista Kiina on yksi ja Euroopan unioni on yksi.[_TT_1091]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1808.1365937500002,
+      "end": 1808.3728437500001
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1808.64284375,
+      "end": 1875.0459687500002
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:30:15,140",
+          "to": "00:30:15,140"
+        },
+        "text": " Kiitos.[_TT_1474]"
+      },
+      {
+        "timestamps": {
+          "from": "00:30:15,660",
+          "to": "00:30:24,500"
+        },
+        "text": "[_BEG_] Että se olisi taloudellisena resurssina olisi mukana arktisessa neuvostossa, mutta näin se ei ole.[_TT_442]"
+      },
+      {
+        "timestamps": {
+          "from": "00:30:24,500",
+          "to": "00:30:37,500"
+        },
+        "text": " Ja Kiina tulee nyt sille, se on vaatinut, että se muodostetaan avoimeksi mereksi, kaikkien hyödynnettäväksi mereksi, pohjoinen jäämeri.[_TT_1092]"
+      },
+      {
+        "timestamps": {
+          "from": "00:30:37,500",
+          "to": "00:30:45,160"
+        },
+        "text": " Sillä on ollut vaatimuksia tulla sinne jo pitemmän aikaa.[_TT_1475]"
+      },
+      {
+        "timestamps": {
+          "from": "00:30:45,660",
+          "to": "00:30:54,620"
+        },
+        "text": "[_BEG_] Ja se näkee, silkki jäätie oli jo tässä puheena ja niin edelleen.[_TT_448]"
+      },
+      {
+        "timestamps": {
+          "from": "00:30:54,620",
+          "to": "00:31:13,620"
+        },
+        "text": " Sillä on myöskin satelliittijärjestelmät, joilla se haluaa, joka on GPS, siis paikantamisjärjestelmä, jolla se on, joka on yhtenä maailman käytetyistä GPS-järjestelmistä.[_TT_1398]"
+      },
+      {
+        "timestamps": {
+          "from": "00:31:13,620",
+          "to": "00:31:14,700"
+        },
+        "text": " Vaihtoehtoinen järjestelmä.[_TT_1452]"
+      },
+      {
+        "timestamps": {
+          "from": "00:31:14,700",
+          "to": "00:31:15,220"
+        },
+        "text": " Vaihtoehtoinen järjestelmä.[_TT_1478]"
+      },
+      {
+        "timestamps": {
+          "from": "00:31:15,420",
+          "to": "00:31:15,880"
+        },
+        "text": "[_BEG_] Juuri, okei.[_TT_23]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1873.88159375,
+      "end": 1875.0965937500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1875.0965937500002,
+      "end": 1875.2147187500002
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1875.2147187500002,
+      "end": 1875.72096875
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1875.72096875,
+      "end": 1878.4040937500001
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:31:15,880",
+          "to": "00:31:18,200"
+        },
+        "text": " Näille läntisille oma, se on heille omansa.[_TT_139]"
+      },
+      {
+        "timestamps": {
+          "from": "00:31:18,200",
+          "to": "00:31:18,760"
+        },
+        "text": " Okei.[_TT_167]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1875.7715937500002,
+      "end": 1878.80909375
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1878.80909375,
+      "end": 1898.08034375
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:31:18,760",
+          "to": "00:31:27,340"
+        },
+        "text": " Ja se nämä kaikki yhdessä sinne sitten halutaan olla jäämerellä mukana.[_TT_596]"
+      },
+      {
+        "timestamps": {
+          "from": "00:31:27,340",
+          "to": "00:31:38,000"
+        },
+        "text": " Sitten siellä on kalastusmahdollisuus jäämerellä, joka on erittäin tärkeä maailmantaloudellisesti tulossa, jos ja on jo.[_TT_1129]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1899.0928437500002,
+      "end": 1899.3965937500002
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1900.0209687500003,
+      "end": 1922.0090937500001
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:31:45,180",
+          "to": "00:31:51,700"
+        },
+        "text": "[_BEG_] Maailman proteiini kulutuksesta on kalaa, 17 prosenttia.[_TT_326]"
+      },
+      {
+        "timestamps": {
+          "from": "00:31:51,700",
+          "to": "00:31:59,660"
+        },
+        "text": " Ja siellä on jo valtava teollisuuden ala Norjalle, pohjoinen jäämeri.[_TT_724]"
+      },
+      {
+        "timestamps": {
+          "from": "00:31:59,660",
+          "to": "00:32:02,020"
+        },
+        "text": " Kiina haluaa tulla markkinoille.[_TT_842]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1922.4984687500003,
+      "end": 1922.7515937500002
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1923.4603437500002,
+      "end": 1927.59471875
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:32:07,220",
+          "to": "00:32:07,860"
+        },
+        "text": " Kyllä.[_TT_1134]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1927.59471875,
+      "end": 1968.11159375
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:32:07,860",
+          "to": "00:32:11,460"
+        },
+        "text": " No niin, sitten päästään omille nurkille.[_TT_1314]"
+      },
+      {
+        "timestamps": {
+          "from": "00:32:11,460",
+          "to": "00:32:14,860"
+        },
+        "text": " Mikä on Euroopan, tai ehkä pikemminkin Pohjoismailla?[_TT_1484]"
+      },
+      {
+        "timestamps": {
+          "from": "00:32:15,180",
+          "to": "00:32:29,600"
+        },
+        "text": "[_BEG_] Jos katsoo tätä karttaa, palataan taas muistisiin, niin siinä näkee Norjan rannikkoa ja sitten välillisesti Tanskan rannikkoa Grönlannin kautta siis, koska Grönlanti edelleen kuuluu perustuslaillisesti Tanskalle.[_TT_721]"
+      },
+      {
+        "timestamps": {
+          "from": "00:32:29,600",
+          "to": "00:32:41,620"
+        },
+        "text": " Mutta niin, mitkä ovat näiden valtioiden intressit arktisella, ja myös, että miten Suomi liittyy näihin, ja onko Suomella jotain ominaisia intressejä arktisella alueella?[_TT_1322]"
+      },
+      {
+        "timestamps": {
+          "from": "00:32:41,620",
+          "to": "00:32:45,100"
+        },
+        "text": " Täälläkin kuitenkin puhutaan aika usein arktisesta, vaikka meidän.[_TT_1496]"
+      },
+      {
+        "timestamps": {
+          "from": "00:32:45,180",
+          "to": "00:32:48,100"
+        },
+        "text": "[_BEG_] Sen rannikko ei kuitenkaan yllä ihan sinne asti.[_TT_146]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1968.6178437500002,
+      "end": 1976.4309687500001
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:32:48,100",
+          "to": "00:32:52,900"
+        },
+        "text": " Me emme ole jäämäräranni arktinen alue.[_TT_386]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 1976.4309687500001,
+      "end": 1976.7178437500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 1976.7178437500002,
+      "end": 2052.36846875
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:33:03,040",
+          "to": "00:33:13,060"
+        },
+        "text": " Nyt tässä täytyy muistaa, että tämä sotilaallinen puoli on kyllä meidän roolissamme tärkeä.[_TT_1394]"
+      },
+      {
+        "timestamps": {
+          "from": "00:33:13,060",
+          "to": "00:33:15,140"
+        },
+        "text": " Ja palaan.[_TT_1498]"
+      },
+      {
+        "timestamps": {
+          "from": "00:33:15,180",
+          "to": "00:33:29,600"
+        },
+        "text": "[_BEG_] Palaan siihen vallististen ohjusten torjuntajärjestelmään, josta itse asiassa myöskin kenraali Makarov oli huolissaan 2012 käydessään Suomessa,[_TT_721]"
+      },
+      {
+        "timestamps": {
+          "from": "00:33:29,600",
+          "to": "00:33:42,840"
+        },
+        "text": " ja piti esitelmän maanpuolustuskurssiyhdistyksen tilaisuudessa, ja sai sitten meillä poliittisen johtomme tylyn tuomion.[_TT_1383]"
+      },
+      {
+        "timestamps": {
+          "from": "00:33:42,840",
+          "to": "00:33:44,840"
+        },
+        "text": " Mutta he...[_TT_1483]"
+      },
+      {
+        "timestamps": {
+          "from": "00:33:45,180",
+          "to": "00:33:55,200"
+        },
+        "text": "[_BEG_] Esitti, Venäjä esitti jo silloin, että Suomi ja osa Ruotsia kuuluisi ohjusten torjuntajärjestelmässä venäläisten johtoon.[_TT_501]"
+      },
+      {
+        "timestamps": {
+          "from": "00:33:55,200",
+          "to": "00:34:12,380"
+        },
+        "text": " Se aiheutti tietysti mylläkän ja syystä kyllä, mutta Venäjä on aivan samasta syystä huolissaan ollut vallistisen ohjusten torjunnasta kuin länsi.[_TT_1360]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2052.36846875,
+      "end": 2052.68909375
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2052.68909375,
+      "end": 2086.65846875
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:34:12,380",
+          "to": "00:34:14,380"
+        },
+        "text": " Koska Pietari...[_TT_1460]"
+      },
+      {
+        "timestamps": {
+          "from": "00:34:15,180",
+          "to": "00:34:23,560"
+        },
+        "text": "[_BEG_] Ja Moskova ovat tuossa aivan nurkan takana katsottuna kauempaa.[_TT_419]"
+      },
+      {
+        "timestamps": {
+          "from": "00:34:23,560",
+          "to": "00:34:33,860"
+        },
+        "text": " Niin venäläinen kävi sanomassa, että olisi hyvä, jos Moskovasta johdettaisiin tämä ohjusten torjunta täällä Suomessakin.[_TT_934]"
+      },
+      {
+        "timestamps": {
+          "from": "00:34:33,860",
+          "to": "00:34:35,120"
+        },
+        "text": " Vau.[_TT_997]"
+      },
+      {
+        "timestamps": {
+          "from": "00:34:35,120",
+          "to": "00:34:44,120"
+        },
+        "text": " Se oli heidän miestinsä, ja osoittaa vähän sitä huolta, että ohjusten torjunta on...[_TT_1447]"
+      },
+      {
+        "timestamps": {
+          "from": "00:34:45,180",
+          "to": "00:34:46,520"
+        },
+        "text": "[_BEG_] On vaikea laji.[_TT_67]"
+      },
+      {
+        "timestamps": {
+          "from": "00:34:46,520",
+          "to": "00:34:47,340"
+        },
+        "text": " Joo.[_TT_108]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2087.1140937500004,
+      "end": 2087.43471875
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2087.43471875,
+      "end": 2117.69159375
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:34:47,340",
+          "to": "00:35:06,840"
+        },
+        "text": " Ja Suomi kuuluu siihen aseelliseen järjestelmään, koska jos ajatellaan, että ohjuksia ammutaan Murmanskista etelään.[_TT_1083]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:06,840",
+          "to": "00:35:12,640"
+        },
+        "text": " Ei ammutakaan Pohjois-Amerikkaan, vaan ammutaankin Eurooppaan.[_TT_1373]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:12,640",
+          "to": "00:35:14,640"
+        },
+        "text": " Ja ne kulkee kaikki Suomen ilmatieteen.[_TT_1473]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:15,180",
+          "to": "00:35:18,080"
+        },
+        "text": "[_BEG_] Tai Suomen yli ei ilmantilassa.[_TT_145]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2117.69159375,
+      "end": 2126.61846875
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:35:18,080",
+          "to": "00:35:19,680"
+        },
+        "text": " Murmanskista eli Kuolan niemimaasta.[_TT_225]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:19,680",
+          "to": "00:35:20,440"
+        },
+        "text": " Niin.[_TT_263]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:20,440",
+          "to": "00:35:25,860"
+        },
+        "text": " Se pikku... Nyt karttaa kaikki taas ottaa kartta esille, niin päästään näkemään, jos olette vielä epävarmoja, että mistä on kyse.[_TT_534]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:25,860",
+          "to": "00:35:27,060"
+        },
+        "text": " Joo, se on.[_TT_594]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2124.13784375,
+      "end": 2154.9178437500004
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:35:27,060",
+          "to": "00:35:29,500"
+        },
+        "text": " Siis jos lähdetään sieltä...[_TT_716]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:29,500",
+          "to": "00:35:31,900"
+        },
+        "text": " Ja mehän ampuun 360 astetta.[_TT_836]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:31,900",
+          "to": "00:35:42,240"
+        },
+        "text": " Mehän olemme jo Ukraanin sodassa nähneet, että siellä on Kuolassa oleviin tukikohtiin on kaukopommittajat tukeutuneet.[_TT_1353]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:42,240",
+          "to": "00:35:44,240"
+        },
+        "text": " Ja ne liikkuu ympäri...[_TT_1453]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:45,180",
+          "to": "00:35:46,860"
+        },
+        "text": "[_BEG_] Ympäri maailman.[_TT_84]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:46,860",
+          "to": "00:35:47,260"
+        },
+        "text": " Joo.[_TT_104]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:47,260",
+          "to": "00:35:52,260"
+        },
+        "text": " Ei Suomea, ei olla tässä niin kuin mitenkään poissuljettu.[_TT_354]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:52,260",
+          "to": "00:35:54,780"
+        },
+        "text": " Meidän täytyy ottaa se huomioon.[_TT_480]"
+      },
+      {
+        "timestamps": {
+          "from": "00:35:54,780",
+          "to": "00:35:55,580"
+        },
+        "text": " Joo.[_TT_520]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2147.0878437500005,
+      "end": 2147.12159375
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2147.12159375,
+      "end": 2147.17221875
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2155.44096875,
+      "end": 2169.7509687500005
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:35:55,580",
+          "to": "00:36:01,040"
+        },
+        "text": " Ja Venäjän näkökulmasta Kuolan niemima ja Murmansk on erittäin tärkeä aluetta.[_TT_793]"
+      },
+      {
+        "timestamps": {
+          "from": "00:36:01,040",
+          "to": "00:36:09,420"
+        },
+        "text": " Ja nyt Suomen liittyessä NATOon, tai Suomen on jo liittynyt NATOon, niin varmaan tätäkin asiaa katsotaan ihan eri tavalla.[_TT_1212]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2170.93221875,
+      "end": 2265.0272187500004
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:36:12,180",
+          "to": "00:36:14,180"
+        },
+        "text": " Kyllähän meidän liittoutuma...[_TT_1450]"
+      },
+      {
+        "timestamps": {
+          "from": "00:36:15,180",
+          "to": "00:36:29,580"
+        },
+        "text": "[_BEG_] Eli liittoutumisella NATOon oli vahva tuki, ja se heijastui hyvin selvästi esimerkiksi Yhdysvaltojen senaatin äänestyksessä.[_TT_720]"
+      },
+      {
+        "timestamps": {
+          "from": "00:36:29,580",
+          "to": "00:36:39,860"
+        },
+        "text": " 95.1. senaatti äänesti meidät poikkeuksellisen yksimielisesti NATOn puolesta.[_TT_1234]"
+      },
+      {
+        "timestamps": {
+          "from": "00:36:39,860",
+          "to": "00:36:44,860"
+        },
+        "text": " Myöskin NATO-asian käsittely Euroopassa.[_TT_1484]"
+      },
+      {
+        "timestamps": {
+          "from": "00:36:45,180",
+          "to": "00:36:47,760"
+        },
+        "text": "[_BEG_] Se meni erittäin nopeasti.[_TT_129]"
+      },
+      {
+        "timestamps": {
+          "from": "00:36:47,760",
+          "to": "00:36:54,380"
+        },
+        "text": " Suomi ja Ruotsi ovat muodostaneet Natossa reijän puolustusjärjestelmässä.[_TT_460]"
+      },
+      {
+        "timestamps": {
+          "from": "00:36:54,380",
+          "to": "00:37:00,500"
+        },
+        "text": " Ja nyt Suomen ja Ruotsin liityttyä NATOon, ne reikät ukkeutui.[_TT_766]"
+      },
+      {
+        "timestamps": {
+          "from": "00:37:00,500",
+          "to": "00:37:12,140"
+        },
+        "text": " Ja tähän liittyy nyt sitten myöskin Yhdysvaltojen kanssa tehty puolustussopimus, niin sanottu DCA-sopimus,[_TT_1348]"
+      },
+      {
+        "timestamps": {
+          "from": "00:37:12,140",
+          "to": "00:37:14,500"
+        },
+        "text": " joka on aivan...[_TT_1466]"
+      },
+      {
+        "timestamps": {
+          "from": "00:37:14,500",
+          "to": "00:37:24,780"
+        },
+        "text": "[_BEG_] Aivan oleellinen tekijä tässä samassa niin sanottuessa reikäteoriassa ja sen tukkimisessa.[_TT_514]"
+      },
+      {
+        "timestamps": {
+          "from": "00:37:24,780",
+          "to": "00:37:37,040"
+        },
+        "text": " Että se vahventaa Yhdysvaltojen otetta ja mahdollisuuksia täällä toimia täällä Pohjolassa ja arktisella alueella[_TT_1127]"
+      },
+      {
+        "timestamps": {
+          "from": "00:37:37,040",
+          "to": "00:37:43,780"
+        },
+        "text": " aivan eri tavalla kuin jos me olisimme ulkopuolella tai tämmöistä sopimusta ei olisi tehty.[_TT_1464]"
+      },
+      {
+        "timestamps": {
+          "from": "00:37:44,500",
+          "to": "00:37:45,160"
+        },
+        "text": "[_BEG_] Kyllä.[_TT_33]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2265.0272187500004,
+      "end": 2297.41034375
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:37:45,160",
+          "to": "00:37:53,140"
+        },
+        "text": " Mä kiinnostaisin vähän kuulla näistä arktisen, tai siis pohjoisen jäämeren valtasuhteista.[_TT_432]"
+      },
+      {
+        "timestamps": {
+          "from": "00:37:53,140",
+          "to": "00:37:58,880"
+        },
+        "text": " Mulla on edelleen pyöri päässä se, mitä sanoit aikaisemmin, että Venäjä hallitsee Pohjoista jäämertä.[_TT_719]"
+      },
+      {
+        "timestamps": {
+          "from": "00:37:58,880",
+          "to": "00:38:05,380"
+        },
+        "text": " Kuinka hyvä kiteytys toi on kokonaisuudessaan kaikista arktisen alueen valtasuhteista?[_TT_1044]"
+      },
+      {
+        "timestamps": {
+          "from": "00:38:05,380",
+          "to": "00:38:07,400"
+        },
+        "text": " Miltä ne tällä hetkellä näyttää?[_TT_1145]"
+      },
+      {
+        "timestamps": {
+          "from": "00:38:07,400",
+          "to": "00:38:14,480"
+        },
+        "text": " Mainitsit myös, että Kiina on tullut sinne ja Amerikkaan kiinnostaa sinne enemmän, mutta kuinka ylivoimasta Venäjän hallinta oikeasti on?[_TT_1499]"
+      },
+      {
+        "timestamps": {
+          "from": "00:38:14,500",
+          "to": "00:38:17,280"
+        },
+        "text": "[_BEG_] Ja miten tämä tilanne saattaa muuttua lähitulevaisuudessa?[_TT_139]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2298.76034375,
+      "end": 2450.6522187500004
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:38:29,000",
+          "to": "00:38:39,080"
+        },
+        "text": " sukellusveneitä, ydinsukellusveneitä, niistä ammuttavat ohjukset, pintahävittäjät ja risteilijät, niistä ammuttavat ohjukset,[_TT_1229]"
+      },
+      {
+        "timestamps": {
+          "from": "00:38:39,080",
+          "to": "00:38:42,960"
+        },
+        "text": " ilmavoimien, kaukopommittajat.[_TT_1423]"
+      },
+      {
+        "timestamps": {
+          "from": "00:38:44,500",
+          "to": "00:38:47,020"
+        },
+        "text": "[_BEG_] Ja satelliittijärjestelmät.[_TT_126]"
+      },
+      {
+        "timestamps": {
+          "from": "00:38:47,020",
+          "to": "00:38:55,340"
+        },
+        "text": " Venäjällä on vahva ote ja se on halunnut pitää sen itselleen.[_TT_542]"
+      },
+      {
+        "timestamps": {
+          "from": "00:38:55,340",
+          "to": "00:39:14,320"
+        },
+        "text": " Jos lähdetään Beringin salmesta katsomaan niin kuin länteenpäin, meille päin, niin Beringin salmen ja sen Siberian pohjoisosaan, siellä on tällainen tutkavalvontajärjestelmän, johon se on Venäjä järjestänyt sotilaallisesti.[_TT_1491]"
+      },
+      {
+        "timestamps": {
+          "from": "00:39:14,500",
+          "to": "00:39:26,900"
+        },
+        "text": "[_BEG_] Sitten tulee tukikohtaverkosto, jolla Venäjä suojaa energialähteet, hiilivetylähteet, kaasu- ja öljylähteet.[_TT_620]"
+      },
+      {
+        "timestamps": {
+          "from": "00:39:26,900",
+          "to": "00:39:39,780"
+        },
+        "text": " Se on tukikohdilla, joissa on sitten meripuolustusohjukset, rannekkopuolustusohjukset, ilmatorjuntaohjukset miehitetty niihin saariin, joita siinä ympärillä on, ja tukikohtia.[_TT_1264]"
+      },
+      {
+        "timestamps": {
+          "from": "00:39:39,780",
+          "to": "00:39:43,780"
+        },
+        "text": " Sitten tulee tämä Kuolan muurmanski.[_TT_1464]"
+      },
+      {
+        "timestamps": {
+          "from": "00:39:44,500",
+          "to": "00:40:01,400"
+        },
+        "text": "[_BEG_] Kuolan alue, jossa sitten on sille ne kaikkein tärkeimmät arsenaalit, joihin se on sitten pakannut kaikkein tärkeimmät ja parhaimmat ilmapuolustusjärjestelmänsä, hävittäjät, torjuntahävittäjät, ohjukset.[_TT_845]"
+      },
+      {
+        "timestamps": {
+          "from": "00:40:01,400",
+          "to": "00:40:11,300"
+        },
+        "text": " Se on tällä tavalla selvästi nähtävissä, että sotilaallisesti miten se on sen ryhmittänyt.[_TT_1340]"
+      },
+      {
+        "timestamps": {
+          "from": "00:40:11,300",
+          "to": "00:40:14,300"
+        },
+        "text": " Nyt kun Ukraina sotaa…[_TT_1490]"
+      },
+      {
+        "timestamps": {
+          "from": "00:40:14,500",
+          "to": "00:40:42,160"
+        },
+        "text": "[_BEG_] Niin strategiset voimat eivät ole tappioita kärsineet. Tappioita on kärsinyt. Muurmanskin alueilla on ollut maavoimat ja paljon puhuttu Alakurtin rikaati on kärsinyt tappioita Ukrainassa, mutta kaikki isot alukset, kaikki on samassa hyvässä iskussa kuin ennenkin.[_TT_1383]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2450.6522187500004,
+      "end": 2451.0065937500003
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2451.0065937500003,
+      "end": 2472.92721875
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:40:55,940",
+          "to": "00:41:12,900"
+        },
+        "text": " Eli se modernisoi hiljalleen, modernisoi koko ajan järjestelmiänsä, joka on ihan luonnollista. Siinä se ei kummempaa katastrofin poikasta ole, vaan se on suurvallan vähtökohta.[_TT_1422]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2473.21409375,
+      "end": 2481.12846875
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:41:12,900",
+          "to": "00:41:14,080"
+        },
+        "text": " Niin, kyllä.[_TT_1481]"
+      },
+      {
+        "timestamps": {
+          "from": "00:41:14,460",
+          "to": "00:41:20,860"
+        },
+        "text": "[_BEG_] Ja mihin suuntaan nämä valtasuhteet on kehittymässä, mitä ajattelet?[_TT_320]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2481.12846875,
+      "end": 2493.4303437500002
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2495.0672187500004,
+      "end": 2495.7422187500006
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2495.7422187500006,
+      "end": 2495.89409375
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2495.89409375,
+      "end": 2495.94471875
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2495.94471875,
+      "end": 2496.0290937500004
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2496.0290937500004,
+      "end": 2500.65284375
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2496.7547187500004,
+      "end": 2508.8203437500006
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:41:44,420",
+          "to": "00:41:48,800"
+        },
+        "text": "[_BEG_] Edelleen kaksi valtiota ei ole yksimielisiä.[_TT_219]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2508.78659375,
+      "end": 2512.14471875
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:41:48,800",
+          "to": "00:41:50,740"
+        },
+        "text": " Mikä alue kuuluu meille ja mikä teille?[_TT_316]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2510.7440937500005,
+      "end": 2515.5703437500006
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:41:50,740",
+          "to": "00:41:55,500"
+        },
+        "text": " Niin, mihin se raja vedetään ja kuka hyödyntää mitäkin.[_TT_554]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2512.93784375,
+      "end": 2513.49471875
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2513.49471875,
+      "end": 2513.5115937500004
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2515.5703437500006,
+      "end": 2515.65471875
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2515.65471875,
+      "end": 2515.90784375
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2515.90784375,
+      "end": 2515.9247187500005
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2515.9247187500005,
+      "end": 2515.94159375
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2515.94159375,
+      "end": 2661.2184687500003
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:41:55,500",
+          "to": "00:42:11,700"
+        },
+        "text": " Tässä kohtaa tulee tuo arktinen neuvosto minusta erinomaiseksi alustaksi, koska arktinen neuvosto antaa hyvän keskustelupohjan juuri tämän tyyppisille alukiistoille.[_TT_1364]"
+      },
+      {
+        "timestamps": {
+          "from": "00:42:14,380",
+          "to": "00:42:31,260"
+        },
+        "text": "[_BEG_] Sen puitteissa on päästykin asioissa eteenpäin. Esimerkiksi Norjan ja Neuvostoliiton välillä tehtiin sopimus, jaettiin aluetta ja poistui, kiistä poistui.[_TT_844]"
+      },
+      {
+        "timestamps": {
+          "from": "00:42:31,260",
+          "to": "00:42:40,120"
+        },
+        "text": " Tosi huipuvuoret on vielä edelleen, mutta merialue, Norjan vaaretsin meren alueella päästiin yksi mielisyyteen.[_TT_1287]"
+      },
+      {
+        "timestamps": {
+          "from": "00:42:40,120",
+          "to": "00:42:44,260"
+        },
+        "text": " Ja muutenkin sitten.[_TT_1494]"
+      },
+      {
+        "timestamps": {
+          "from": "00:42:44,380",
+          "to": "00:42:49,160"
+        },
+        "text": "[_BEG_] Se foorumi on ollut hyvä.[_TT_239]"
+      },
+      {
+        "timestamps": {
+          "from": "00:42:49,160",
+          "to": "00:43:06,160"
+        },
+        "text": " No nyt se on sitten pantu pakettiin, eli sieltä diplomaattitaso on kokoukset loppu, ja arktisen neuvoston työ tapahtuu virkamiestasolla ja etäpäätteellä.[_TT_1089]"
+      },
+      {
+        "timestamps": {
+          "from": "00:43:06,160",
+          "to": "00:43:14,120"
+        },
+        "text": " Eli taso laski, mutta kuitenkin siellä edelleen käydään keskusteluja ja neuvotteluja.[_TT_1487]"
+      },
+      {
+        "timestamps": {
+          "from": "00:43:14,340",
+          "to": "00:43:16,040"
+        },
+        "text": "[_BEG_] Jossa Venäjä on mukana.[_TT_85]"
+      },
+      {
+        "timestamps": {
+          "from": "00:43:16,040",
+          "to": "00:43:38,200"
+        },
+        "text": " Ja tätä kyllä pidän hyvänä valopilkkuna, että sitä ei kokonaan ole pantu pakettiin, vaan siellä käydään kiista-asioissa ja semmoisissa asioissa neuvotteluja, jotka edelleen meillä on avoimia, joiden kansainvälinen käsittely edellyttää.[_TT_1193]"
+      },
+      {
+        "timestamps": {
+          "from": "00:43:38,200",
+          "to": "00:43:43,820"
+        },
+        "text": " Ja siinä mielessä se on ollut hyvä foorumi.[_TT_1474]"
+      },
+      {
+        "timestamps": {
+          "from": "00:43:44,300",
+          "to": "00:44:12,020"
+        },
+        "text": "[_BEG_] Sitten siihen liittyi Suomen puolustusvoimaan komentajana oli generaali Ari Puheloinen, joka teki aloitteen, jossa nämä sotilasjohtajat, korkeat sotilasedustajat kokoontuivat kerran vuodessa tämmöiseen kokoukseen, jonka tavoitteena oli tämmöinen läpivalaisu.[_TT_1386]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2661.03284375,
+      "end": 2661.3534687500005
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2661.3028437500006,
+      "end": 2689.0284687500007
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:44:23,300",
+          "to": "00:44:44,220"
+        },
+        "text": " Pidän sitäkin kyllä nyt vähän huonona, että kyllä näitä pitäisi olla, kontaktipintoja pitäisi olla, että muutenkin, eli vaikka tietysti kauppasuhteet ja pakotteet astuu voimaan, niin kyllä siellä pitäisi olla sitten muuta tapahtumaa.[_TT_1498]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2684.9784687500005,
+      "end": 2685.90659375
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2689.0284687500007,
+      "end": 2689.51784375
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2689.51784375,
+      "end": 2694.83346875
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2695.13721875,
+      "end": 2695.49159375
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2695.49159375,
+      "end": 2699.03534375
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2700.5203437500004,
+      "end": 2785.3678437500002
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:45:14,180",
+          "to": "00:45:31,860"
+        },
+        "text": "[_BEG_] Paljon erilaisia muita raaka-aineita, jotka on tärkeitä tulevaisuuden taloudelle. Nyt jo varmasti olisi. Siellä on kaiken näköistä, siellä on nämä koilisväylä ja luoteisväylä, eli siis uusia kauppareittejä, jotka monelle maille saattaisi olla lyhyempiä kuin nämä nykyiset, saattaisi tehostaa maailmankauppaa.[_TT_884]"
+      },
+      {
+        "timestamps": {
+          "from": "00:45:31,860",
+          "to": "00:45:39,440"
+        },
+        "text": " Ja sitten myös tämä tietysti sotastrateginen puoli.[_TT_1263]"
+      },
+      {
+        "timestamps": {
+          "from": "00:45:44,140",
+          "to": "00:46:10,240"
+        },
+        "text": "[_BEG_] Maaperää positiiviselle yhteistyölle, jos vaan nämä alueet saisi jaettua hyvin ja ynnä muuta, ynnä muuta, mutta me eletään hyvin poikkeuksellista aikaa, tai jos katsotaan historiallisesti, niin ei välttämättä niin poikkeuksellista aikaa, mutta viime vuosikymmeniin verrattuna aika poikkeuksellista aikaa, että tämä yksinapainen maailmanjärjestys on murtumassa ja nämä toiset suurvallat on nostamassa päätään taas ja hankkimassa itselleen lisää vaikutusvaltaa maailmassa.[_TT_1305]"
+      },
+      {
+        "timestamps": {
+          "from": "00:46:10,240",
+          "to": "00:46:13,240"
+        },
+        "text": " Uskotko, että arktisen alueen…[_TT_1455]"
+      },
+      {
+        "timestamps": {
+          "from": "00:46:14,140",
+          "to": "00:46:24,240"
+        },
+        "text": "[_BEG_] Arktisen alueen kiistoja, näistä ei ole puhuttu, niin että nämä voidaan ratkaista jollain tavalla, tai tuleeko tämä olemaan kiistalainen alue niin pitkälle kuin nyt voidaan spekuloida?[_TT_505]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2785.3678437500002,
+      "end": 2785.48596875
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2785.48596875,
+      "end": 2785.9753437500003
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2785.9753437500003,
+      "end": 2917.1784687500003
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:46:39,240",
+          "to": "00:46:44,100"
+        },
+        "text": " Jos me ajattelemme arktisen neuvoston työskentelyä esimerkiksi, niin…[_TT_1498]"
+      },
+      {
+        "timestamps": {
+          "from": "00:46:44,100",
+          "to": "00:47:13,180"
+        },
+        "text": "[_BEG_] Niin ne prosessit, joita siellä on ollut ennen Ukrainan sotaa jo ja tätä kriisiä, niin ne etenivät ja ne etenevät vain hitaasti, että se kansainvälinen diplomatia, niin se ei ole nopeatempoista, mutta pitäisi sitä hyvänä, johon tuossa äsken jo viitattiinkin, että pitäisi olla kanavia auki ja niitä ei saisi sulkea, joka luukkua ei saisi sulkea kiinni.[_TT_1454]"
+      },
+      {
+        "timestamps": {
+          "from": "00:47:14,100",
+          "to": "00:47:24,560"
+        },
+        "text": "[_BEG_] Ja ne antaisivat sitten semmoisten mahdollisuuden viestitykselle ja purkaa pienempiäkin hiertymiä.[_TT_523]"
+      },
+      {
+        "timestamps": {
+          "from": "00:47:24,560",
+          "to": "00:47:43,600"
+        },
+        "text": " Ja jotkut esimerkiksi on merenkulkusäännökset, meillä on kansainväliset merenkulkusohjeet, joiden noudattamisesta ja kehittämisestä on kuitenkin oltava meneillään prosesseja.[_TT_1475]"
+      },
+      {
+        "timestamps": {
+          "from": "00:47:44,060",
+          "to": "00:48:11,980"
+        },
+        "text": "[_BEG_] Meillä on kalastus, johon viittasin jo tuohon pohjoisen kalatalouteen. Siellä on valtavasti resursseja ja nyt tässä viittaan vielä uudelleen tuohon Euroopan unioniin, että sen mahdollisuudet säädellä tässä kalataloutta ja kalastusmääriä, niin on annettu Euroopan unionille.[_TT_1396]"
+      },
+      {
+        "timestamps": {
+          "from": "00:48:14,020",
+          "to": "00:48:37,040"
+        },
+        "text": "[_BEG_] Pitäisi pystyä nyt sitten myöskin Venäjään päin kehittämään ja katsomaan, että se on yhteissopimuksissa. Eli siellä on paljon semmoista käytännön elämään liittyvää, jolla ei ole strategista intressiä vielä, mutta joka tarvitsee joka päivästä kanssa käyntistä.[_TT_1151]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2891.3934687500005,
+      "end": 2940.29721875
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:48:43,980",
+          "to": "00:49:00,200"
+        },
+        "text": "[_BEG_] Ihannetilanne, jota voidaan tämän tilanteen valossa pitää mahdollisena ja sellainen painajaistilanne, että kuinka pahaksi tilanne voi siellä potentiaalisesti äityä. Voidaan ottaa ihannetilanteella vaikka.[_TT_811]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 2940.78659375,
+      "end": 2964.6647187500002
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2942.35596875,
+      "end": 2942.42346875
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2964.6140937500004,
+      "end": 2965.00221875
+    },
+    "label": "SPEAKER_01",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 2964.6815937500005,
+      "end": 3017.9559687500005
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:49:43,900",
+          "to": "00:50:13,860"
+        },
+        "text": "[_BEG_] Eli neuvottelukanava ja vaikka se tapahtuisi virtuaalisesti, niin aina hyödyntää ja aina vie asioita eteenpäin ja sen ruokkiminen olisi minusta tärkeä neuvotteluyhteyttä. Ei periaatteessa pitäisi katkaista tässä suhteessa, että niin kauan kuin ei ole strategisista intresseistä kysymys, että pystytään neuvottelemaan, niin kyllä niistä pitäisi pystyä.[_TT_1498]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 3017.9559687500005,
+      "end": 3060.29534375
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:50:43,820",
+          "to": "00:51:00,140"
+        },
+        "text": "[_BEG_] Yhdysvaltojen kanssa, vaikka nyt ei liittyy sykäneihin, niin kuinka tukalaksi tämä laittaa Venäjän ja minkälaisia vastatoimia ja minkä vakavuustason vastatoimia uskot, että se saa aikaa Venäjällä?[_TT_816]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 3060.29534375,
+      "end": 3154.4072187500005
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:51:13,780",
+          "to": "00:51:43,740"
+        },
+        "text": "[_BEG_] Yhdysvaltojen kanssa, vaikka nyt ei liittyy sykäneihin, niin kuinka tukalaksi tämä laittaa Venäjän ja minkä vakavuustason vastatoimia uskot, että se saa aikaa Venäjällä?[_TT_1498]"
+      },
+      {
+        "timestamps": {
+          "from": "00:51:43,740",
+          "to": "00:52:03,680"
+        },
+        "text": "[_BEG_] Tuohon kannaksen alueelle 50 000-60 000 miestä olisi ajatuksena sijoittaa. Plus siihen sitten asetekniikka mukaan, että ei pelkästään miehet, vaan tietysti se on kokonaisuus asejärjestelmät mukaan lukien.[_TT_997]"
+      },
+      {
+        "timestamps": {
+          "from": "00:52:03,680",
+          "to": "00:52:13,680"
+        },
+        "text": " Niillähän se on jo, näitähän on Venäjä indikoinut jo, että vaikea sitten lähteä arvioimaan.[_TT_1497]"
+      },
+      {
+        "timestamps": {
+          "from": "00:52:13,740",
+          "to": "00:52:34,360"
+        },
+        "text": "[_BEG_] Tämä on Grönlannin mahdollisen sotilaallisen noston vaikutusta sitten Venäjän vastaavaan, niin sitä en uskalla tässä kyllä arvioida. Se on sitten isompien kädessä ja mietittäviä, mutta ne joutuu siihen ottamaan, kyllä ne joutuu ottamaan siihen kantaa.[_TT_1031]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 3131.0859687500006,
+      "end": 3155.6053437500004
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 3155.6053437500004,
+      "end": 3155.92596875
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 3157.0059687500006,
+      "end": 3164.1103437500005
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 3159.8915937500005,
+      "end": 3177.0703437500006
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:52:43,700",
+          "to": "00:52:56,660"
+        },
+        "text": "[_BEG_] Jussi Latvala Joo, ja sitten toinen, että pitää käyttää mielikuvitusta ensin toisen nostamiseen ja sitten mielikuvitusta toisen nostamiseen ja taas sitten uudelleen. Se ei ole hedelmällistä tässä vaiheessa.[_TT_648]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 3171.2822187500005,
+      "end": 3196.8478437500007
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:52:56,660",
+          "to": "00:53:13,220"
+        },
+        "text": " Jussi Latvala Mutta tietysti nämä kauppareitit, minulle tuli myös sellainenkin mieleen, että jos tätä aluetta hallitsee Venäjän laivasto ja Venäjän asevoimat muutenkin niin voimakkaasti, niin onko nämä turvallisia alueita kaupunkäynnillä?[_TT_1476]"
+      },
+      {
+        "timestamps": {
+          "from": "00:53:13,660",
+          "to": "00:53:16,760"
+        },
+        "text": "[_BEG_] Jussi Latvala Ei varmaan ainakaan nykylain puitteissa.[_TT_155]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 3197.4890937500004,
+      "end": 3208.8122187500003
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:53:16,760",
+          "to": "00:53:28,740"
+        },
+        "text": " Jussi Latvala Joo, siinä nyt täytyy lähestyä siitä, että miten Venäjä on reagoinut koillisväylän käyttöön esimerkiksi.[_TT_754]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 3208.8122187500003,
+      "end": 3209.1834687500004
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 3209.1834687500004,
+      "end": 3324.4903437500006
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:53:28,740",
+          "to": "00:53:42,980"
+        },
+        "text": " Ja koillisväylän käyttöön, niin Venäjä, siinä on turvajärjestelmä Venäjällä, joka jo nojautuu kauppameren liikenteen turvajärjestelmään on olemassa.[_TT_1466]"
+      },
+      {
+        "timestamps": {
+          "from": "00:53:43,620",
+          "to": "00:53:58,100"
+        },
+        "text": "[_BEG_] Tosin ehkä harva. Siellä on jäämurtajalaivasto, joka auttaa jäämurtajia. Tarvitaan myöskin kesäaikaan, että se ei ole vielä niin sulaa, että siellä noin vaan kuljettaisiin.[_TT_724]"
+      },
+      {
+        "timestamps": {
+          "from": "00:54:13,580",
+          "to": "00:54:26,380"
+        },
+        "text": "[_BEG_] Ja se tarvitsee kesälläkin jäämurtajaapua. Kaiken tämmöisen järjestelmään siellä on jo periaatteessa olemassa aiheet.[_TT_640]"
+      },
+      {
+        "timestamps": {
+          "from": "00:54:26,380",
+          "to": "00:54:42,640"
+        },
+        "text": " Luoteisväylä on ongelmallisempi, koska sieltä puuttuu satamaverkosto. Siellä ei ole kauppameriliikenteen tarvitsemia välisataamia.[_TT_1453]"
+      },
+      {
+        "timestamps": {
+          "from": "00:54:43,540",
+          "to": "00:55:01,980"
+        },
+        "text": "[_BEG_] Luoteisväylän, ne on pieniä. Ne on näiden kanadalaisten pienten asutuskeskusten pieniä satamia ja niihin nojautuminen edellyttää, kokoisen meriliikenteen uudelleen kehittäminen edellyttää erilaista, kokonaan erilaista infraa.[_TT_922]"
+      },
+      {
+        "timestamps": {
+          "from": "00:55:01,980",
+          "to": "00:55:11,760"
+        },
+        "text": " Kun nämä saadaan niin kuntoon, niin kyllä silloin maailmassa on jo sitten tapahtunut paljon.[_TT_1411]"
+      },
+      {
+        "timestamps": {
+          "from": "00:55:13,500",
+          "to": "00:55:24,580"
+        },
+        "text": "[_BEG_] Kaupallinen hyödyntäminen, mineraalit ja kaivostoiminta, niiden kehittäminen lähtee sitten eri tavalla kokonaan liikkeelle.[_TT_554]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 3325.58721875,
+      "end": 3352.72221875
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:55:37,620",
+          "to": "00:55:43,460"
+        },
+        "text": " Toki me ollaan vielä pieni maa, eikä me olla mihinkään siirretty täältä, mutta me ollaan –[_TT_1498]"
+      },
+      {
+        "timestamps": {
+          "from": "00:55:43,460",
+          "to": "00:55:51,940"
+        },
+        "text": "[_BEG_] osa hieman isompaa peliä tällä hetkellä. Miten sä näet Suomen tulevaisuuden, näin ylipäätään sekä arktisella, mutta myös laajemminkin?[_TT_424]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 3352.72221875,
+      "end": 3390.6572187500005
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:55:51,940",
+          "to": "00:56:12,460"
+        },
+        "text": " Laajemminkin. Arktista on tässä jo kolattu, mutta laajemminkin pidän sitä hyvänä. Olen jossain sanonut, että meillä on hyviksen valkoinen hattu päässä, joka merkitsee, että meidät on otettu vastaan maailmalla, otetaan vastaan maailmalla.[_TT_1450]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 3390.55596875,
+      "end": 3390.80909375
+    },
+    "label": "SPEAKER_02",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 3390.80909375,
+      "end": 3566.9334687500004
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:56:43,380",
+          "to": "00:57:11,880"
+        },
+        "text": "[_BEG_] Toinen, että me olemme sitten liittoutuneet Pohjoismaiden kanssa vahvasti, muodostamme vahvan sotilaallisen voiman tänne ja niitä sitten on käyty täällä harjoittelemassa Iso-Britannian johdolla, Yhdysvaltojen johdolla, meidän Ruotsin Suomen johdolla harjoitella, on tehty laajoja harjoitteluja, harjoituksia.[_TT_1425]"
+      },
+      {
+        "timestamps": {
+          "from": "00:57:13,340",
+          "to": "00:57:28,600"
+        },
+        "text": "[_BEG_] Se antaa meille sotilaallisen hyvän statuksen, jos näin voi sanoa, hoitaa asioitamme ja ennen kaikkea meillä asevelvollisuus ja asevelvollinen armeija on kyllä, se on yksi aivan keskeinen.[_TT_763]"
+      },
+      {
+        "timestamps": {
+          "from": "00:57:43,300",
+          "to": "00:58:07,260"
+        },
+        "text": "[_BEG_] Maailmanjärjestyksen, sääntöpohjaisen maailmanjärjestyksen puolesta puhuja YK, Ety, EU, vahvoja kantoja on otettu siellä ja se kaiku näkyy ja se näkyy, se on nyt, jos ajatellaan Yhdysvaltoihin päin, niin se on näkynyt meille Bidenin hallinnon aikana nopeana NATO-käsittelynä.[_TT_1198]"
+      },
+      {
+        "timestamps": {
+          "from": "00:58:13,260",
+          "to": "00:58:43,220"
+        },
+        "text": "[_BEG_] Trumpin hallitusta, niin siellä uunituore haastattelu tammikuun yhdeksäneltä päivältä oli ulkoministeri Marko Rubion haastattelu televisiossa Yhdysvalloissa ja siellä hän sanoi, käytti esimerkkinä Suomea, että tällaisia maita, NATO tarvitsee, me tarvitsemme tämmöisiä maita, joissa, jotka tekee aseita,[_TT_1498]"
+      },
+      {
+        "timestamps": {
+          "from": "00:58:43,220",
+          "to": "00:59:03,080"
+        },
+        "text": "[_BEG_] jotka tuovat lisäarvoa ja siinä haastattelussa oli sitten yksi merkittävä piirre, ihan viimeinen virke siinä oli, että tällaisia tarvittaisiin tai voiko näitä käyttää jopa Indo-Pasifisella alueella.[_TT_993]"
+      },
+      {
+        "timestamps": {
+          "from": "00:59:13,180",
+          "to": "00:59:26,980"
+        },
+        "text": "[_BEG_] Nämä ovat semmoisia merkkejä, että ainakaan meitä ei ole hetken aikaa pois potkimassa järjestelmistä, että katsotaan, että me tuomme lisäarvoa maailman rauhalle ja toiminnalle.[_TT_690]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 3567.1865937500006,
+      "end": 3576.0290937500004
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 3576.0290937500004,
+      "end": 3576.36659375
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 3576.36659375,
+      "end": 3577.93596875
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 3576.78846875,
+      "end": 3614.0147187500006
+    },
+    "label": "SPEAKER_03",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "00:59:43,140",
+          "to": "01:00:11,840"
+        },
+        "text": "[_BEG_] Se on ollut jo hetken aikaa vireillä erityisesti Japaniin, että NATO perustaisi tukikohdan tai komentopaikan Japaniin. Se on ollut jo vuosia luettavissa lehdistä, eli kyllä tämän tasoista keskustelua siellä varmasti käydään hyvinkin uuden maailmanjärjestyksen mukanaan Tuomin eväin.[_TT_1435]"
+      }
+    ]
+  },
+  {
+    "turn": {
+      "start": 3614.0147187500006,
+      "end": 3616.25909375
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 3616.25909375,
+      "end": 3616.37721875
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 3616.37721875,
+      "end": 3622.9753437500003
+    },
+    "label": "SPEAKER_00",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 3622.9753437500003,
+      "end": 3623.02596875
+    },
+    "label": "SPEAKER_03",
+    "utterances": []
+  },
+  {
+    "turn": {
+      "start": 3623.02596875,
+      "end": 3639.34409375
+    },
+    "label": "SPEAKER_00",
+    "utterances": [
+      {
+        "timestamps": {
+          "from": "01:00:22,120",
+          "to": "01:00:24,160"
+        },
+        "text": " Kiitoksia, paljon iloja ja kunniaa.[_TT_553]"
+      },
+      {
+        "timestamps": {
+          "from": "01:00:24,160",
+          "to": "01:00:33,460"
+        },
+        "text": " Kiitos katsojille, että kuuntelitte seurasta loppuun asti. Nähdään ensi jaksossa. Muistakaa tilata, tykätä ja kommentoida, jos jaksoja teette ajatuksia. Nähdään. Moi moi.[_TT_1018]"
+      }
+    ]
+  }
+]
