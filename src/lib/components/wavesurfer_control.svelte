@@ -18,20 +18,20 @@
 
 	// let's check that we have the right variable
 	const wavesurfer_audio_id = data.data.audioId;
-	console.log('/// ');
-	console.log('/// ');
-	console.log('/// ');
-	console.log('/// ');
+	// console.log('/// ');
+	// console.log('/// ');
+	// console.log('/// ');
+	// console.log('/// ');
 
-	console.log('wavesurfer_audio_id is:', wavesurfer_audio_id);
+	// console.log('wavesurfer_audio_id is:', wavesurfer_audio_id);
 	// console.log("wavesurfer waveform looks like :", bbcAudiowf)
 
-	console.log('wavesurfer.svelte / audiowave.version', bbcAudiowf.version);
-	console.log('wavesurfer.svelte / audiowave.channels', bbcAudiowf.channels);
-	console.log('wavesurfer.svelte / audiowave.sample_rate', bbcAudiowf.sample_rate);
-	console.log('wavesurfer.svelte / audiowave.samples_per_pixel', bbcAudiowf.samples_per_pixel);
-	console.log('wavesurfer.svelte / audiowave.bits', bbcAudiowf.bits);
-	console.log('wavesurfer.svelte / audiowave.length', bbcAudiowf.length);
+	// console.log('wavesurfer.svelte / audiowave.version', bbcAudiowf.version);
+	// console.log('wavesurfer.svelte / audiowave.channels', bbcAudiowf.channels);
+	// console.log('wavesurfer.svelte / audiowave.sample_rate', bbcAudiowf.sample_rate);
+	// console.log('wavesurfer.svelte / audiowave.samples_per_pixel', bbcAudiowf.samples_per_pixel);
+	// console.log('wavesurfer.svelte / audiowave.bits', bbcAudiowf.bits);
+	// console.log('wavesurfer.svelte / audiowave.length', bbcAudiowf.length);
 
 	async function waveform(node: any) {
 		try {
@@ -51,22 +51,16 @@
 				audioRate: 1,
 				peaks: [bbcAudiowf],
 				plugins: [],
-				fetchParams: {
-					// Force Chrome to load the entire file
-					headers: {
-						Range: 'bytes=0-'
-					}
-				}
 			});
 
 			// next debug: this
 			wavesurfer.on('timeupdate', (currentTime) => {
 				// currentPlaybackPosition = currentTime;
 				if (wavesurfer.isSeeking() && wavesurfer.isPlaying()) {
-					console.log('both true');
+					// console.log('both true');
 				}
 				if (!wavesurfer.isSeeking() && !wavesurfer.isPlaying()) {
-					console.log('both false');
+					// console.log('both false');
 				}
 				positioner.set(currentTime);
 				// console.log(currentTime)
@@ -84,7 +78,7 @@
 			// Also handle the end of the track
 			wavesurfer.on('finish', () => {
 				isPlaying = false;
-				console.log('finnished');
+				// console.log('finnished');
 			});
 			// Return a cleanup function
 			return {
@@ -106,20 +100,20 @@
 
 	export function jumpToTimestamp(seconds) {
 		if (!wavesurfer) return;
-		console.log('wavesurfer_control jumpToTimestamp');
+		// console.log('wavesurfer_control jumpToTimestamp');
 		wavesurfer.setTime(seconds);
 	}
 
 	function debugButton() {
 		if (!wavesurfer) return;
-		console.log('isSeeking', wavesurfer.isSeeking());
-		console.log('isPlaying', wavesurfer.isPlaying());
-		console.log('getVolume', wavesurfer.getVolume());
-		console.log('getSrc', wavesurfer.getSrc());
-		console.log('getScroll', wavesurfer.getScroll());
-		console.log('getPlaybackRate', wavesurfer.getPlaybackRate());
-		console.log('getDuration', wavesurfer.getDuration());
-		console.log('getPlaybackRate', wavesurfer.getPlaybackRate());
+		// console.log('isSeeking', wavesurfer.isSeeking());
+		// console.log('isPlaying', wavesurfer.isPlaying());
+		// console.log('getVolume', wavesurfer.getVolume());
+		// console.log('getSrc', wavesurfer.getSrc());
+		// console.log('getScroll', wavesurfer.getScroll());
+		// console.log('getPlaybackRate', wavesurfer.getPlaybackRate());
+		// console.log('getDuration', wavesurfer.getDuration());
+		// console.log('getPlaybackRate', wavesurfer.getPlaybackRate());
 	}
 
 	function handleKeydown(event) {
@@ -310,21 +304,21 @@
 	];
 
 	let thisPodcast = podcastsData.find((podcast) => podcast.podid == data.data.audioId);
-	console.log('wavesurfer.svelte / thisPodcast', thisPodcast);
-	console.log('wavesurfer.svelte / thisPodcast.name', thisPodcast.name);
-	console.log('wavesurfer.svelte / thisPodcast.date', thisPodcast.date);
-	console.log('wavesurfer.svelte / thisPodcast.subject', thisPodcast.subject);
+	// console.log('wavesurfer.svelte / thisPodcast', thisPodcast);
+	// console.log('wavesurfer.svelte / thisPodcast.name', thisPodcast.name);
+	// console.log('wavesurfer.svelte / thisPodcast.date', thisPodcast.date);
+	// console.log('wavesurfer.svelte / thisPodcast.subject', thisPodcast.subject);
 
-	console.log('wavesurfer.svelte / thispodcast', thisPodcast);
+	// console.log('wavesurfer.svelte / thispodcast', thisPodcast);
 
 	// onMount(() => {
-	// 	console.log('mount lol');
+	// 	// console.log('mount lol');
 	// 	const audioElement = document.querySelector('audio');
 	// 	if (audioElement) {
 	// 		audioElement.addEventListener('loadedmetadata', () => {
-	// 			console.log("triggered")
+	// 			// console.log("triggered")
 	// 			// Initialize wavesurfer here or call a function to refresh it
-	// 			if (!wavesurfer) console.log("no wavesurfer");
+	// 			if (!wavesurfer) // console.log("no wavesurfer");
 	// 			if (wavesurfer) wavesurfer.setOptions({ dragToSeek: true });
 	// 		});
 	// 	}
