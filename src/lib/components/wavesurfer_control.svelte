@@ -9,7 +9,7 @@
 	let data = $props();
 
 	let wavesurfer: any;
-	let currentPlaybackPosition = $state(0);
+	// let currentPlaybackPosition = $state(0);
 	const positioner = getPositioner();
 
 	const bbcAudiowf = data.data.audioWave.data;
@@ -45,24 +45,26 @@
 				mediaControls: false,
 				minPxPerSec: 0.1,
 				interact: true,
-				dragToSeek: { debounceTime: 10 },
+				dragToSeek: { debounceTime: 200 },
 				autoScroll: true,
 				media: document.querySelector('audio'),
 				audioRate: 1,
 				peaks: [bbcAudiowf],
 				duration: 2340,
 				plugins: [],
-				setOptions: {
-					wrapperStyles: {
-						pointerEvents: 'auto'
-					}
-				}
 			});
 
+			// next debug: this
 			wavesurfer.on('timeupdate', (currentTime) => {
-				currentPlaybackPosition = currentTime;
+				// currentPlaybackPosition = currentTime;
+				if(wavesurfer.isSeeking() && wavesurfer.isPlaying()) {
+					console.log("both true")
+				}
+				if(!wavesurfer.isSeeking() && !wavesurfer.isPlaying()) {
+					console.log("both false")
+				}
 				positioner.set(currentTime);
-				console.log(currentTime)
+				// console.log(currentTime)
 			});
 
 			// Listen for play/pause events to update our isPlaying state
@@ -77,6 +79,7 @@
 			// Also handle the end of the track
 			wavesurfer.on('finish', () => {
 				isPlaying = false;
+				console.log("finnished")
 			});
 			// Return a cleanup function
 			return {
@@ -93,24 +96,30 @@
 
 	function togglePlayback() {
 		if (!wavesurfer) return;
-
-		if (isPlaying) {
-			wavesurfer.pause();
-		} else {
-			wavesurfer.play();
-		}
+		wavesurfer.playPause()
 	}
+
+	function debugButton() {
+		if (!wavesurfer) return;
+		console.log("isSeeking", wavesurfer.isSeeking())
+		console.log("isPlaying", wavesurfer.isPlaying())
+		console.log("getVolume", wavesurfer.getVolume())
+		console.log("getSrc", wavesurfer.getSrc())
+		console.log("getScroll", wavesurfer.getScroll())
+		console.log("getPlaybackRate", wavesurfer.getPlaybackRate())
+		console.log("getDuration", wavesurfer.getDuration())
+		console.log("getPlaybackRate", wavesurfer.getPlaybackRate())
+	}
+
+
+
 
 	function handleKeydown(event) {
 		// Space key for play/pause
 		if (event.code === 'Space' && !event.target.matches('input, textarea, [contenteditable]')) {
 			event.preventDefault(); // Prevent page scrolling
 			if (wavesurfer) {
-				if (isPlaying) {
-					wavesurfer.pause();
-				} else {
-					wavesurfer.play();
-				}
+				wavesurfer.playPause()
 			}
 		}
 	}
@@ -118,7 +127,6 @@
 	// Setup keyboard listener when component mounts
 	$effect(() => {
 		window.addEventListener('keydown', handleKeydown);
-		// wavesurfer.getWrapper().style.touchAction = 'none';
 		// Cleanup when component unmounts
 		return () => {
 			window.removeEventListener('keydown', handleKeydown);
@@ -301,18 +309,18 @@
 
 	console.log('wavesurfer.svelte / thispodcast', thisPodcast);
 
-	onMount(() => {
-		console.log('mount lol');
-		const audioElement = document.querySelector('audio');
-		if (audioElement) {
-			audioElement.addEventListener('loadedmetadata', () => {
-				console.log("triggered")
-				// Initialize wavesurfer here or call a function to refresh it
-				if (!wavesurfer) console.log("no wavesurfer");
-				if (wavesurfer) wavesurfer.setOptions({ dragToSeek: true });
-			});
-		}
-	});
+	// onMount(() => {
+	// 	console.log('mount lol');
+	// 	const audioElement = document.querySelector('audio');
+	// 	if (audioElement) {
+	// 		audioElement.addEventListener('loadedmetadata', () => {
+	// 			console.log("triggered")
+	// 			// Initialize wavesurfer here or call a function to refresh it
+	// 			if (!wavesurfer) console.log("no wavesurfer");
+	// 			if (wavesurfer) wavesurfer.setOptions({ dragToSeek: true });
+	// 		});
+	// 	}
+	// });
 
 				// Initialize wavesurfer here or call a function to refresh it
 
@@ -384,6 +392,15 @@
 			onclick={(document.querySelector('audio').playbackRate = 3)}
 		>
 			<span class="block group-active:[transform:translate3d(0,1px,0)]">3x</span></button
+		>
+		<button
+			class="group h-12 w-24 select-none rounded-lg bg-white px-3 text-lg leading-8 text-neutral-950
+  shadow-[0_-1px_0_0px_#d4d4d8_inset,0_0_0_1px_#f4f4f5_inset,0_0.5px_0_1.5px_#fff_inset]
+   hover:bg-neutral-50 hover:via-neutral-900 hover:to-neutral-800
+   active:shadow-[-1px_0px_1px_0px_#e4e4e7_inset,1px_0px_1px_0px_#e4e4e7_inset,0px_0.125rem_1px_0px_#d4d4d8_inset]"
+			onclick={(debugButton)}
+		>
+			<span class="block group-active:[transform:translate3d(0,1px,0)]">playpause</span></button
 		>
 	</div>
 </div>

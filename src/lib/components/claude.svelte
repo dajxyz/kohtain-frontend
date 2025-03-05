@@ -46,20 +46,15 @@
 				waveColor: '#1c1d1b',
 				progressColor: ['#eb9770', '#b73b43', '#610826'],
 				mediaControls: false,
-				minPxPerSec: 0.1,
+				minPxPerSec: 1,
 				interact: true,
-				dragToSeek: { debounceTime: 10 },
+				dragToSeek: { debounceTime: 0 },
 				autoScroll: true,
 				media: document.querySelector('audio'),
 				audioRate: 1,
 				peaks: [bbcAudiowf],
 				duration: 2340,
-				plugins: [],
-				setOptions: {
-					wrapperStyles: {
-						pointerEvents: 'auto'
-					}
-				}
+				plugins: []
 			});
 
 			wavesurfer.on('timeupdate', (currentTime) => {
@@ -389,6 +384,15 @@
 			onclick={(document.querySelector('audio').playbackRate = 3)}
 		>
 			<span class="block group-active:[transform:translate3d(0,1px,0)]">3x</span></button
+		>
+        <button
+			class="group h-12 w-24 select-none rounded-lg bg-white px-3 text-lg leading-8 text-neutral-950
+  shadow-[0_-1px_0_0px_#d4d4d8_inset,0_0_0_1px_#f4f4f5_inset,0_0.5px_0_1.5px_#fff_inset]
+   hover:bg-neutral-50 hover:via-neutral-900 hover:to-neutral-800
+   active:shadow-[-1px_0px_1px_0px_#e4e4e7_inset,1px_0px_1px_0px_#e4e4e7_inset,0px_0.125rem_1px_0px_#d4d4d8_inset]"
+			onclick={(wavesurfer.playPause())}
+		>
+			<span class="block group-active:[transform:translate3d(0,1px,0)]">playpause</span></button
 		>
 	</div>
 </div>
