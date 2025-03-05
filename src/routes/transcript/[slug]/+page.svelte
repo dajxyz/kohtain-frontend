@@ -8,6 +8,7 @@
 
 	const positioner = getPositioner();
 	let pos = $derived(positioner.position);
+	let wavesurfComponent;
 
 	const { data } = $props();
 
@@ -271,7 +272,7 @@
 <div class="relative">
 	<div class="sticky rounded-xl top-0 p-4
 	 z-[500] bg-neutral-100 w-full">
-		<WavesurferControl data={data}></WavesurferControl>
+		<WavesurferControl bind:this={wavesurfComponent} data={data}></WavesurferControl>
 	</div>
 
 	<div class="container mx-auto p-4">
@@ -310,7 +311,7 @@
 						<div
 						class="w-[12ch] text-center font-mono text-sm xl:w-[25ch] cursor-pointer"
 						style="color: {speaker_colours_medium[speakerTurn.speaker_id]}"
-						onclick={() => positioner.set(convertTimestampToSeconds(utterance.timestamps.from))}
+						onclick={() => wavesurfComponent.jumpToTimestamp(convertTimestampToSeconds(utterance.timestamps.from))}
 						role="button"
 						tabindex="0"
 						aria-label="Seek to {dropMilliseconds(utterance.timestamps.from)}"
