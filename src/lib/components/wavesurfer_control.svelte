@@ -49,13 +49,18 @@
 				mediaControls: false,
 				minPxPerSec: 0.1,
 				interact: true,
-				dragToSeek: true,
+				dragToSeek: { debounceTime: 1},
 				autoScroll: true,
 				media: document.querySelector('audio'),
 				audioRate: 1,
 				peaks: [bbcAudiowf],
 				duration: 2340,
-				plugins: []
+				plugins: [],
+				setOptions: {
+					wrapperStyles: {
+						pointerEvents: 'auto'
+					}
+				}
 			});
 
 			wavesurfer.on('timeupdate', (currentTime) => {

@@ -13,7 +13,7 @@
 		user: {
 			name: 'Daniel Jyllikoski',
 			email: 'daniel@jyllikoski.fi',
-			avatar: '/avatars/shadcn.jpg'
+			avatar: '/useravatars/dj.png'
 		},
 		navMain: [
 			{
