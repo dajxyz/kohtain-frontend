@@ -3,18 +3,28 @@
 	import PauseIcon from 'lucide-svelte/icons/pause';
 	import PlayIcon from 'lucide-svelte/icons/play';
 	import Button from '$lib/components/ui/button/button.svelte';
-	import { onMount } from 'svelte';
+	import * as Tooltip from "$lib/components/ui/tooltip/index.js";
+
 
 	/** @type {{ data: string }} */
 	let data = $props();
 
 	let wavesurfer: any;
-	// let currentPlaybackPosition = $state(0);
 	const positioner = getPositioner();
 
 	const bbcAudiowf = data.data.audioWave.data;
 	const audioSrc = `/audio-mp3/${data.data.audioId}.mp3`; // Define the audio source
 	let isPlaying = $state(false);
+	let currentPlaybackPosition = $state(0);
+	let audioDuration = $state(0);
+	let playbackRate = $state(1);
+
+	function formatTime(timeInSeconds: number) {
+		if (!timeInSeconds && timeInSeconds !== 0) return "0:00";
+		const minutes = Math.floor(timeInSeconds / 60);
+		const seconds = Math.floor(timeInSeconds % 60);
+		return `${minutes}:${seconds.toString().padStart(2, '0')}`;
+	}
 
 	// let's check that we have the right variable
 	const wavesurfer_audio_id = data.data.audioId;
@@ -53,16 +63,16 @@
 				plugins: [],
 			});
 
-			// next debug: this
-			wavesurfer.on('timeupdate', (currentTime) => {
-				// currentPlaybackPosition = currentTime;
-				if (wavesurfer.isSeeking() && wavesurfer.isPlaying()) {
-					// console.log('both true');
-				}
-				if (!wavesurfer.isSeeking() && !wavesurfer.isPlaying()) {
-					// console.log('both false');
-				}
+			wavesurfer.on('init', () => {
+				audioDuration = wavesurfer.getDuration();
+				console.log("this was triggered")
+				console.log(audioDuration)
+			});
+
+			wavesurfer.on('timeupdate', (currentTime: number) => {
+				currentPlaybackPosition = currentTime;
 				positioner.set(currentTime);
+				audioDuration = wavesurfer.getDuration();
 				// console.log(currentTime)
 			});
 
@@ -93,12 +103,35 @@
 		}
 	}
 
+	function skipBack(seconds = 5) {
+		if (!wavesurfer) return;
+		const newTime = Math.max(0, currentPlaybackPosition - seconds);
+		console.log("rwrw currentPlaybackPosition", currentPlaybackPosition);
+		wavesurfer.setTime(newTime);
+	}
+
+	function skipForward(seconds = 5) {
+		if (!wavesurfer) return;
+		const newTime = Math.min(audioDuration, currentPlaybackPosition + seconds);
+		console.log("skip ff audioduration", currentPlaybackPosition);
+		console.log("skip ff audioduration", audioDuration);
+		wavesurfer.setTime(newTime);
+	}
+
+
 	function togglePlayback() {
 		if (!wavesurfer) return;
 		wavesurfer.playPause();
 	}
 
-	export function jumpToTimestamp(seconds) {
+	function setSpeed(speed: number) {
+		if (!wavesurfer) return;
+		playbackRate = speed;
+		wavesurfer.setPlaybackRate(speed);
+	}
+
+
+	export function jumpToTimestamp(seconds: number) {
 		if (!wavesurfer) return;
 		// console.log('wavesurfer_control jumpToTimestamp');
 		wavesurfer.setTime(seconds);
@@ -123,6 +156,17 @@
 			if (wavesurfer) {
 				wavesurfer.playPause();
 			}
+		}
+
+		if (event.code === 'ArrowLeft' && !event.target.matches('input, textarea, [contenteditable]')) {
+			event.preventDefault();
+			skipBack(5);
+		}
+		
+		// Right arrow to skip forward
+		if (event.code === 'ArrowRight' && !event.target.matches('input, textarea, [contenteditable]')) {
+			event.preventDefault();
+			skipForward(5);
 		}
 	}
 
@@ -311,18 +355,6 @@
 
 	// console.log('wavesurfer.svelte / thispodcast', thisPodcast);
 
-	// onMount(() => {
-	// 	// console.log('mount lol');
-	// 	const audioElement = document.querySelector('audio');
-	// 	if (audioElement) {
-	// 		audioElement.addEventListener('loadedmetadata', () => {
-	// 			// console.log("triggered")
-	// 			// Initialize wavesurfer here or call a function to refresh it
-	// 			if (!wavesurfer) // console.log("no wavesurfer");
-	// 			if (wavesurfer) wavesurfer.setOptions({ dragToSeek: true });
-	// 		});
-	// 	}
-	// });
 
 	// Initialize wavesurfer here or call a function to refresh it
 </script>
@@ -332,9 +364,87 @@
 		<audio class="rounded-lg" src={audioSrc}></audio>
 	</div>
 
-	<div class="h-[50px] shrink rounded-lg bg-none" id="waveform" use:waveform></div>
-</div>
+	<div class="relative">
+		<div class="h-[80px] rounded-lg bg-slate-100" use:waveform></div>
+		
+		<!-- Time indicators -->
+		<div class="flex justify-between mt-1 text-sm text-slate-700">
+			<span>{formatTime(currentPlaybackPosition)}</span>
+			<span>{formatTime(audioDuration)}</span>
+		</div>
+	</div></div>
 <hr />
+
+<div class="flex items-center justify-between mt-2 gap-2">
+	<!-- Play/Pause Button -->
+
+				<Button 
+					variant="default" 
+					size="icon" 
+					class="h-10 w-10 bg-purple-600 hover:bg-purple-700 text-white"
+					onclick={togglePlayback}
+				>
+					{#if isPlaying}
+					<PauseIcon size={20} />
+					{:else}
+					<PlayIcon size={20} />
+					{/if}
+				</Button>
+
+	<div class="flex items-center gap-1">
+		<!-- Skip Back Button -->
+		<Tooltip.Provider>
+			<Tooltip.Root>
+				<Tooltip.Trigger>
+					<Button 
+						variant="outline" 
+						size="icon" 
+						class="h-9 w-9"
+						onclick={() => skipBack(5)}
+					>
+						rw
+					</Button>
+				</Tooltip.Trigger>
+				<Tooltip.Content>
+					<p>Rewind 5s</p>
+				</Tooltip.Content>
+			</Tooltip.Root>
+		</Tooltip.Provider>
+
+		<!-- Playback Speed Buttons -->
+		<div class="flex gap-1 mx-2">
+			{#each [1, 1.5, 2] as rate}
+				<Button 
+					variant={playbackRate === rate ? "default" : "outline"} 
+					size="sm"
+					class={playbackRate === rate ? "bg-slate-800" : ""}
+					onclick={() => setSpeed(rate)}
+				>
+					{rate}x
+				</Button>
+			{/each}
+		</div>
+
+		<!-- Skip Forward Button -->
+		<Tooltip.Provider>
+			<Tooltip.Root>
+				<Tooltip.Trigger>
+					<Button 
+						variant="outline" 
+						size="icon" 
+						class="h-9 w-9"
+						onclick={() => skipForward(15)}
+					>
+						ff
+					</Button>
+				</Tooltip.Trigger>
+				<Tooltip.Content>
+					<p>Forward 15s</p>
+				</Tooltip.Content>
+			</Tooltip.Root>
+		</Tooltip.Provider>
+	</div>
+</div>
 
 <div class="flex flex-row items-center">
 	<div class="container mx-auto mt-4 p-4 pt-0">

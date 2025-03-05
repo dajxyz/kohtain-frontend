@@ -1,6 +1,6 @@
 let position = $state(0);
 
-export function getPositioner(to: number) {
+export function getPositioner() {
 	
 	function set(to: number) {
 		position = to;
