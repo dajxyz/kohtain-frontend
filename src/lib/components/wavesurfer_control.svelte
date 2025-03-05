@@ -45,22 +45,28 @@
 				mediaControls: false,
 				minPxPerSec: 0.1,
 				interact: true,
-				dragToSeek: { debounceTime: 200 },
+				dragToSeek: { debounceTime: 100 },
 				autoScroll: true,
 				media: document.querySelector('audio'),
 				audioRate: 1,
 				peaks: [bbcAudiowf],
 				plugins: [],
+				fetchParams: {
+					// Force Chrome to load the entire file
+					headers: {
+						Range: 'bytes=0-'
+					}
+				}
 			});
 
 			// next debug: this
 			wavesurfer.on('timeupdate', (currentTime) => {
 				// currentPlaybackPosition = currentTime;
-				if(wavesurfer.isSeeking() && wavesurfer.isPlaying()) {
-					console.log("both true")
+				if (wavesurfer.isSeeking() && wavesurfer.isPlaying()) {
+					console.log('both true');
 				}
-				if(!wavesurfer.isSeeking() && !wavesurfer.isPlaying()) {
-					console.log("both false")
+				if (!wavesurfer.isSeeking() && !wavesurfer.isPlaying()) {
+					console.log('both false');
 				}
 				positioner.set(currentTime);
 				// console.log(currentTime)
@@ -78,7 +84,7 @@
 			// Also handle the end of the track
 			wavesurfer.on('finish', () => {
 				isPlaying = false;
-				console.log("finnished")
+				console.log('finnished');
 			});
 			// Return a cleanup function
 			return {
@@ -95,36 +101,33 @@
 
 	function togglePlayback() {
 		if (!wavesurfer) return;
-		wavesurfer.playPause()
+		wavesurfer.playPause();
 	}
 
 	export function jumpToTimestamp(seconds) {
 		if (!wavesurfer) return;
-		console.log("wavesurfer_control jumpToTimestamp");
-		wavesurfer.setTime(seconds)
+		console.log('wavesurfer_control jumpToTimestamp');
+		wavesurfer.setTime(seconds);
 	}
 
 	function debugButton() {
 		if (!wavesurfer) return;
-		console.log("isSeeking", wavesurfer.isSeeking())
-		console.log("isPlaying", wavesurfer.isPlaying())
-		console.log("getVolume", wavesurfer.getVolume())
-		console.log("getSrc", wavesurfer.getSrc())
-		console.log("getScroll", wavesurfer.getScroll())
-		console.log("getPlaybackRate", wavesurfer.getPlaybackRate())
-		console.log("getDuration", wavesurfer.getDuration())
-		console.log("getPlaybackRate", wavesurfer.getPlaybackRate())
+		console.log('isSeeking', wavesurfer.isSeeking());
+		console.log('isPlaying', wavesurfer.isPlaying());
+		console.log('getVolume', wavesurfer.getVolume());
+		console.log('getSrc', wavesurfer.getSrc());
+		console.log('getScroll', wavesurfer.getScroll());
+		console.log('getPlaybackRate', wavesurfer.getPlaybackRate());
+		console.log('getDuration', wavesurfer.getDuration());
+		console.log('getPlaybackRate', wavesurfer.getPlaybackRate());
 	}
-
-
-
 
 	function handleKeydown(event) {
 		// Space key for play/pause
 		if (event.code === 'Space' && !event.target.matches('input, textarea, [contenteditable]')) {
 			event.preventDefault(); // Prevent page scrolling
 			if (wavesurfer) {
-				wavesurfer.playPause()
+				wavesurfer.playPause();
 			}
 		}
 	}
@@ -327,8 +330,7 @@
 	// 	}
 	// });
 
-				// Initialize wavesurfer here or call a function to refresh it
-
+	// Initialize wavesurfer here or call a function to refresh it
 </script>
 
 <div class="flex-col gap-y-8">
@@ -336,7 +338,7 @@
 		<audio class="rounded-lg" src={audioSrc}></audio>
 	</div>
 
-	<div class="shrink rounded-lg bg-none h-[50px]" id="waveform" use:waveform></div>
+	<div class="h-[50px] shrink rounded-lg bg-none" id="waveform" use:waveform></div>
 </div>
 <hr />
 
@@ -347,7 +349,6 @@
 		<p class="text-md">{thisPodcast.subject}</p>
 	</div>
 	<div class="mt-4 flex gap-2">
-		
 		<button
 			class="group h-12 w-24 select-none rounded-lg bg-white px-3 text-center text-lg leading-8 text-neutral-950
   shadow-[0_-1px_0_0px_#d4d4d8_inset,0_0_0_1px_#f4f4f5_inset,0_0.5px_0_1.5px_#fff_inset]
@@ -398,6 +399,5 @@
 		>
 			<span class="block group-active:[transform:translate3d(0,1px,0)]">3x</span></button
 		>
-		
 	</div>
 </div>
