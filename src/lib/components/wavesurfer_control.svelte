@@ -306,13 +306,15 @@
 		const audioElement = document.querySelector('audio');
 		if (audioElement) {
 			audioElement.addEventListener('loadedmetadata', () => {
+				console.log("triggered")
 				// Initialize wavesurfer here or call a function to refresh it
+				if (!wavesurfer) console.log("no wavesurfer");
 				if (wavesurfer) wavesurfer.setOptions({ dragToSeek: true });
 			});
 		}
 	});
 
-
+				// Initialize wavesurfer here or call a function to refresh it
 
 </script>
 
@@ -321,7 +323,7 @@
 		<audio class="rounded-lg" src={audioSrc}></audio>
 	</div>
 
-	<div class="shrink rounded-lg bg-none" id="waveform" use:waveform></div>
+	<div class="shrink rounded-lg bg-none h-[50px]" id="waveform" use:waveform></div>
 </div>
 <hr />
 
@@ -332,6 +334,7 @@
 		<p class="text-md">{thisPodcast.subject}</p>
 	</div>
 	<div class="mt-4 flex gap-2">
+		
 		<button
 			class="group h-12 w-24 select-none rounded-lg bg-white px-3 text-center text-lg leading-8 text-neutral-950
   shadow-[0_-1px_0_0px_#d4d4d8_inset,0_0_0_1px_#f4f4f5_inset,0_0.5px_0_1.5px_#fff_inset]
