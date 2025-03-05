@@ -122,13 +122,13 @@
   // Setup keyboard listener when component mounts
   $effect(() => {
     window.addEventListener('keydown', handleKeydown);
-    
+	wavesurfer.getWrapper().style.touchAction = 'none';
     // Cleanup when component unmounts
     return () => {
       window.removeEventListener('keydown', handleKeydown);
     };
   });
-
+ 
 
 
 // display podcast details etc. 
@@ -329,7 +329,7 @@
 </div>
 <div class="mt-4 flex gap-2">
 	<button
-  class="group h-12 w-24 select-none rounded-lg bg-white text-center px-3 text-lg leading-8 text-neutral-950 
+  class="group h-6 w-12 select-none rounded-lg bg-white text-center px-3 text-sm leading-8 text-neutral-950 
   shadow-[0_-1px_0_0px_#d4d4d8_inset,0_0_0_1px_#f4f4f5_inset,0_0.5px_0_1.5px_#fff_inset]
    hover:bg-neutral-50 hover:via-neutral-900 hover:to-neutral-800 
    active:shadow-[-1px_0px_1px_0px_#e4e4e7_inset,1px_0px_1px_0px_#e4e4e7_inset,0px_0.125rem_1px_0px_#d4d4d8_inset]"
@@ -343,7 +343,15 @@
 		{/if}</button
 	>
 	<button
-  class="group h-12 w-24 select-none rounded-lg bg-white px-3 text-lg leading-8 text-neutral-950 
+  class="group h-6 w-12 select-none rounded-lg bg-white px-3 text-sm leading-8 text-neutral-950 
+  shadow-[0_-1px_0_0px_#d4d4d8_inset,0_0_0_1px_#f4f4f5_inset,0_0.5px_0_1.5px_#fff_inset]
+   hover:bg-neutral-50 hover:via-neutral-900 hover:to-neutral-800 
+   active:shadow-[-1px_0px_1px_0px_#e4e4e7_inset,1px_0px_1px_0px_#e4e4e7_inset,0px_0.125rem_1px_0px_#d4d4d8_inset]"
+		onclick={(document.querySelector('audio').playbackRate = 1)}>
+    <span class="block group-active:[transform:translate3d(0,1px,0)]">1x</span></button
+	>
+	<button
+  class="group h-6 w-12 select-none rounded-lg bg-white px-3 text-sm leading-8 text-neutral-950 
   shadow-[0_-1px_0_0px_#d4d4d8_inset,0_0_0_1px_#f4f4f5_inset,0_0.5px_0_1.5px_#fff_inset]
    hover:bg-neutral-50 hover:via-neutral-900 hover:to-neutral-800 
    active:shadow-[-1px_0px_1px_0px_#e4e4e7_inset,1px_0px_1px_0px_#e4e4e7_inset,0px_0.125rem_1px_0px_#d4d4d8_inset]"
@@ -351,7 +359,7 @@
     <span class="block group-active:[transform:translate3d(0,1px,0)]">1.5x</span></button
 	>
 	<button
-  class="group h-12 w-24 select-none rounded-lg bg-white px-3 text-lg leading-8 text-neutral-950 
+  class="group h-6 w-12 select-none rounded-lg bg-white px-3 text-sm leading-8 text-neutral-950 
   shadow-[0_-1px_0_0px_#d4d4d8_inset,0_0_0_1px_#f4f4f5_inset,0_0.5px_0_1.5px_#fff_inset]
    hover:bg-neutral-50 hover:via-neutral-900 hover:to-neutral-800 
    active:shadow-[-1px_0px_1px_0px_#e4e4e7_inset,1px_0px_1px_0px_#e4e4e7_inset,0px_0.125rem_1px_0px_#d4d4d8_inset]"
@@ -359,7 +367,7 @@
     <span class="block group-active:[transform:translate3d(0,1px,0)]">2x</span></button
 	>
 	<button
-  class="group h-12 w-24 select-none rounded-lg bg-white px-3 text-lg leading-8 text-neutral-950 
+  class="group h-6 w-12 select-none rounded-lg bg-white px-3 text-sm leading-8 text-neutral-950 
   shadow-[0_-1px_0_0px_#d4d4d8_inset,0_0_0_1px_#f4f4f5_inset,0_0.5px_0_1.5px_#fff_inset]
    hover:bg-neutral-50 hover:via-neutral-900 hover:to-neutral-800 
    active:shadow-[-1px_0px_1px_0px_#e4e4e7_inset,1px_0px_1px_0px_#e4e4e7_inset,0px_0.125rem_1px_0px_#d4d4d8_inset]"
@@ -367,7 +375,7 @@
     <span class="block group-active:[transform:translate3d(0,1px,0)]">2.5x</span></button
 	>
 	<button
-  class="group h-12 w-24 select-none rounded-lg bg-white px-3 text-lg leading-8 text-neutral-950 
+  class="group h-6 w-12 select-none rounded-lg bg-white px-3 text-sm leading-8 text-neutral-950 
   shadow-[0_-1px_0_0px_#d4d4d8_inset,0_0_0_1px_#f4f4f5_inset,0_0.5px_0_1.5px_#fff_inset]
    hover:bg-neutral-50 hover:via-neutral-900 hover:to-neutral-800 
    active:shadow-[-1px_0px_1px_0px_#e4e4e7_inset,1px_0px_1px_0px_#e4e4e7_inset,0px_0.125rem_1px_0px_#d4d4d8_inset]"
