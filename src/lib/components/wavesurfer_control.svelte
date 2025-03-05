@@ -50,7 +50,6 @@
 				media: document.querySelector('audio'),
 				audioRate: 1,
 				peaks: [bbcAudiowf],
-				duration: 2340,
 				plugins: [],
 			});
 
